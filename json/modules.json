@@ -1,0 +1,1635 @@
+{
+  "name": "Googlers Magisk Repo",
+  "website": "https://mmrl.dergoogler.com",
+  "support": "https://github.com/Googlers-Repo/gmr/issues",
+  "donate": "https://github.com/sponsors/DerGoogler",
+  "submission": "https://github.com/Googlers-Repo/gmr/issues/new?assignees=&labels=module&projects=&template=submission.yml&title=%5BModule%5D%3A+",
+  "cover": "https://gr.dergoogler.com/gmr/assets/cover.webp",
+  "description": "A collection of handy tools and tweaks for your Magisk-enabled Android device. If you're into customizing your phone, GMR makes it easy to find, download, and install Magisk modules that can enhance your device's functionality or add cool features.",
+  "metadata": {
+    "version": 1,
+    "timestamp": 1736012116.865757
+  },
+  "modules": [
+    {
+      "id": "TA_utl",
+      "name": "Tricky Addon - Update Target List",
+      "version": "v3.0",
+      "versionCode": 300,
+      "author": "KOWX712",
+      "description": "A WebUI to conifgure tricky store target.txt ",
+      "added": 1723905223.0,
+      "require": [
+        "tricky_store"
+      ],
+      "categories": [
+        "WebUI"
+      ],
+      "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
+      "license": " GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/README.md",
+      "note": {
+        "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
+      },
+      "verified": false,
+      "timestamp": 1735695562.0,
+      "size": 1205108,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
+        "antifeatures": [
+          "NonFreeAdd",
+          "NonFreeDep"
+        ]
+      },
+      "versions": [
+        {
+          "timestamp": 1732972101.0,
+          "version": "v2.6",
+          "versionCode": 260,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.6_260.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.6_260.md",
+          "size": 1187388
+        },
+        {
+          "timestamp": 1733565627.0,
+          "version": "v2.7",
+          "versionCode": 270,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7_270.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7_270.md",
+          "size": 1185848
+        },
+        {
+          "timestamp": 1733577682.0,
+          "version": "v2.7.1",
+          "versionCode": 271,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7.1_271.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7.1_271.md",
+          "size": 1185982
+        },
+        {
+          "timestamp": 1734163760.0,
+          "version": "v2.8",
+          "versionCode": 280,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.8_280.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.8_280.md",
+          "size": 1187881
+        },
+        {
+          "timestamp": 1735116131.0,
+          "version": "v2.9",
+          "versionCode": 290,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.9_290.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.9_290.md",
+          "size": 1198627
+        },
+        {
+          "timestamp": 1735695562.0,
+          "version": "v3.0",
+          "versionCode": 300,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.0_300.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.0_300.md",
+          "size": 1205108
+        }
+      ]
+    },
+    {
+      "id": "acp",
+      "name": "Audio Compatibility Patch",
+      "version": "v2.5",
+      "versionCode": 39,
+      "author": "zackptg5, ahrion, John Fawkes",
+      "description": "Fixes music and streaming apps (Spotify, Pandora, etc) that aren't processing audio effects for various equalizer applications through the modification of audio policy",
+      "added": 1445340430.7142262,
+      "categories": [
+        "Audio Enhancements",
+        "Advanced Audio Mods",
+        "App Additions and Features"
+      ],
+      "support": "https://github.com/Magisk-Modules-Repo/acp/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/acp/master/README.md",
+      "require": [
+        "aml"
+      ],
+      "verified": false,
+      "timestamp": 1643646579.0,
+      "size": 3796149,
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/Magisk-Modules-Repo/acp.git",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1643646579.0,
+          "version": "v2.5",
+          "versionCode": 39,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/acp/v2.5_39.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "adb-ndk",
+      "name": "ADB & Fastboot for Android NDK",
+      "version": "1.0.41",
+      "versionCode": 104114,
+      "author": "osm0sis & Surge1223 @ xda-developers",
+      "description": "Static arm/arm64 adb and fastboot binaries for Android built with the NDK",
+      "added": 1445340430.7142262,
+      "categories": [
+        "System"
+      ],
+      "donate": "https://github.com/sponsors/osm0sis",
+      "support": "https://github.com/Magisk-Modules-Repo/adb-ndk/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
+      "verified": false,
+      "timestamp": 1698679366.0,
+      "size": 5300707,
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/Magisk-Modules-Repo/adb-ndk",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1698679366.0,
+          "version": "1.0.41",
+          "versionCode": 104114,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/adb-ndk/1.0.41_104114.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "aml",
+      "name": "Audio Modification Library",
+      "version": "v5.1",
+      "versionCode": 59,
+      "author": "zackptg5, ahrion",
+      "description": "AudModLib is a framework that allows the seamless integration of multiple audio mods in Magisk.",
+      "added": 1445340430.7142262,
+      "categories": [
+        "Audio Enhancements",
+        "Advanced Audio Mods",
+        "App Additions and Features"
+      ],
+      "support": "https://github.com/Zackptg5/Audio-Modification-Library/issues",
+      "readme": "https://raw.githubusercontent.com/Zackptg5/Audio-Modification-Library/master/README.md",
+      "require": [
+        "acp"
+      ],
+      "verified": false,
+      "timestamp": 1690235714.0,
+      "size": 23941,
+      "features": {
+        "service": true,
+        "post_fs_data": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/Zackptg5/Audio-Modification-Library.git",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1690235714.0,
+          "version": "v5.1",
+          "versionCode": 59,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v5.1_59.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1690235714.0,
+          "version": "7.4.2",
+          "versionCode": 742,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/7.4.2_742.zip",
+          "changelog": "",
+          "size": 23941
+        },
+        {
+          "timestamp": 1690235714.0,
+          "version": "v1.5.7",
+          "versionCode": 1507,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v1.5.7_1507.zip",
+          "changelog": "",
+          "size": 23941
+        },
+        {
+          "timestamp": 1690235714.0,
+          "version": "v1.1.4",
+          "versionCode": 10104,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/aml/v1.1.4_10104.zip",
+          "changelog": "",
+          "size": 23941
+        }
+      ]
+    },
+    {
+      "id": "amtsmagisk",
+      "name": "AntiAMTS for Magisk",
+      "version": "1.2.5",
+      "versionCode": 125,
+      "author": "Der_Googler & Sierra Community",
+      "description": "AntiAMTS ist ein kostenloser AdBlocker, der von SierraDevoplers bereitgestellt wird.",
+      "added": 1445340430.7142262,
+      "categories": [
+        "Privacy Enhancements",
+        "Adblocking and Hosts Files"
+      ],
+      "icon": "https://i0.wp.com/sierra-dev.de/wp-content/uploads/2021/03/amtslogo.png?zoom=3&resize=150%2C150&ssl=1",
+      "support": "https://github.com/Googlers-Repo/AntiAMTS-Magisk/issues",
+      "cover": "https://sierra-dev.de/wp-content/uploads/2022/06/AMTS-Blocker-Website-Vorlage-1.svg",
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/AntiAMTS-Magisk/master/README.md",
+      "verified": false,
+      "timestamp": 1703239411.0,
+      "size": 5180,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/Googlers-Repo/AntiAMTS-Magisk.git",
+        "antifeatures": [
+          "Tracking",
+          "NoSourceSince"
+        ]
+      },
+      "versions": [
+        {
+          "timestamp": 1703239411.0,
+          "version": "1.2.5",
+          "versionCode": 125,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/amtsmagisk/1.2.5_125.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1703239411.0,
+          "version": "v2021.11.3",
+          "versionCode": 202111030,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/amtsmagisk/v2021.11.3_202111030.zip",
+          "changelog": "",
+          "size": 5180
+        }
+      ]
+    },
+    {
+      "id": "android_enhancer",
+      "name": "Android Enhancer",
+      "version": "v1.4.0",
+      "versionCode": 15,
+      "author": "iamlooper @ github",
+      "description": "A revolutionary android optimizer.",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1730894450.0,
+      "size": 2868891,
+      "features": {
+        "service": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/iamlooper/Android-Enhancer-Module",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1730894450.0,
+          "version": "v1.4.0",
+          "versionCode": 15,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/android_enhancer/v1.4.0_15.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/android_enhancer/v1.4.0_15.md",
+          "size": 2868891
+        }
+      ]
+    },
+    {
+      "id": "bindhosts",
+      "name": "bindhosts",
+      "version": "v1.8.5",
+      "versionCode": 185,
+      "author": "xx, KOWX712",
+      "description": "Systemless hosts for Apatch, KernelSU and Magisk ",
+      "added": 1733301165.0,
+      "verified": true,
+      "timestamp": 1735904596.0,
+      "size": 31756,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1733301165.0,
+        "source": "https://github.com/backslashxx/bindhosts",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1734286463.0,
+          "version": "v1.8.0",
+          "versionCode": 180,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.0_180.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.0_180.md",
+          "size": 21682
+        },
+        {
+          "timestamp": 1734355530.0,
+          "version": "v1.8.1",
+          "versionCode": 181,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.1_181.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.1_181.md",
+          "size": 22697
+        },
+        {
+          "timestamp": 1734485428.0,
+          "version": "v1.8.2",
+          "versionCode": 182,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.2_182.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.2_182.md",
+          "size": 22922
+        },
+        {
+          "timestamp": 1735009951.0,
+          "version": "v1.8.3",
+          "versionCode": 183,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.3_183.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.3_183.md",
+          "size": 24717
+        },
+        {
+          "timestamp": 1735213472.0,
+          "version": "v1.8.4",
+          "versionCode": 184,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.4_184.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.4_184.md",
+          "size": 24785
+        },
+        {
+          "timestamp": 1735904596.0,
+          "version": "v1.8.5",
+          "versionCode": 185,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.5_185.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/bindhosts/v1.8.5_185.md",
+          "size": 31756
+        }
+      ]
+    },
+    {
+      "id": "busybox-ndk",
+      "name": "Busybox for Android NDK",
+      "version": "1.36.1",
+      "versionCode": 13614,
+      "author": "osm0sis @ xda-developers",
+      "description": "Static busybox binary for all Android architectures built with the NDK",
+      "added": 1445340430.7142262,
+      "categories": [
+        "System",
+        "Tools"
+      ],
+      "donate": "https://github.com/sponsors/osm0sis",
+      "support": "https://github.com/Magisk-Modules-Repo/busybox-ndk/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/busybox-ndk/master/README.md",
+      "verified": false,
+      "timestamp": 1699710957.0,
+      "size": 9933908,
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/Magisk-Modules-Repo/busybox-ndk",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1699710957.0,
+          "version": "1.36.1",
+          "versionCode": 13614,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/busybox-ndk/1.36.1_13614.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "ccbins",
+      "name": "Cross Compiled Binaries",
+      "version": "v12",
+      "versionCode": 17,
+      "author": "Zackptg5",
+      "description": "A growing collection of cross compiled binaries for android",
+      "added": 1706465625.561501,
+      "categories": [
+        "Miscellaneous"
+      ],
+      "support": "https://github.com/Magisk-Modules-Repo/ccbins/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/ccbins/master/README.md",
+      "note": {
+        "title": "Deprecated",
+        "message": "The module owner has achieved his module. Support is limited."
+      },
+      "verified": false,
+      "timestamp": 1711830438.0,
+      "size": 17029965,
+      "track": {
+        "type": "GIT",
+        "added": 1706465625.561501,
+        "source": "https://github.com/Magisk-Modules-Repo/ccbins.git",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1691966533.0,
+          "version": "v11",
+          "versionCode": 16,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/v11_16.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1711830438.0,
+          "version": "v12",
+          "versionCode": 17,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/ccbins/v12_17.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "cubic-adblock",
+      "name": "Cubic-AdBlock",
+      "version": "v2.32",
+      "versionCode": 2032,
+      "author": "Vaz15k",
+      "description": "A simple AdBlock based on the hosts file.",
+      "verified": true,
+      "manager": {
+        "kernelsu": {
+          "require": [
+            "systemless-hosts-KernelSU-module"
+          ]
+        },
+        "apatch": {
+          "require": [
+            "systemless-hosts-KernelSU-module"
+          ]
+        },
+        "ksunext": {
+          "require": [
+            "systemless-hosts-KernelSU-module"
+          ]
+        }
+      },
+      "categories": [
+        "Adblocking and Hosts Files"
+      ],
+      "icon": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/cubic_logo.png",
+      "support": "https://github.com/Vaz15k/Cubic-AdBlock/issues",
+      "license": "MIT",
+      "readme": "https://raw.githubusercontent.com/Vaz15k/Cubic-AdBlock/cubic/docs/README.md",
+      "added": 0,
+      "timestamp": 1733748416.063319,
+      "size": 7361481,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Vaz15k/Cubic-AdBlock",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1730724097.871354,
+          "version": "v2.27",
+          "versionCode": 2027,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.27_2027.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.27_2027.md",
+          "size": 8204408
+        },
+        {
+          "timestamp": 1731328808.412493,
+          "version": "v2.28",
+          "versionCode": 2028,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.28_2028.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.28_2028.md",
+          "size": 8098911
+        },
+        {
+          "timestamp": 1731933840.836973,
+          "version": "v2.29",
+          "versionCode": 2029,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.29_2029.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.29_2029.md",
+          "size": 8265259
+        },
+        {
+          "timestamp": 1732538612.194283,
+          "version": "v2.30",
+          "versionCode": 2030,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.30_2030.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.30_2030.md",
+          "size": 7657448
+        },
+        {
+          "timestamp": 1733143562.489192,
+          "version": "v2.31",
+          "versionCode": 2031,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.31_2031.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.31_2031.md",
+          "size": 7671702
+        },
+        {
+          "timestamp": 1733748416.063319,
+          "version": "v2.32",
+          "versionCode": 2032,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.32_2032.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/cubic-adblock/v2.32_2032.md",
+          "size": 7361481
+        }
+      ]
+    },
+    {
+      "id": "djs",
+      "name": "Daily Job Scheduler (DJS)",
+      "version": "v2021.11.3",
+      "versionCode": 202111030,
+      "author": "VR25",
+      "description": "Runs commands and scripts on boot and at HH:MM. Any root solution is supported. The installation is always \"system-less\", whether or not the system is rooted with Magisk.",
+      "added": 1445340430.7142262,
+      "categories": [
+        "Customization",
+        "Management"
+      ],
+      "support": "https://github.com/VR-25/djs/issues",
+      "readme": "https://raw.githubusercontent.com/VR-25/djs/master/README.md",
+      "verified": false,
+      "timestamp": 1639484648.0,
+      "size": 42097,
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/VR-25/djs.git",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1639484648.0,
+          "version": "v2021.11.3",
+          "versionCode": 202111030,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/djs/v2021.11.3_202111030.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "flagsecurepatcher",
+      "name": "FlagSecurePatcher",
+      "version": "r14",
+      "versionCode": 14,
+      "author": "j-hc",
+      "description": "Prevent apps from blocking and listening to your screenshots",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1725032174.0,
+      "size": 4534847,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/j-hc/FlagSecurePatcher",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1725032174.0,
+          "version": "r14",
+          "versionCode": 14,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r14_14.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/flagsecurepatcher/r14_14.md",
+          "size": 4534847
+        }
+      ]
+    },
+    {
+      "id": "gcc_on_android",
+      "name": "GCC Toolchain",
+      "version": "1.0.2",
+      "versionCode": 102,
+      "author": "Der_Googler",
+      "description": "GCC Toolchain is usable to build many things, such as native modules for Node.js",
+      "categories": [
+        "System",
+        "Coding"
+      ],
+      "icon": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/assets/icon.png",
+      "support": "https://github.com/Googlers-Repo/gcc/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/README.md",
+      "require": [
+        "mkshrc"
+      ],
+      "note": {
+        "color": "blue",
+        "title": "Beta",
+        "message": "This module is sill in it's beta, so please don't complain about bugs etc. Please be aware that this module depends on Systemless Mkshrc."
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1726310851.0,
+      "size": 39547519,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Googlers-Repo/gcc",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1705161334.0,
+          "version": "1.0.0",
+          "versionCode": 100,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.0_100.zip",
+          "changelog": "",
+          "size": 39464035
+        },
+        {
+          "timestamp": 1725903543.0,
+          "version": "1.0.1",
+          "versionCode": 101,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.1_101.zip",
+          "changelog": "",
+          "size": 39558384
+        },
+        {
+          "timestamp": 1726310851.0,
+          "version": "1.0.2",
+          "versionCode": 102,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/gcc_on_android/1.0.2_102.zip",
+          "changelog": "",
+          "size": 39547519
+        }
+      ]
+    },
+    {
+      "id": "iOS_Emoji",
+      "name": "iOS 17.4 Emoji font",
+      "version": "v17.4.1",
+      "versionCode": 17401,
+      "author": "Keinta15",
+      "description": "Systemlessly replaces emoji font with iOS 17.4 Emoji",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1726620490.0,
+      "size": 46425288,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/Keinta15/Magisk-iOS-Emoji",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1726620490.0,
+          "version": "v17.4.1",
+          "versionCode": 17401,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.1_17401.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/iOS_Emoji/v17.4.1_17401.md",
+          "size": 46425288
+        }
+      ]
+    },
+    {
+      "id": "livebootmagisk",
+      "name": "LiveBoot",
+      "version": "v3.0.3",
+      "versionCode": 30003,
+      "author": "Ali Beyaz (avalibeyaz.com/github)",
+      "description": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
+      "added": 1445340430.7142262,
+      "categories": [
+        "Boot",
+        "Boot Animation",
+        "System"
+      ],
+      "icon": "https://raw.githubusercontent.com/Chainfire/liveboot/master/liveBootAni2/src/main/res/mipmap-xxxhdpi/ic_launcher_new.png",
+      "donate": "https://patreon.com/user?u=88377368",
+      "support": "https://github.com/symbuzzer/livebootmodule/issues",
+      "license": "GPL-3.0",
+      "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
+      "verified": false,
+      "timestamp": 1726921979.0,
+      "size": 509442,
+      "features": {
+        "webroot": true,
+        "modconf": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/symbuzzer/livebootmodule",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1725516965.0,
+          "version": "v3.0.0",
+          "versionCode": 30000,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.0_30000.zip",
+          "changelog": "",
+          "size": 503799
+        },
+        {
+          "timestamp": 1725604916.0,
+          "version": "v3.0.1",
+          "versionCode": 30001,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.1_30001.zip",
+          "changelog": "",
+          "size": 504762
+        },
+        {
+          "timestamp": 1725639835.0,
+          "version": "v3.0.2",
+          "versionCode": 30002,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.2_30002.zip",
+          "changelog": "",
+          "size": 504785
+        },
+        {
+          "timestamp": 1726921979.0,
+          "version": "v3.0.3",
+          "versionCode": 30003,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.3_30003.zip",
+          "changelog": "",
+          "size": 509442
+        }
+      ]
+    },
+    {
+      "id": "magisk-wifiadb",
+      "name": "MagiskWiFiADB",
+      "version": "1.0.2",
+      "versionCode": 3,
+      "author": "mrh929",
+      "description": "A module that maintains ADB availability.",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1730019938.0,
+      "size": 7860,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1723905223.0,
+        "source": "https://github.com/mrh929/magisk-wifiadb",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1730019938.0,
+          "version": "1.0.2",
+          "versionCode": 3,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/magisk-wifiadb/1.0.2_3.zip",
+          "changelog": "",
+          "size": 7860
+        }
+      ]
+    },
+    {
+      "id": "mmrl",
+      "name": "MMRL CLI",
+      "version": "0.3.11",
+      "versionCode": 311,
+      "author": "Der_Googler",
+      "description": "MMRL Command Line Interface is a free tool to install Magisk/KernelSU modules. Build on 2024-08-18 with Rust 1.78.0.",
+      "added": 1705238797.0266,
+      "categories": [
+        "Tools",
+        "System",
+        "Configurable"
+      ],
+      "donate": "https://github.com/sponsors/DerGoogler",
+      "support": "https://github.com/DerGoogler/MMRL-CLI/issues",
+      "cover": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/CLI-Banner.png",
+      "screenshots": [
+        "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/1.png",
+        "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/2.png",
+        "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/3.png",
+        "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/assets/store_ready/4.png"
+      ],
+      "license": "MIT",
+      "readme": "https://raw.githubusercontent.com/DerGoogler/MMRL-CLI/master/README.md",
+      "verified": true,
+      "note": {
+        "color": "yellow",
+        "title": "Attention",
+        "message": "The initial install of MMRL-CLI should be through your root manager. This module is not required above MMRL V3"
+      },
+      "timestamp": 1723992385.0,
+      "size": 5405160,
+      "features": {
+        "modconf": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1705238797.0266,
+        "source": "https://github.com/DerGoogler/MMRL-CLI",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1719660291.0,
+          "version": "0.3.8",
+          "versionCode": 38,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.8_38.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.8_38.md"
+        },
+        {
+          "timestamp": 1722341496.0,
+          "version": "0.3.10",
+          "versionCode": 310,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.10_310.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.10_310.md",
+          "size": 5405131
+        },
+        {
+          "timestamp": 1723992385.0,
+          "version": "0.3.11",
+          "versionCode": 311,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.11_311.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/mmrl/0.3.11_311.md",
+          "size": 5405160
+        }
+      ]
+    },
+    {
+      "id": "mmrl_wpd",
+      "name": "WiFi Password Viewer for MMRL",
+      "version": "4.7.7",
+      "versionCode": 459,
+      "author": "Der_Googler, veez21 @ xda-developers",
+      "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
+      "added": 1445340430.7142262,
+      "categories": [
+        "WebUI",
+        "Tweaks and Hacks",
+        "Miscellaneous"
+      ],
+      "support": "https://github.com/Googlers-Repo/wpd/issues",
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
+      "verified": true,
+      "screenshots": [
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.jpg",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.jpg",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/3.jpg",
+        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.jpg"
+      ],
+      "timestamp": 1735764644.0,
+      "size": 462291,
+      "features": {
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/Googlers-Repo/wpd.git",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1733334173.0,
+          "version": "4.5.4",
+          "versionCode": 454,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.5.4_454.zip",
+          "changelog": "",
+          "size": 87500
+        },
+        {
+          "timestamp": 1733339350.0,
+          "version": "4.5.5",
+          "versionCode": 455,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.5.5_455.zip",
+          "changelog": "",
+          "size": 87501
+        },
+        {
+          "timestamp": 1733340991.0,
+          "version": "4.5.6",
+          "versionCode": 456,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.5.6_456.zip",
+          "changelog": "",
+          "size": 91185
+        },
+        {
+          "timestamp": 1733498607.0,
+          "version": "4.6.6",
+          "versionCode": 457,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.6.6_457.zip",
+          "changelog": "",
+          "size": 462090
+        },
+        {
+          "timestamp": 1734279568.0,
+          "version": "4.7.6",
+          "versionCode": 458,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.7.6_458.zip",
+          "changelog": "",
+          "size": 462318
+        },
+        {
+          "timestamp": 1735764644.0,
+          "version": "4.7.7",
+          "versionCode": 459,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/mmrl_wpd/4.7.7_459.zip",
+          "changelog": "",
+          "size": 462291
+        }
+      ]
+    },
+    {
+      "id": "nano-ndk",
+      "name": "Nano for Android NDK",
+      "version": "8.2",
+      "versionCode": 8200,
+      "author": "osm0sis @ xda-developers",
+      "description": "Static arm/arm64 nano binary for Android built with the NDK",
+      "added": 1445340430.7142262,
+      "categories": [
+        "System"
+      ],
+      "donate": "https://github.com/sponsors/osm0sis",
+      "support": "https://github.com/Magisk-Modules-Repo/nano-ndk/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/nano-ndk/master/README.md",
+      "verified": false,
+      "timestamp": 1725582337.0,
+      "size": 863157,
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/Magisk-Modules-Repo/nano-ndk",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1714745354.0,
+          "version": "8.0",
+          "versionCode": 8000,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/8.0_8000.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1721095822.0,
+          "version": "8.1",
+          "versionCode": 8100,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/8.1_8100.zip",
+          "changelog": "",
+          "size": 863317
+        },
+        {
+          "timestamp": 1725582337.0,
+          "version": "8.2",
+          "versionCode": 8200,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/8.2_8200.zip",
+          "changelog": "",
+          "size": 863157
+        },
+        {
+          "timestamp": 1725582337.0,
+          "version": "v1.1.4",
+          "versionCode": 10104,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/nano-ndk/v1.1.4_10104.zip",
+          "changelog": "",
+          "size": 863157
+        }
+      ]
+    },
+    {
+      "id": "playintegrityfix",
+      "name": "Play Integrity Fix",
+      "version": "v18.2",
+      "versionCode": 18200,
+      "author": "chiteroman",
+      "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
+      "added": 1445340430.7142262,
+      "categories": [
+        "Zygisk",
+        "Security"
+      ],
+      "donate": "https://www.paypal.com/paypalme/chiteroman",
+      "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
+      "manager": {
+        "kernelsu": {
+          "require": [
+            "zygisk-assistant"
+          ]
+        },
+        "apatch": {
+          "require": [
+            "zygisk-assistant"
+          ]
+        }
+      },
+      "verified": false,
+      "timestamp": 1735065893.0,
+      "size": 235036,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "zygisk": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/chiteroman/PlayIntegrityFix",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1727969399.0,
+          "version": "v17.7",
+          "versionCode": 17700,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.7_17700.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.7_17700.md",
+          "size": 160089
+        },
+        {
+          "timestamp": 1729686545.0,
+          "version": "v17.8",
+          "versionCode": 17800,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.8_17800.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.8_17800.md",
+          "size": 252335
+        },
+        {
+          "timestamp": 1729850344.0,
+          "version": "v17.9",
+          "versionCode": 17900,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.9_17900.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.9_17900.md",
+          "size": 252119
+        },
+        {
+          "timestamp": 1731804089.0,
+          "version": "v18.0",
+          "versionCode": 18000,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.0_18000.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.0_18000.md",
+          "size": 239964
+        },
+        {
+          "timestamp": 1734124640.0,
+          "version": "v18.1",
+          "versionCode": 18100,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.1_18100.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.1_18100.md",
+          "size": 232176
+        },
+        {
+          "timestamp": 1735065893.0,
+          "version": "v18.2",
+          "versionCode": 18200,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.2_18200.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.2_18200.md",
+          "size": 235036
+        }
+      ]
+    },
+    {
+      "id": "powershell",
+      "name": "Windows PowerShell",
+      "version": "7.4.2",
+      "versionCode": 742,
+      "author": "Der_Googler",
+      "description": "The Windows PowerShell Module is a tool that integrates PowerShell functionality into Android devices via the Magisk framework, allowing users to run PowerShell scripts and commands directly on their rooted devices.",
+      "added": 1718573490.991985,
+      "categories": [
+        "System"
+      ],
+      "donate": "https://github.com/sponsors/DerGoogler",
+      "support": "https://github.com/DerGoogler/powershell/issues",
+      "cover": "https://raw.githubusercontent.com/DerGoogler/powershell/master/assets/cover.png",
+      "readme": "https://raw.githubusercontent.com/DerGoogler/powershell/main/README.md",
+      "verified": false,
+      "timestamp": 1718574711.0,
+      "size": 535557,
+      "track": {
+        "type": "GIT",
+        "added": 1718573490.991985,
+        "source": "https://github.com/DerGoogler/powershell.git",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1718573284.0,
+          "version": "7.4.2",
+          "versionCode": 742,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/7.4.2_742.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1718574711.0,
+          "version": "v1.1.4",
+          "versionCode": 10104,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/powershell/v1.1.4_10104.zip",
+          "changelog": "",
+          "size": 535557
+        }
+      ]
+    },
+    {
+      "id": "susfs4ksu",
+      "name": "SUSFS-FOR-KERNELSU",
+      "version": "v1.4.2-R12",
+      "versionCode": 104002012,
+      "author": "sidex15 & simonpunk",
+      "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
+      "added": 1723905223,
+      "manager": {
+        "apatch": {
+          "min": -1
+        },
+        "kernelsu": {
+          "require": [
+            "bindhosts"
+          ]
+        },
+        "magisk": {
+          "min": -1
+        }
+      },
+      "verified": false,
+      "timestamp": 1735545926.0,
+      "size": 892829,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "webroot": true,
+        "post_mount": true,
+        "boot_completed": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223,
+        "source": "https://github.com/sidex15/ksu_module_susfs",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1733382594.0,
+          "version": "v1.4.2-R9",
+          "versionCode": 10400209,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.md",
+          "size": 890023
+        },
+        {
+          "timestamp": 1733654606.0,
+          "version": "v1.4.2-R10",
+          "versionCode": 104002010,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.md",
+          "size": 878077
+        },
+        {
+          "timestamp": 1734082080.0,
+          "version": "v1.4.2-R11",
+          "versionCode": 104002011,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R11_104002011.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R11_104002011.md",
+          "size": 891333
+        },
+        {
+          "timestamp": 1735545926.0,
+          "version": "v1.4.2-R12",
+          "versionCode": 104002012,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R12_104002012.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R12_104002012.md",
+          "size": 892829
+        }
+      ]
+    },
+    {
+      "id": "systemless-hosts-KernelSU-module",
+      "name": "systemless hosts KernelSU module",
+      "version": "v1.1.4",
+      "versionCode": 10104,
+      "author": "symbuzzer (avalibeyaz.com/github)",
+      "description": "Required module to use applications such as AdAway on KernelSU and APatch",
+      "added": 1445340430.7142262,
+      "categories": [
+        "Adblocking and Hosts Files",
+        "KernelSU",
+        "APatch"
+      ],
+      "support": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module/issues",
+      "readme": "https://raw.githubusercontent.com/symbuzzer/systemless-hosts-KernelSU-module/main/README.md",
+      "verified": false,
+      "timestamp": 1713278013.0,
+      "size": 24154,
+      "features": {
+        "service": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/symbuzzer/systemless-hosts-KernelSU-module",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1707677112.0,
+          "version": "v1.1.3",
+          "versionCode": 113,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.1.3_113.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1713278013.0,
+          "version": "v1.1.4",
+          "versionCode": 10104,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/systemless-hosts-KernelSU-module/v1.1.4_10104.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "tricky_store",
+      "name": "Tricky Store",
+      "version": "v1.2.0 (155-331f6fe-release)",
+      "versionCode": 155,
+      "author": "5ec1cff",
+      "description": "A trick of keystore",
+      "added": 1723905223.0,
+      "categories": [
+        "System"
+      ],
+      "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
+      "verified": false,
+      "timestamp": 1730124120.0,
+      "size": 2277483,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/5ec1cff/TrickyStore",
+        "antifeatures": [
+          "NoSourceSince"
+        ]
+      },
+      "versions": [
+        {
+          "timestamp": 1730124120.0,
+          "version": "v1.2.0 (155-331f6fe-release)",
+          "versionCode": 155,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.0_155-331f6fe-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.0_155-331f6fe-release.md",
+          "size": 2277483
+        }
+      ]
+    },
+    {
+      "id": "usb-samplerate-unlocker",
+      "name": "USB Samplerate Unlocker",
+      "version": "v1.5.7",
+      "versionCode": 1507,
+      "author": "zyhk",
+      "description": "USB (HAL) audio class drivers have a limiter of sample rates at 96kHz. This mod unlocks the limiter.",
+      "added": 1717861375.501469,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/issues",
+      "license": "AGPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker/master/README.md",
+      "verified": false,
+      "timestamp": 1729236859.0,
+      "size": 19770,
+      "features": {
+        "post_fs_data": true,
+        "resetprop": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1717861375.501469,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/usb-samplerate-unlocker.git",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1713443976.0,
+          "version": "v1.5.6",
+          "versionCode": 1506,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.6_1506.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.6_1506.md"
+        },
+        {
+          "timestamp": 1722148008.0,
+          "version": "v1.5.7",
+          "versionCode": 1507,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.7_1507.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/v1.5.7_1507.md",
+          "size": 19661
+        },
+        {
+          "timestamp": 1729236859.0,
+          "version": "8.2",
+          "versionCode": 8200,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/8.2_8200.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/usb-samplerate-unlocker/8.2_8200.md",
+          "size": 19770
+        }
+      ]
+    },
+    {
+      "id": "vbmeta-fixer",
+      "name": "VBMeta Fixer",
+      "version": "1.0.5",
+      "versionCode": 105,
+      "author": "Reveny",
+      "description": "Reset the VBMeta digest property with the correct boot hash to fix detection",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1730300984,
+      "size": 3138790,
+      "features": {
+        "service": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/reveny/Android-VBMeta-Fixer",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1730300984.0,
+          "version": "1.0.5",
+          "versionCode": 105,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.0.5_105.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.0.5_105.md",
+          "size": 3138790
+        }
+      ]
+    },
+    {
+      "id": "zipsigner",
+      "name": "Zip & ZipSigner for Android NDK",
+      "version": "3.0-13",
+      "versionCode": 301304,
+      "author": "osm0sis & topjohnwu @ xda-developers",
+      "description": "Wrapped dexed zipsigner.jar, and static arm/arm64 zip and zipalign binaries for Android built with the NDK",
+      "added": 1445340430.7142262,
+      "categories": [
+        "System"
+      ],
+      "donate": "https://github.com/sponsors/osm0sis",
+      "support": "https://github.com/Magisk-Modules-Repo/zipsigner/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/zipsigner/master/README.md",
+      "verified": false,
+      "timestamp": 1712163102.0,
+      "size": 5920487,
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/Magisk-Modules-Repo/zipsigner",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1709523749.0,
+          "version": "3.0-13",
+          "versionCode": 301303,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zipsigner/3.0-13_301303.zip",
+          "changelog": ""
+        },
+        {
+          "timestamp": 1712163102.0,
+          "version": "3.0-13",
+          "versionCode": 301304,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zipsigner/3.0-13_301304.zip",
+          "changelog": ""
+        }
+      ]
+    },
+    {
+      "id": "zygisk-assistant",
+      "name": "Zygisk Assistant",
+      "version": "v2.1.3 (7b35d36-release)",
+      "versionCode": 213,
+      "author": "snake-4",
+      "description": "A Zygisk module to hide root.",
+      "added": 1733301165.0,
+      "verified": false,
+      "timestamp": 1723905223.0,
+      "size": 396665,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "zygisk": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1733301165.0,
+        "source": "https://github.com/snake-4/Zygisk-Assistant",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1723905223.0,
+          "version": "v2.1.3 (7b35d36-release)",
+          "versionCode": 213,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.3_7b35d36-release_213.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.3_7b35d36-release_213.md",
+          "size": 396665
+        }
+      ]
+    },
+    {
+      "id": "zygisk-detach",
+      "name": "zygisk-detach",
+      "version": "v1.19.2",
+      "versionCode": 25,
+      "author": "j-hc",
+      "description": "Detaches installed apps from Play Store",
+      "added": 1716564516.209616,
+      "categories": [
+        "Magisk",
+        "KernelSU",
+        "Tools"
+      ],
+      "support": "https://github.com/j-hc/zygisk-detach/issues",
+      "license": "Apache-2.0",
+      "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
+      "require": [
+        "zygisk-assistant"
+      ],
+      "verified": false,
+      "timestamp": 1735730251.0,
+      "size": 171824,
+      "features": {
+        "post_fs_data": true,
+        "zygisk": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1716564516.209616,
+        "source": "https://github.com/j-hc/zygisk-detach",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1716371540.0,
+          "version": "v1.16.1",
+          "versionCode": 20,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.md"
+        },
+        {
+          "timestamp": 1718458010.0,
+          "version": "v1.17.0",
+          "versionCode": 21,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.17.0_21.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.17.0_21.md"
+        },
+        {
+          "timestamp": 1718898770.0,
+          "version": "v1.18.0",
+          "versionCode": 22,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.18.0_22.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.18.0_22.md"
+        },
+        {
+          "timestamp": 1735647220.0,
+          "version": "v1.19.0",
+          "versionCode": 23,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.0_23.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.0_23.md",
+          "size": 174658
+        },
+        {
+          "timestamp": 1735650872.0,
+          "version": "v1.19.1",
+          "versionCode": 24,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.1_24.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.1_24.md",
+          "size": 174665
+        },
+        {
+          "timestamp": 1735730251.0,
+          "version": "v1.19.2",
+          "versionCode": 25,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.2_25.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.2_25.md",
+          "size": 171824
+        }
+      ]
+    },
+    {
+      "id": "zygisk_lsposed",
+      "name": "Zygisk - LSPosed",
+      "version": "v1.9.2 (7024)",
+      "versionCode": 7024,
+      "author": "LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 14. Requires Magisk 24.0+ and Zygisk enabled.",
+      "require": [
+        "zygisksu"
+      ],
+      "verified": false,
+      "added": 0,
+      "size": 2462055,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/LSPosed",
+        "antifeatures": [
+          "ClosedSource"
+        ]
+      },
+      "versions": [
+        {
+          "timestamp": 1697034252.0,
+          "version": "v1.9.2 (7024)",
+          "versionCode": 7024,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk_lsposed/v1.9.2_7024.md",
+          "size": 2462055
+        }
+      ]
+    },
+    {
+      "id": "zygisksu",
+      "name": "Zygisk Next",
+      "version": "1.2.6 (485-ca2c5c0-release)",
+      "versionCode": 485,
+      "author": "5ec1cff, Nullptr",
+      "description": "Standalone implementation of Zygisk.",
+      "manager": {
+        "kernelsu": {
+          "min": 10940
+        },
+        "ksunext": {
+          "min": 10940
+        },
+        "magisk": {
+          "min": 26402
+        }
+      },
+      "verified": false,
+      "added": 0,
+      "size": 3433554,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Dr-TSNG/ZygiskNext",
+        "antifeatures": [
+          "ClosedSource"
+        ]
+      },
+      "versions": [
+        {
+          "timestamp": 1735825712.0,
+          "version": "1.2.6 (485-ca2c5c0-release)",
+          "versionCode": 485,
+          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.6_485-ca2c5c0-release.zip",
+          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisksu/1.2.6_485-ca2c5c0-release.md",
+          "size": 3433554
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "bindhosts",
+  "timestamp": 1735904596.0,
+  "versions": [
+    {
+      "timestamp": 1735904596.0,
+      "version": "v1.8.5",
+      "versionCode": 185,
+      "zipUrl": "https://example.com/modules/bindhosts/v1.8.5_185.zip",
+      "changelog": "https://example.com/modules/bindhosts/v1.8.5_185.md",
+      "size": 31756
+    }
+  ]
+}
