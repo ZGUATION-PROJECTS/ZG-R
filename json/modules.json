@@ -8,14 +8,14 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1736944494.408571
+    "timestamp": 1736965419.570213
   },
   "modules": [
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v1.8.7",
-      "versionCode": 187,
+      "version": "v1.8.8",
+      "versionCode": 188,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165,
@@ -26,16 +26,16 @@
         "KernelSU",
         "Magisk"
       ],
-      "support": "https://github.com/backslashxx/bindhosts/issues",
+      "support": "https://github.com/bindhosts/bindhosts/issues",
       "screenshots": [
-        "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
-        "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
-        "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
+        "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
       ],
       "license": "WTFPL",
-      "readme": "https://raw.githubusercontent.com/backslashxx/bindhosts/refs/heads/master/README.md",
-      "timestamp": 1736782731.0,
-      "size": 38154,
+      "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
+      "timestamp": 1736951361.0,
+      "size": 44085,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -50,20 +50,20 @@
       },
       "versions": [
         {
-          "timestamp": 1736229449.0,
-          "version": "v1.8.6",
-          "versionCode": 186,
-          "zipUrl": "https://example.com/modules/bindhosts/v1.8.6_186.zip",
-          "changelog": "https://example.com/modules/bindhosts/v1.8.6_186.md",
-          "size": 36003
-        },
-        {
           "timestamp": 1736782731.0,
           "version": "v1.8.7",
           "versionCode": 187,
           "zipUrl": "https://example.com/modules/bindhosts/v1.8.7_187.zip",
           "changelog": "https://example.com/modules/bindhosts/v1.8.7_187.md",
           "size": 38154
+        },
+        {
+          "timestamp": 1736951361.0,
+          "version": "v1.8.8",
+          "versionCode": 188,
+          "zipUrl": "https://example.com/modules/bindhosts/v1.8.8_188.zip",
+          "changelog": "https://example.com/modules/bindhosts/v1.8.8_188.md",
+          "size": 44085
         }
       ]
     },
