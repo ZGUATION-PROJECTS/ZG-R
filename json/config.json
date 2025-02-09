@@ -1,9 +1,9 @@
 {
-  "name": "Template Magisk Modules Repository",
+  "name": "ZG's Magisk Modules Repository",
   "website": null,
   "support": null,
   "donate": null,
-  "submission": null,
+  "submission": https://github.com/ZGUATION-PROJECTS/ZG-R/issues,
   "base_url": "https://example.com/",
   "description": null,
   "max_num": 2,
