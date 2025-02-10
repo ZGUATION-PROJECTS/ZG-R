@@ -1,11 +1,11 @@
 {
-  "name": "Template Magisk Modules Repository",
-  "website": null,
+  "name": "ZG's Personal Magisk Modules Repository",
+  "website": zg-repo.gitub.io,
   "support": null,
   "donate": null,
-  "submission": null,
-  "cover": "https://example.com/assets/cover.webp",
-  "description": null,
+  "submission": https://github.com/ZGUATION-PROJECTS/ZG-R/issues,
+  "cover": null,
+  "description": yet another magisk modules repo,
   "metadata": {
     "version": 1,
     "timestamp": 1738240476.64112
