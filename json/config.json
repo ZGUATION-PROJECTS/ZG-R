@@ -5,7 +5,7 @@
   "donate": "https://www.buymeacoffee.com/ZG089",
   "submission": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
   "base_url": "https://zg-repo.gitub.io",
-  "description": ZG089's Personal modules Repo,
+  "description": "ZG089's Personal modules Repo",
   "max_num": 2,
   "enable_log": true,
   "log_dir": "log"
