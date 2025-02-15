@@ -1,7 +1,7 @@
 {
   "id": "zguectG-R",
   "name": "ZG's Modules Repository",
-  "website": "https://zguation-projects.github.io/ZG-R/",
+  "website": "https://zguation-projects.github.io/ZG-R",
   "support": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
   "donate": "https://www.buymeacoffee.com/ZG089",
   "submission": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
@@ -9,9 +9,56 @@
   "description": "A repo where I store the modules I made, also including the ones I use on daily basis",
   "metadata": {
     "version": 1,
-    "timestamp": 1739630050.712877
+    "timestamp": 1739632740.016896
   },
   "modules": [
+    {
+      "id": "Re-Malwack",
+      "name": "Re-Malwack | Protection-maxxing \u007f\u007f",
+      "version": "v5.3.0",
+      "versionCode": 530,
+      "author": "ZG089 | Github & Telegram : @ZG089",
+      "description": "Protecting your device from ads, Malware, p*rn, and more :) ",
+      "categories": [
+        "Adblocking and Hosts Files",
+        "APatch",
+        "KernelSU",
+        "Magisk",
+        "Built Different",
+        "Protection"
+      ],
+      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/20240828-173916-0000-modified.png",
+      "donate": "http://buymeacoffee.com/ZG089",
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/issues",
+      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/Add-Text-11-22-12-57-45.png",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/magisk-modules-alt-repo/Re-Malwack/refs/heads/main/README.md",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1734878287.0,
+      "size": 47546,
+      "features": {
+        "service": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/ZG089/Re-Malwack",
+        "antifeatures": null
+      },
+      "versions": [
+        {
+          "timestamp": 1734878287.0,
+          "version": "v5.3.0",
+          "versionCode": 530,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v5.3.0_530.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v5.3.0_530.md",
+          "size": 47546
+        }
+      ]
+    },
     {
       "id": "bindhosts",
       "name": "bindhosts",
