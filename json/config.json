@@ -1,9 +1,9 @@
 {
   "name": "ZG's Magisk Modules Repository",
   "website": null,
-  "support": null,
-  "donate": null,
-  "submission": https://github.com/ZGUATION-PROJECTS/ZG-R/issues,
+  "support": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
+  "donate": "https://www.buymeacoffee.com/ZG089",
+  "submission": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
   "base_url": "https://zg-repo.gitub.io",
   "description": ZG089's Personal modules Repo,
   "max_num": 2,
