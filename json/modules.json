@@ -1,14 +1,15 @@
 {
-  "name": "ZG's Personal Modules Repository",
+  "id": "zguectG-R",
+  "name": "ZG's Modules Repository",
   "website": "https://zguation-projects.github.io/ZG-R/",
   "support": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
   "donate": "https://www.buymeacoffee.com/ZG089",
   "submission": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
-  "cover": "https://raw.githubusercontent.com/ZGUATION-PROJECTS/ZG-R/master/assets/cover.webp",
+  "cover": "https://zguation-projects.github.io/ZG-R/assets/cover.webp",
   "description": "A repo where I store the modules I made, also including the ones I use on daily basis",
   "metadata": {
     "version": 1,
-    "timestamp": 1738240476.64112
+    "timestamp": 1739614566.812965
   },
   "modules": [
     {
