@@ -1,3 +1,5 @@
+# Credits goes to https://github.com/misak10
+
 name: sync-build-deploy
 on:
   schedule:
