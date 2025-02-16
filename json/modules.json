@@ -9,7 +9,7 @@
   "description": "A repo where I store the modules I made, also including the ones I use on daily basis",
   "metadata": {
     "version": 1,
-    "timestamp": 1739693729.803651
+    "timestamp": 1739708735.083804
   },
   "modules": [
     {
@@ -149,8 +149,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v1.9.6",
-      "versionCode": 196,
+      "version": "v1.9.7",
+      "versionCode": 197,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165,
@@ -169,8 +169,8 @@
       ],
       "license": "WTFPL",
       "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
-      "timestamp": 1739580650.0,
-      "size": 51570,
+      "timestamp": 1739706919.0,
+      "size": 51599,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -185,20 +185,20 @@
       },
       "versions": [
         {
-          "timestamp": 1736951361.0,
-          "version": "v1.8.8",
-          "versionCode": 188,
-          "zipUrl": "https://github.com/ZGUATION-PROJECTS/ZG-R/tree/master/modules/bindhosts/v1.8.8_188.zip",
-          "changelog": "https://github.com/ZGUATION-PROJECTS/ZG-R/tree/master/modules/bindhosts/v1.8.8_188.md",
-          "size": 44085
-        },
-        {
           "timestamp": 1739580650.0,
           "version": "v1.9.6",
           "versionCode": 196,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.6_196.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.6_196.md",
           "size": 51570
+        },
+        {
+          "timestamp": 1739706919.0,
+          "version": "v1.9.7",
+          "versionCode": 197,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.7_197.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.7_197.md",
+          "size": 51599
         }
       ]
     },
