@@ -9,7 +9,7 @@
   "description": "A repo where I store the modules I made, also including the ones I use on daily basis",
   "metadata": {
     "version": 1,
-    "timestamp": 1739679321.198753
+    "timestamp": 1739684988.914053
   },
   "modules": [
     {
@@ -114,13 +114,13 @@
         "Built Different",
         "Protection"
       ],
-      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/20240828-173916-0000-modified.png",
       "donate": "http://buymeacoffee.com/ZG089",
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/issues",
-      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/Add-Text-11-22-12-57-45.png",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/magisk-modules-alt-repo/Re-Malwack/refs/heads/main/README.md",
       "verified": true,
+      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/20240828-173916-0000-modified.png",
+      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/Add-Text-11-22-12-57-45.png",
       "added": 0,
       "timestamp": 1734878287.0,
       "size": 47546,
