@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1739996105.064923
+    "timestamp": 1739998857.501591
   },
   "modules": [
     {
@@ -285,6 +285,45 @@
       ]
     },
     {
+      "id": "abootloop",
+      "name": "Anti bootloop",
+      "version": "v1.3.2",
+      "versionCode": 6,
+      "author": "nedorazrab0",
+      "description": "Bootloop protection",
+      "added": 1719067581.595615,
+      "category": "Bootloop protection",
+      "homepage": "https://github.com/Magisk-Modules-Alt-Repo/abootloop",
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/abootloop/issues",
+      "license": "MIT",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
+      "verified": true,
+      "timestamp": 1730660996.0,
+      "size": 5316,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1719067581.595615,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/abootloop.git",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/abootloop/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1730660996.0,
+          "version": "v1.3.2",
+          "versionCode": 6,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.2_6.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.2_6.md",
+          "size": 5316
+        }
+      ]
+    },
+    {
       "id": "adb-ndk",
       "name": "ADB & Fastboot for Android NDK",
       "version": "1.0.41",
@@ -373,6 +412,37 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.7_197.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.7_197.md",
           "size": 51599
+        }
+      ]
+    },
+    {
+      "id": "chroot-distro",
+      "name": "chroot-distro",
+      "version": "1.4.0",
+      "versionCode": 15,
+      "author": "@YasserNull",
+      "description": "install linux distributions on android",
+      "added": 1719067736.641686,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/chroot-distro/main/README.md",
+      "verified": false,
+      "timestamp": 1737317382.0,
+      "size": 698309,
+      "track": {
+        "type": "GIT",
+        "added": 1719067736.641686,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/chroot-distro.git",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/chroot-distro/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1737317382.0,
+          "version": "1.4.0",
+          "versionCode": 15,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/chroot-distro/1.4.0_15.zip",
+          "changelog": "",
+          "size": 698309
         }
       ]
     },

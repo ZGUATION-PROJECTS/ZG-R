@@ -1,0 +1,14 @@
+{
+  "id": "chroot-distro",
+  "timestamp": 1737317382.0,
+  "versions": [
+    {
+      "timestamp": 1737317382.0,
+      "version": "1.4.0",
+      "versionCode": 15,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/chroot-distro/1.4.0_15.zip",
+      "changelog": "",
+      "size": 698309
+    }
+  ]
+}
