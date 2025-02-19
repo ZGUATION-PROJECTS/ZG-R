@@ -1,0 +1,14 @@
+{
+  "id": "universal-gms-doze",
+  "timestamp": 1732811678.0,
+  "versions": [
+    {
+      "timestamp": 1732811678.0,
+      "version": "1.9.2",
+      "versionCode": 192,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/universal-gms-doze/1.9.2_192.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/universal-gms-doze/1.9.2_192.md",
+      "size": 15178
+    }
+  ]
+}

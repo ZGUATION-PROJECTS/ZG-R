@@ -1,5 +1,5 @@
 {
-  "id": "zguectG-R",
+  "id": "zguectZGR",
   "name": "ZG's Modules Repository",
   "website": "https://zguation-projects.github.io/ZG-R",
   "support": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
@@ -9,49 +9,41 @@
   "description": "A repo where I store the modules I made, also including the ones I use on daily basis",
   "metadata": {
     "version": 1,
-    "timestamp": 1739722464.02308
+    "timestamp": 1739948502.109095
   },
   "modules": [
     {
-      "id": "PlayIntegrityFix",
-      "name": "Play Integrity Fix",
-      "version": "v18.5",
-      "versionCode": 18500,
-      "author": "chiteroman",
-      "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
-      "categories": [
-        "Font",
-        "Network",
-        "Script",
-        "Theme"
-      ],
-      "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
-      "license": "GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
+      "id": "Malwack",
+      "name": "Malwack | Anti-Malware & Ad Blocker",
+      "version": "v5.0.3",
+      "versionCode": 29,
+      "author": "Person0z",
+      "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
+      "added": 1719068038.972528,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
       "verified": false,
-      "added": 0,
-      "size": 176823,
+      "timestamp": 1739948501.51254,
+      "size": 4984284,
       "features": {
         "service": true,
-        "post_fs_data": true,
-        "sepolicy": true,
-        "action": true,
-        "webroot": true
+        "action": true
       },
       "track": {
         "type": "ONLINE_JSON",
-        "added": null,
-        "source": "https://github.com/chiteroman/PlayIntegrityFix",
-        "antifeatures": null
+        "added": 1719068038.972528,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/Malwack/track.yaml"
       },
       "versions": [
         {
-          "timestamp": 1737843196.0,
-          "version": "v18.5",
-          "versionCode": 18500,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.5_18500.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.5_18500.md",
-          "size": 176823
+          "timestamp": 1739948501.51254,
+          "version": "v5.0.3",
+          "versionCode": 29,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.md",
+          "size": 4984284
         }
       ]
     },
@@ -86,7 +78,8 @@
         "type": "ONLINE_JSON",
         "added": null,
         "source": "https://github.com/chiteroman/PlayIntegrityFix",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/track.yaml"
       },
       "versions": [
         {
@@ -133,7 +126,8 @@
         "type": "ONLINE_JSON",
         "added": null,
         "source": "https://github.com/ZG089/Re-Malwack",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/track.yaml"
       },
       "versions": [
         {
@@ -181,7 +175,8 @@
         "type": "ONLINE_JSON",
         "added": 1733301165,
         "source": "https://github.com/bindhosts/bindhosts",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/track.yaml"
       },
       "versions": [
         {
@@ -199,90 +194,6 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.7_197.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.7_197.md",
           "size": 51599
-        }
-      ]
-    },
-    {
-      "id": "mmrl_wpd",
-      "name": "WiFi Password Viewer for MMRL",
-      "version": "4.7.7",
-      "versionCode": 459,
-      "author": "Der_Googler, veez21 @ xda-developers",
-      "description": "View all your WiFi passwords and bluetooth devices inside MMRL",
-      "added": 1445340430.7142262,
-      "categories": [
-        "WebUI",
-        "Tweaks and Hacks",
-        "Miscellaneous"
-      ],
-      "support": "https://github.com/Googlers-Repo/wpd/issues",
-      "readme": "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/README.md",
-      "verified": true,
-      "screenshots": [
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/1.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/2.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/3.jpg",
-        "https://raw.githubusercontent.com/Googlers-Repo/wpd/master/assets/4.jpg"
-      ],
-      "timestamp": 1735764644.0,
-      "size": 462291,
-      "features": {
-        "action": true,
-        "webroot": true
-      },
-      "track": {
-        "type": "GIT",
-        "added": 1445340430.7142262,
-        "source": "https://github.com/Googlers-Repo/wpd.git",
-        "antifeatures": null
-      },
-      "versions": [
-        {
-          "timestamp": 1735764644.0,
-          "version": "4.7.7",
-          "versionCode": 459,
-          "zipUrl": "https://example.com/modules/mmrl_wpd/4.7.7_459.zip",
-          "changelog": "",
-          "size": 462291
-        }
-      ]
-    },
-    {
-      "id": "universal-gms-doze",
-      "name": "Universal GMS Doze",
-      "version": "1.9.2",
-      "versionCode": 192,
-      "author": "gloeyisk",
-      "description": "Patches Google Play services app and certain processes/services to be able to use battery optimizations",
-      "categories": [
-        "Debug",
-        "Network",
-        "Script"
-      ],
-      "support": "https://github.com/gloeyisk/universal-gms-doze/issues",
-      "license": "GPL-2.0",
-      "readme": "https://raw.githubusercontent.com/gloeyisk/universal-gms-doze/main/README.md",
-      "verified": false,
-      "added": 0,
-      "size": 15178,
-      "features": {
-        "service": true,
-        "post_fs_data": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": null,
-        "source": "https://github.com/gloeyisk/universal-gms-doze",
-        "antifeatures": null
-      },
-      "versions": [
-        {
-          "timestamp": 1732811678.0,
-          "version": "1.9.2",
-          "versionCode": 192,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/universal-gms-doze/1.9.2_192.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/universal-gms-doze/1.9.2_192.md",
-          "size": 15178
         }
       ]
     },
@@ -313,7 +224,8 @@
         "type": "ONLINE_JSON",
         "added": null,
         "source": "https://github.com/gloeyisk/universal-gms-doze",
-        "antifeatures": null
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/universal-gms-doze/track.yaml"
       },
       "versions": [
         {

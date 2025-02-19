@@ -1,0 +1,14 @@
+{
+  "id": "Malwack",
+  "timestamp": 1739948501.51254,
+  "versions": [
+    {
+      "timestamp": 1739948501.51254,
+      "version": "v5.0.3",
+      "versionCode": 29,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.md",
+      "size": 4984284
+    }
+  ]
+}
