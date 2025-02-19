@@ -9,7 +9,7 @@
   "description": "A repo where I store the modules I made, also including the ones I use on daily basis",
   "metadata": {
     "version": 1,
-    "timestamp": 1739949332.663149
+    "timestamp": 1739949432.570489
   },
   "modules": [
     {
@@ -271,6 +271,37 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/universal-gms-doze/1.9.2_192.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/universal-gms-doze/1.9.2_192.md",
           "size": 15178
+        }
+      ]
+    },
+    {
+      "id": "video-to-bootanimation",
+      "name": "Video To Bootanimation",
+      "version": "V4",
+      "versionCode": 4,
+      "author": "rhythmcache.t.me",
+      "description": "set Videos as Bootanimation",
+      "added": 1732300967.018943,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/main/README.md",
+      "verified": false,
+      "timestamp": 1739498293.0,
+      "size": 9538410,
+      "track": {
+        "type": "GIT",
+        "added": 1732300967.018943,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation.git",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/video-to-bootanimation/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1739498293.0,
+          "version": "V4",
+          "versionCode": 4,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/video-to-bootanimation/V4_4.zip",
+          "changelog": "",
+          "size": 9538410
         }
       ]
     }
