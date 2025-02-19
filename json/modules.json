@@ -6,12 +6,50 @@
   "donate": "https://www.buymeacoffee.com/ZG089",
   "submission": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
   "cover": "https://zguation-projects.github.io/ZG-R/assets/cover.webp",
-  "description": "A repo where I store the modules I made, also including the ones I use on daily basis",
+  "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1739949432.570489
+    "timestamp": 1739951312.622745
   },
   "modules": [
+    {
+      "id": "BetterKnownInstalled",
+      "name": "BetterKnownInstalled (BKI)",
+      "version": "v1.3.3",
+      "versionCode": 1337,
+      "author": "@T3SL4",
+      "description": "Patching (installer, installerUid, installInitiator, installOriginator) in packages.xml and cleaning packaga-warnings.xml for defeating DroidGuard: UNKNOWN_INSTALLED",
+      "support": "https://github.com/Pixel-Props/BetterKnownInstalled/issues",
+      "readme": "https://raw.githubusercontent.com/Pixel-Props/BetterKnownInstalled/refs/heads/main/README.md",
+      "note": {
+        "message": "Installation from recovery is not supported. You must install this module from within a running Android environment (Magisk/KernelSU/APatch)",
+        "title": "Important!"
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1738867123.0,
+      "size": 1793757,
+      "features": {
+        "post_fs_data": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Pixel-Props/BetterKnownInstalled",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1738867123.0,
+          "version": "v1.3.3",
+          "versionCode": 1337,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/v1.3.3_1337.zip",
+          "changelog": "",
+          "size": 1793757
+        }
+      ]
+    },
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
@@ -44,6 +82,40 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.md",
           "size": 4984284
+        }
+      ]
+    },
+    {
+      "id": "MiXplorer",
+      "name": "MiXplorer",
+      "version": "v6.64.3_at20240323",
+      "versionCode": 29,
+      "author": "Psk.It",
+      "description": "MiXplorer + all addons    ",
+      "added": 1719068053.727193,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
+      "verified": false,
+      "timestamp": 1711189357.0,
+      "size": 45326744,
+      "features": {
+        "apks": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1719068053.727193,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/MiXplorer/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1711189357.0,
+          "version": "v6.64.3_at20240323",
+          "versionCode": 29,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/MiXplorer/v6.64.3_at20240323_29.zip",
+          "changelog": "",
+          "size": 45326744
         }
       ]
     },
@@ -177,6 +249,42 @@
       ]
     },
     {
+      "id": "Xtreme-Battery-Saver",
+      "name": "Xtreme Battery Saver",
+      "version": "v2.1.1",
+      "versionCode": 211,
+      "author": "DethByte64",
+      "description": "An extreme battery saver for Magisk users who really want to stretch their battery life",
+      "added": 1729804427.076371,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/main/README.md",
+      "verified": false,
+      "timestamp": 1739951307.607068,
+      "size": 1051997,
+      "features": {
+        "service": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1729804427.076371,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver.git",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1739951307.607068,
+          "version": "v2.1.1",
+          "versionCode": 211,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.1_211.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.1_211.md",
+          "size": 1051997
+        }
+      ]
+    },
+    {
       "id": "bindhosts",
       "name": "bindhosts",
       "version": "v1.9.7",
@@ -230,6 +338,153 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.7_197.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.7_197.md",
           "size": 51599
+        }
+      ]
+    },
+    {
+      "id": "magisk_overlayfs",
+      "name": "Magical Overlayfs",
+      "version": "v3.1.2",
+      "versionCode": 30102,
+      "author": "HuskyDG",
+      "description": "Use OverlayFS to make read-only system partitions become read-write partitions. OverlayFS MUST be supported by kernel!",
+      "added": 1719068027.27877,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/magisk_overlayfs/main/README.md",
+      "verified": false,
+      "timestamp": 1686805349.0,
+      "size": 6964577,
+      "features": {
+        "service": true,
+        "post_fs_data": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1719068027.27877,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/magisk_overlayfs.git",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/magisk_overlayfs/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1686805349.0,
+          "version": "v3.1.2",
+          "versionCode": 30102,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/magisk_overlayfs/v3.1.2_30102.zip",
+          "changelog": "",
+          "size": 6964577
+        }
+      ]
+    },
+    {
+      "id": "net-switch",
+      "name": "Net Switch",
+      "version": "1.2 (54-64b5764-release)",
+      "versionCode": 54,
+      "author": "Rem01Gaming",
+      "description": "Isolate apps from Internet access.",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1738815792.0,
+      "size": 18560,
+      "features": {
+        "service": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Rem01Gaming/net-switch",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/net-switch/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1738815792.0,
+          "version": "1.2 (54-64b5764-release)",
+          "versionCode": 54,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/net-switch/1.2_54-64b5764-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/net-switch/1.2_54-64b5764-release.md",
+          "size": 18560
+        }
+      ]
+    },
+    {
+      "id": "sensitive_props",
+      "name": "SafetyNet sensitive props",
+      "version": "v3",
+      "versionCode": 3,
+      "author": "HuskyDG",
+      "description": "Reset sensitive properties to safe state and try to bypass Safetynet / Play Integrity",
+      "added": 1719068202.547405,
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/sensitive_props/master/README.md",
+      "verified": false,
+      "timestamp": 1707749983.0,
+      "size": 16172,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": 1719068202.547405,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/sensitive_props.git",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/sensitive_props/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1707749983.0,
+          "version": "v3",
+          "versionCode": 3,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/sensitive_props/v3_3.zip",
+          "changelog": "",
+          "size": 16172
+        }
+      ]
+    },
+    {
+      "id": "tricky_store",
+      "name": "Tricky Store",
+      "version": "v1.2.1 (158-51390a7-release)",
+      "versionCode": 158,
+      "author": "5ec1cff",
+      "description": "A trick of keystore",
+      "added": 1723905223.0,
+      "categories": [
+        "System"
+      ],
+      "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
+      "verified": false,
+      "timestamp": 1738906998.0,
+      "size": 2350601,
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/5ec1cff/TrickyStore",
+        "antifeatures": [
+          "NoSourceSince"
+        ],
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1738906998.0,
+          "version": "v1.2.1 (158-51390a7-release)",
+          "versionCode": 158,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.md",
+          "size": 2350601
         }
       ]
     },

@@ -1,0 +1,14 @@
+{
+  "id": "magisk_overlayfs",
+  "timestamp": 1686805349.0,
+  "versions": [
+    {
+      "timestamp": 1686805349.0,
+      "version": "v3.1.2",
+      "versionCode": 30102,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/magisk_overlayfs/v3.1.2_30102.zip",
+      "changelog": "",
+      "size": 6964577
+    }
+  ]
+}
