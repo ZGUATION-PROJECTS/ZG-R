@@ -9,7 +9,7 @@
   "description": "A repo where I store the modules I made, also including the ones I use on daily basis",
   "metadata": {
     "version": 1,
-    "timestamp": 1739948502.109095
+    "timestamp": 1739948779.231386
   },
   "modules": [
     {
@@ -137,6 +137,42 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v5.3.0_530.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v5.3.0_530.md",
           "size": 47546
+        }
+      ]
+    },
+    {
+      "id": "SystemlessDebloater",
+      "name": "Systemless Debloater",
+      "version": "1.5.4",
+      "versionCode": 154,
+      "author": "zgfg @ xda",
+      "description": "Select and debloat preinstalled system apps. Successfully tested on up to SAR, Dynamic partitions and A13. Module must be installed through Magisk app, not TWRP - see OP instructions in the XDA thread.",
+      "added": 1719068247.892871,
+      "donate": "https://zgfg.github.io/PayPal.html",
+      "support": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/issues",
+      "license": "LGPL-2.1",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/SystemlessDebloater/main/README.md",
+      "verified": false,
+      "timestamp": 1696314908.0,
+      "size": 16274,
+      "features": {
+        "service": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1719068247.892871,
+        "source": "https://github.com/Magisk-Modules-Alt-Repo/SystemlessDebloater.git",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/SystemlessDebloater/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1696314908.0,
+          "version": "1.5.4",
+          "versionCode": 154,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SystemlessDebloater/1.5.4_154.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/SystemlessDebloater/1.5.4_154.md",
+          "size": 16274
         }
       ]
     },
