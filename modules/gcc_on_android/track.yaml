@@ -5,4 +5,4 @@ update_to: https://github.com/Googlers-Repo/gcc.git
 source: https://github.com/Googlers-Repo/gcc
 antifeatures: []
 last_update: 1726310851.0
-versions: 3
+versions: 1

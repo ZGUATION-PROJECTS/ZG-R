@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1739953112.973269
+    "timestamp": 1739956554.403541
   },
   "modules": [
     {
@@ -285,6 +285,41 @@
       ]
     },
     {
+      "id": "adb-ndk",
+      "name": "ADB & Fastboot for Android NDK",
+      "version": "1.0.41",
+      "versionCode": 104114,
+      "author": "osm0sis & Surge1223 @ xda-developers",
+      "description": "Static arm/arm64 adb and fastboot binaries for Android built with the NDK",
+      "added": 1445340430.7142262,
+      "categories": [
+        "System"
+      ],
+      "donate": "https://github.com/sponsors/osm0sis",
+      "support": "https://github.com/Magisk-Modules-Repo/adb-ndk/issues",
+      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Repo/adb-ndk/master/README.md",
+      "verified": false,
+      "timestamp": 1698679366.0,
+      "size": 5300707,
+      "track": {
+        "type": "GIT",
+        "added": 1445340430.7142262,
+        "source": "https://github.com/Magisk-Modules-Repo/adb-ndk",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/adb-ndk/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1698679366.0,
+          "version": "1.0.41",
+          "versionCode": 104114,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/adb-ndk/1.0.41_104114.zip",
+          "changelog": "",
+          "size": 5300707
+        }
+      ]
+    },
+    {
       "id": "bindhosts",
       "name": "bindhosts",
       "version": "v1.9.7",
@@ -338,6 +373,112 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.7_197.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v1.9.7_197.md",
           "size": 51599
+        }
+      ]
+    },
+    {
+      "id": "flagsecurepatcher",
+      "name": "FlagSecurePatcher",
+      "version": "r14",
+      "versionCode": 14,
+      "author": "j-hc",
+      "description": "Prevent apps from blocking and listening to your screenshots",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1725032174.0,
+      "size": 4534847,
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/j-hc/FlagSecurePatcher",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/flagsecurepatcher/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1725032174.0,
+          "version": "r14",
+          "versionCode": 14,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/flagsecurepatcher/r14_14.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/flagsecurepatcher/r14_14.md",
+          "size": 4534847
+        }
+      ]
+    },
+    {
+      "id": "gcc_on_android",
+      "name": "GCC Toolchain",
+      "version": "1.0.2",
+      "versionCode": 102,
+      "author": "Der_Googler",
+      "description": "GCC Toolchain is usable to build many things, such as native modules for Node.js",
+      "categories": [
+        "System",
+        "Coding"
+      ],
+      "icon": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/assets/icon.png",
+      "support": "https://github.com/Googlers-Repo/gcc/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/README.md",
+      "require": [
+        "mkshrc"
+      ],
+      "note": {
+        "color": "blue",
+        "title": "Beta",
+        "message": "This module is sill in it's beta, so please don't complain about bugs etc. Please be aware that this module depends on Systemless Mkshrc."
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1726310851.0,
+      "size": 39547519,
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Googlers-Repo/gcc",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/gcc_on_android/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1726310851.0,
+          "version": "1.0.2",
+          "versionCode": 102,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/gcc_on_android/1.0.2_102.zip",
+          "changelog": "",
+          "size": 39547519
+        }
+      ]
+    },
+    {
+      "id": "iOS_Emoji",
+      "name": "iOS 17.4 Emoji font",
+      "version": "v17.4.7",
+      "versionCode": 17407,
+      "author": "Keinta15",
+      "description": "Systemlessly replaces emoji font with iOS 17.4 Emoji",
+      "added": 1723905223.0,
+      "verified": false,
+      "timestamp": 1737858481.0,
+      "size": 46426652,
+      "features": {
+        "service": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/Keinta15/Magisk-iOS-Emoji",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1737858481.0,
+          "version": "v17.4.7",
+          "versionCode": 17407,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/v17.4.7_17407.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/v17.4.7_17407.md",
+          "size": 46426652
         }
       ]
     },
@@ -557,6 +698,51 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/video-to-bootanimation/V4_4.zip",
           "changelog": "",
           "size": 9538410
+        }
+      ]
+    },
+    {
+      "id": "zygisk-detach",
+      "name": "zygisk-detach",
+      "version": "v1.19.3",
+      "versionCode": 26,
+      "author": "j-hc",
+      "description": "Detaches installed apps from Play Store",
+      "added": 1716564516.209616,
+      "categories": [
+        "Magisk",
+        "KernelSU",
+        "Tools"
+      ],
+      "support": "https://github.com/j-hc/zygisk-detach/issues",
+      "license": "Apache-2.0",
+      "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
+      "require": [
+        "zygisk-assistant"
+      ],
+      "verified": false,
+      "timestamp": 1739046326.0,
+      "size": 174968,
+      "features": {
+        "post_fs_data": true,
+        "zygisk": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1716564516.209616,
+        "source": "https://github.com/j-hc/zygisk-detach",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1739046326.0,
+          "version": "v1.19.3",
+          "versionCode": 26,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.19.3_26.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.19.3_26.md",
+          "size": 174968
         }
       ]
     }

@@ -6,12 +6,12 @@ license: Apache-2.0
 source: https://github.com/j-hc/zygisk-detach
 support: https://github.com/j-hc/zygisk-detach/issues
 categories:
-  - Magisk
-  - KernelSU
-  - Tools
+- Magisk
+- KernelSU
+- Tools
 readme: https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md
 require:
-  - zygisk-assistant
+- zygisk-assistant
 added: 1716564516.209616
-last_update: 1738608638.0
-versions: 6
+last_update: 1739046326.0
+versions: 1

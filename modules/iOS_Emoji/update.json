@@ -1,0 +1,14 @@
+{
+  "id": "iOS_Emoji",
+  "timestamp": 1737858481.0,
+  "versions": [
+    {
+      "timestamp": 1737858481.0,
+      "version": "v17.4.7",
+      "versionCode": 17407,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/v17.4.7_17407.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/v17.4.7_17407.md",
+      "size": 46426652
+    }
+  ]
+}
