@@ -1,0 +1,17 @@
+id: zygisk-detach
+enable: true
+verified: false
+update_to: https://raw.githubusercontent.com/j-hc/zygisk-detach/master/update.json
+license: Apache-2.0
+source: https://github.com/j-hc/zygisk-detach
+support: https://github.com/j-hc/zygisk-detach/issues
+categories:
+  - Magisk
+  - KernelSU
+  - Tools
+readme: https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md
+require:
+  - zygisk-assistant
+added: 1716564516.209616
+last_update: 1738608638.0
+versions: 6
