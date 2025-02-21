@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1740082493.709376
+    "timestamp": 1740099852.886209
   },
   "modules": [
     {
@@ -122,8 +122,8 @@
     {
       "id": "PlayIntegrityFix",
       "name": "Play Integrity Fix",
-      "version": "v18.5",
-      "versionCode": 18500,
+      "version": "v18.6",
+      "versionCode": 18600,
       "author": "chiteroman",
       "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
       "categories": [
@@ -137,12 +137,13 @@
       "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1737843196.0,
-      "size": 176823,
+      "timestamp": 1740091506.0,
+      "size": 177516,
       "features": {
         "service": true,
         "post_fs_data": true,
         "sepolicy": true,
+        "zygisk": true,
         "action": true,
         "webroot": true
       },
@@ -161,6 +162,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.5_18500.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.5_18500.md",
           "size": 176823
+        },
+        {
+          "timestamp": 1740091506.0,
+          "version": "v18.6",
+          "versionCode": 18600,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.6_18600.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.6_18600.md",
+          "size": 177516
         }
       ]
     },
