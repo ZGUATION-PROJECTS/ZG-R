@@ -1,6 +1,6 @@
 {
   "id": "zguectZGR",
-  "name": "ZG's Modules Repository",
+  "name": "ZG089's Modules Repository",
   "website": "https://zguation-projects.github.io/ZG-R",
   "support": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
   "donate": "https://www.buymeacoffee.com/ZG089",
@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1740226975.659977
+    "timestamp": 1740236609.149615
   },
   "modules": [
     {
