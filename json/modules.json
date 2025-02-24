@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1740394399.037839
+    "timestamp": 1740395203.021887
   },
   "modules": [
     {
@@ -291,6 +291,40 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SystemlessDebloater/1.5.4_154.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/SystemlessDebloater/1.5.4_154.md",
           "size": 16274
+        }
+      ]
+    },
+    {
+      "id": "Unlimited-GooglePhotosBackupMod",
+      "name": "Google Photos Unlimited backup",
+      "version": "1.2-stable",
+      "versionCode": 1,
+      "author": "Kolassrexon J",
+      "description": "Adds Photos features and unlimited Google Photos original backup quality by spoof device info to Pixel XL only on Photos app.",
+      "support": "https://github.com/Kolass2004/Unlimited-GooglePhotosBackupMod/issues",
+      "readme": "https://raw.githubusercontent.com/Kolass2004/Unlimited-GooglePhotosBackupMod/main/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1740073671.0,
+      "size": 114307,
+      "features": {
+        "zygisk": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Kolass2004/Unlimited-GooglePhotosBackupMod",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/Unlimited-GooglePhotosBackupMod/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1740073671.0,
+          "version": "1.2-stable",
+          "versionCode": 1,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Unlimited-GooglePhotosBackupMod/1.2-stable_1.zip",
+          "changelog": "",
+          "size": 114307
         }
       ]
     },
