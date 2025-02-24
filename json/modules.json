@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1740385127.327338
+    "timestamp": 1740394399.037839
   },
   "modules": [
     {
@@ -82,6 +82,43 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.md",
           "size": 4984284
+        }
+      ]
+    },
+    {
+      "id": "MemoryOpt",
+      "name": "\u5185\u5b58\u4f18\u5316",
+      "version": "2025.02.17",
+      "versionCode": 2025021700,
+      "author": "\u7115\u6668HChen",
+      "description": "\u5185\u5b58\u53c2\u6570\u8c03\u6574\uff0c\u4ee5\u5b9e\u73b0\u66f4\u4f73\u7684\u5185\u5b58\u4f7f\u7528\u6548\u7387\u3002",
+      "support": "https://github.com/HChenX/MemoryOpt/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/HChenX/MemoryOpt/main/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1739785507.0,
+      "size": 386095,
+      "features": {
+        "service": true,
+        "resetprop": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/HChenX/MemoryOpt",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/MemoryOpt/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1739785507.0,
+          "version": "2025.02.17",
+          "versionCode": 2025021700,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/MemoryOpt/2025.02.17_2025021700.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/MemoryOpt/2025.02.17_2025021700.md",
+          "size": 386095
         }
       ]
     },
