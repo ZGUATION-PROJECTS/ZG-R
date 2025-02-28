@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/MemoryOpt/2025.02.17_2025021700.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/MemoryOpt/2025.02.17_2025021700.md",
       "size": 386095
+    },
+    {
+      "timestamp": 1740749200.0,
+      "version": "2025.02.28",
+      "versionCode": 2025022800,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/MemoryOpt/2025.02.28_2025022800.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/MemoryOpt/2025.02.28_2025022800.md",
+      "size": 385710
     }
   ]
 }
