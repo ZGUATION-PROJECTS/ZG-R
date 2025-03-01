@@ -188,7 +188,7 @@ jobs:
       - name: Waiting till first deploy ends
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
-        sleep 30
+          sleep 30
     
   build:
     runs-on: ubuntu-latest
