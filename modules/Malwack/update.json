@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.md",
       "size": 4984284
+    },
+    {
+      "timestamp": 1741291978.350895,
+      "version": "v5.0.4",
+      "versionCode": 30,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.4_30.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.4_30.md",
+      "size": 6804834
     }
   ]
 }

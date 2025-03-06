@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1741277682.661118
+    "timestamp": 1741291986.429449
   },
   "modules": [
     {
@@ -53,16 +53,16 @@
     {
       "id": "Malwack",
       "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v5.0.3",
-      "versionCode": 29,
+      "version": "v5.0.4",
+      "versionCode": 30,
       "author": "Person0z",
       "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
       "added": 1719068038.972528,
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
       "verified": false,
-      "timestamp": 1739948501.51254,
-      "size": 4984284,
+      "timestamp": 1741291978.350895,
+      "size": 6804834,
       "features": {
         "service": true,
         "action": true
@@ -82,6 +82,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.md",
           "size": 4984284
+        },
+        {
+          "timestamp": 1741291978.350895,
+          "version": "v5.0.4",
+          "versionCode": 30,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.4_30.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.4_30.md",
+          "size": 6804834
         }
       ]
     },
