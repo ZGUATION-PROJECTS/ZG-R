@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1741579939.551636
+    "timestamp": 1741594430.208754
   },
   "modules": [
     {
@@ -383,8 +383,8 @@
     {
       "id": "abootloop",
       "name": "Anti bootloop",
-      "version": "v1.3.3",
-      "versionCode": 7,
+      "version": "v1.3.4",
+      "versionCode": 8,
       "author": "nedorazrab0",
       "description": "Bootloop protection",
       "added": 1719067581.595615,
@@ -392,8 +392,8 @@
       "license": "MIT",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/abootloop/main/README.md",
       "verified": true,
-      "timestamp": 1741546110.0,
-      "size": 5010,
+      "timestamp": 1741587011.0,
+      "size": 5011,
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -408,20 +408,20 @@
       },
       "versions": [
         {
-          "timestamp": 1730660996.0,
-          "version": "v1.3.2",
-          "versionCode": 6,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.2_6.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.2_6.md",
-          "size": 5316
-        },
-        {
           "timestamp": 1741546110.0,
           "version": "v1.3.3",
           "versionCode": 7,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.3_7.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.3_7.md",
           "size": 5010
+        },
+        {
+          "timestamp": 1741587011.0,
+          "version": "v1.3.4",
+          "versionCode": 8,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.4_8.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.4_8.md",
+          "size": 5011
         }
       ]
     },

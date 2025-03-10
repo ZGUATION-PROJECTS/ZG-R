@@ -3,20 +3,20 @@
   "timestamp": 1730660996.0,
   "versions": [
     {
-      "timestamp": 1730660996.0,
-      "version": "v1.3.2",
-      "versionCode": 6,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.2_6.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.2_6.md",
-      "size": 5316
-    },
-    {
       "timestamp": 1741546110.0,
       "version": "v1.3.3",
       "versionCode": 7,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.3_7.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.3_7.md",
       "size": 5010
+    },
+    {
+      "timestamp": 1741587011.0,
+      "version": "v1.3.4",
+      "versionCode": 8,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.4_8.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/abootloop/v1.3.4_8.md",
+      "size": 5011
     }
   ]
 }
