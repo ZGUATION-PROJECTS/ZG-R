@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1742328742.822769
+    "timestamp": 1742345867.398664
   },
   "modules": [
     {
@@ -61,7 +61,7 @@
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
       "verified": false,
-      "timestamp": 1741291978.350895,
+      "timestamp": 1742345860.301327,
       "size": 6804834,
       "features": {
         "service": true,
@@ -76,19 +76,19 @@
       },
       "versions": [
         {
-          "timestamp": 1739948501.51254,
-          "version": "v5.0.3",
-          "versionCode": 29,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.3_29.md",
-          "size": 4984284
-        },
-        {
           "timestamp": 1741291978.350895,
           "version": "v5.0.4",
           "versionCode": 30,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.4_30.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.4_30.md",
+          "size": 6804834
+        },
+        {
+          "timestamp": 1742345860.301327,
+          "version": "1.0.41",
+          "versionCode": 104114,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/1.0.41_104114.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/1.0.41_104114.md",
           "size": 6804834
         }
       ]
