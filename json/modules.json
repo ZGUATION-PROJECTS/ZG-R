@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1742659987.978047
+    "timestamp": 1742674338.687906
   },
   "modules": [
     {
@@ -29,6 +29,9 @@
       "added": 0,
       "timestamp": 1738867123.0,
       "size": 1793757,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "post_fs_data": true
       },
@@ -63,6 +66,10 @@
       "verified": false,
       "timestamp": 1742345860.301327,
       "size": 6804834,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.ACTION"
+      ],
       "features": {
         "service": true,
         "action": true
@@ -107,6 +114,11 @@
       "added": 0,
       "timestamp": 1740749200.0,
       "size": 385710,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.RESETPROP",
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "service": true,
         "resetprop": true,
@@ -151,6 +163,9 @@
       "verified": false,
       "timestamp": 1711189357.0,
       "size": 45326744,
+      "permissions": [
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "apks": true
       },
@@ -192,6 +207,13 @@
       "added": 0,
       "timestamp": 1742245055.0,
       "size": 179896,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ZYGISK",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -250,6 +272,11 @@
       "added": 0,
       "timestamp": 1634878227.0,
       "size": 47546,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
       "features": {
         "service": true,
         "action": true,
@@ -288,6 +315,9 @@
       "verified": false,
       "timestamp": 1696314908.0,
       "size": 16274,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -322,6 +352,9 @@
       "added": 0,
       "timestamp": 1740073671.0,
       "size": 114307,
+      "permissions": [
+        "magisk.permission.ZYGISK"
+      ],
       "features": {
         "zygisk": true
       },
@@ -357,6 +390,10 @@
       "verified": false,
       "timestamp": 1739951307.607068,
       "size": 1051997,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.ACTION"
+      ],
       "features": {
         "service": true,
         "action": true
@@ -393,6 +430,11 @@
       "verified": true,
       "timestamp": 1741587011.0,
       "size": 5011,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -484,6 +526,12 @@
       "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
       "timestamp": 1742639470.0,
       "size": 77407,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -632,6 +680,9 @@
       "verified": false,
       "timestamp": 1737858481.0,
       "size": 46426652,
+      "permissions": [
+        "magisk.permission.SERVICE"
+      ],
       "features": {
         "service": true
       },
@@ -666,6 +717,10 @@
       "verified": false,
       "timestamp": 1686805349.0,
       "size": 6964577,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -699,6 +754,11 @@
       "added": 0,
       "timestamp": 1738815792.0,
       "size": 18560,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
       "features": {
         "service": true,
         "action": true,
@@ -736,6 +796,11 @@
       "verified": false,
       "timestamp": 1707749983.0,
       "size": 16172,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -774,6 +839,12 @@
       "verified": false,
       "timestamp": 1738906998.0,
       "size": 2350601,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "mmrl.permission.APKS"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true,
@@ -819,6 +890,10 @@
       "added": 0,
       "timestamp": 1732811678.0,
       "size": 15178,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA"
+      ],
       "features": {
         "service": true,
         "post_fs_data": true
@@ -894,6 +969,11 @@
       "verified": false,
       "timestamp": 1739046326.0,
       "size": 174968,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ZYGISK",
+        "kernelsu.permission.WEBUI"
+      ],
       "features": {
         "post_fs_data": true,
         "zygisk": true,
