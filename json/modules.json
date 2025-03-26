@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1743005761.633027
+    "timestamp": 1743020064.517866
   },
   "modules": [
     {
@@ -590,6 +590,14 @@
           "version": "1.4.0",
           "versionCode": 15,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/chroot-distro/1.4.0_15.zip",
+          "changelog": "",
+          "size": 698309
+        },
+        {
+          "timestamp": 1737317382.0,
+          "version": "v1.3.3",
+          "versionCode": 1337,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/chroot-distro/v1.3.3_1337.zip",
           "changelog": "",
           "size": 698309
         }

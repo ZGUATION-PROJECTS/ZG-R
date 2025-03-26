@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/chroot-distro/1.4.0_15.zip",
       "changelog": "",
       "size": 698309
+    },
+    {
+      "timestamp": 1737317382.0,
+      "version": "v1.3.3",
+      "versionCode": 1337,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/chroot-distro/v1.3.3_1337.zip",
+      "changelog": "",
+      "size": 698309
     }
   ]
 }
