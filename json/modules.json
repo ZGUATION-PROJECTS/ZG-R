@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1743178489.521609
+    "timestamp": 1743192839.382767
   },
   "modules": [
     {
@@ -379,8 +379,8 @@
     {
       "id": "Xtreme-Battery-Saver",
       "name": "Xtreme Battery Saver",
-      "version": "v2.1.1",
-      "versionCode": 211,
+      "version": "v2.1.2",
+      "versionCode": 212,
       "author": "DethByte64",
       "description": "An extreme battery saver for Magisk users who really want to stretch their battery life",
       "added": 1729804427.076371,
@@ -388,8 +388,8 @@
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/main/README.md",
       "verified": false,
-      "timestamp": 1739951307.607068,
-      "size": 1051997,
+      "timestamp": 1743192831.855086,
+      "size": 1053145,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION"
@@ -413,6 +413,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.1_211.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.1_211.md",
           "size": 1051997
+        },
+        {
+          "timestamp": 1743192831.855086,
+          "version": "v2.1.2",
+          "versionCode": 212,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.2_212.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.2_212.md",
+          "size": 1053145
         }
       ]
     },

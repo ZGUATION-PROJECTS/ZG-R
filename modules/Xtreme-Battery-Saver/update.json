@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.1_211.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.1_211.md",
       "size": 1051997
+    },
+    {
+      "timestamp": 1743192831.855086,
+      "version": "v2.1.2",
+      "versionCode": 212,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.2_212.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.2_212.md",
+      "size": 1053145
     }
   ]
 }
