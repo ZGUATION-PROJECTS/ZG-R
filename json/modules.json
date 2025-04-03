@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1743668198.459825
+    "timestamp": 1743683039.813865
   },
   "modules": [
     {
@@ -623,14 +623,20 @@
     {
       "id": "flagsecurepatcher",
       "name": "FlagSecurePatcher",
-      "version": "r14",
-      "versionCode": 14,
+      "version": "r15",
+      "versionCode": 15,
       "author": "j-hc",
       "description": "Prevent apps from blocking and listening to your screenshots",
       "added": 1723905223.0,
       "verified": false,
-      "timestamp": 1725032174.0,
-      "size": 4534847,
+      "timestamp": 1743681710.0,
+      "size": 4535597,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
+      "features": {
+        "post_fs_data": true
+      },
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -646,6 +652,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/flagsecurepatcher/r14_14.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/flagsecurepatcher/r14_14.md",
           "size": 4534847
+        },
+        {
+          "timestamp": 1743681710.0,
+          "version": "r15",
+          "versionCode": 15,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/flagsecurepatcher/r15_15.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/flagsecurepatcher/r15_15.md",
+          "size": 4535597
         }
       ]
     },
