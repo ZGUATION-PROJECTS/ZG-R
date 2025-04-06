@@ -3,20 +3,20 @@
   "timestamp": 1737843196.0,
   "versions": [
     {
-      "timestamp": 1741118786.0,
-      "version": "v18.7",
-      "versionCode": 18700,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.7_18700.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.7_18700.md",
-      "size": 180065
-    },
-    {
       "timestamp": 1742245055.0,
       "version": "v18.8",
       "versionCode": 18800,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.8_18800.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.8_18800.md",
       "size": 179896
+    },
+    {
+      "timestamp": 1743961006.0,
+      "version": "v18.9",
+      "versionCode": 18900,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.9_18900.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v18.9_18900.md",
+      "size": 177752
     }
   ]
 }
