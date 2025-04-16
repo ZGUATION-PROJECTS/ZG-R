@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1744748035.562878
+    "timestamp": 1744765241.67437
   },
   "modules": [
     {
@@ -997,8 +997,8 @@
     {
       "id": "zygisk-detach",
       "name": "zygisk-detach",
-      "version": "v1.19.3",
-      "versionCode": 26,
+      "version": "v1.20.0",
+      "versionCode": 27,
       "author": "j-hc",
       "description": "Detaches installed apps from Play Store",
       "added": 1716564516.209616,
@@ -1014,8 +1014,8 @@
         "zygisk-assistant"
       ],
       "verified": false,
-      "timestamp": 1739046326.0,
-      "size": 174968,
+      "timestamp": 1744751428.0,
+      "size": 176813,
       "permissions": [
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ZYGISK",
@@ -1041,6 +1041,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.19.3_26.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.19.3_26.md",
           "size": 174968
+        },
+        {
+          "timestamp": 1744751428.0,
+          "version": "v1.20.0",
+          "versionCode": 27,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.20.0_27.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.20.0_27.md",
+          "size": 176813
         }
       ]
     }
