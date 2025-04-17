@@ -393,9 +393,9 @@
       "author": "DethByte64",
       "description": "An extreme battery saver for Magisk users who really want to stretch their battery life",
       "added": 1729804427.076371,
-      "support": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/issues",
+      "support": "https://github.com/DethByte64/Xtreme-Battery-Saver/issues",
       "license": "GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver/main/README.md",
+      "readme": "https://raw.githubusercontent.com/DethByte64/Xtreme-Battery-Saver/main/README.md",
       "verified": false,
       "timestamp": 1743192831.855086,
       "size": 1053145,
@@ -410,7 +410,7 @@
       "track": {
         "type": "UNKNOWN",
         "added": 1729804427.076371,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver.git",
+        "source": "https://github.com/DethByte64/Xtreme-Battery-Saver.git",
         "antifeatures": null,
         "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/track.yaml"
       },
