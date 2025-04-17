@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1744906537.366517
+    "timestamp": 1744912385.311674
   },
   "modules": [
     {
@@ -408,7 +408,7 @@
         "action": true
       },
       "track": {
-        "type": "UNKNOWN",
+        "type": "ONLINE_JSON",
         "added": 1729804427.076371,
         "source": "https://github.com/DethByte64/Xtreme-Battery-Saver.git",
         "antifeatures": null,
