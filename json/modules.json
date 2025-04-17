@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1744892643.35574
+    "timestamp": 1744900855.466475
   },
   "modules": [
     {
@@ -408,7 +408,7 @@
         "action": true
       },
       "track": {
-        "type": "ONLINE_JSON",
+        "type": "UNKNOWN",
         "added": 1729804427.076371,
         "source": "https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver.git",
         "antifeatures": null,
