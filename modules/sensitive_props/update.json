@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/sensitive_props/v3_3.zip",
       "changelog": "",
       "size": 16172
+    },
+    {
+      "timestamp": 1707749983.0,
+      "version": "1.4.0",
+      "versionCode": 15,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/sensitive_props/1.4.0_15.zip",
+      "changelog": "",
+      "size": 16172
     }
   ]
 }
