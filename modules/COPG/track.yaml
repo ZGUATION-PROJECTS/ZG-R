@@ -1,0 +1,8 @@
+id: COPG
+enable: true
+verified: false
+update_to: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/update.json
+source: https://github.com/AlirezaParsi/COPG
+support: https://github.com/AlirezaParsi/COPG/issues
+readme: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/README.md
+versions: 1
