@@ -1,0 +1,14 @@
+id: encore
+enable: true
+verified: true
+update_to: https://raw.githubusercontent.com/Rem01Gaming/encore/main/update.json
+source: https://github.com/Rem01Gaming/encore
+support: https://t.me/rem01shideout
+donate: https://t.me/rem01schannel/670
+readme: https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md
+categories:
+- Magisk
+- KSU
+- Apatch
+- WebUI
+- Gaming
