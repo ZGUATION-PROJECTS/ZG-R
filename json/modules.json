@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1746188652.848724
+    "timestamp": 1746196204.399796
   },
   "modules": [
     {
@@ -670,6 +670,57 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/chroot-distro/v1.3.3_1337.zip",
           "changelog": "",
           "size": 698309
+        }
+      ]
+    },
+    {
+      "id": "encore",
+      "name": "Encore Tweaks",
+      "version": "4.1 (862-cc92fbc-release)",
+      "versionCode": 862,
+      "author": "Rem01Gaming",
+      "description": "Special performance module for your Device.",
+      "categories": [
+        "Magisk",
+        "KSU",
+        "Apatch",
+        "WebUI",
+        "Gaming"
+      ],
+      "donate": "https://t.me/rem01schannel/670",
+      "support": "https://t.me/rem01shideout",
+      "readme": "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1746191927.0,
+      "size": 854305,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/Rem01Gaming/encore",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/encore/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1746191927.0,
+          "version": "4.1 (862-cc92fbc-release)",
+          "versionCode": 862,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.1_862-cc92fbc-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.1_862-cc92fbc-release.md",
+          "size": 854305
         }
       ]
     },

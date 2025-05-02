@@ -1,0 +1,14 @@
+{
+  "id": "encore",
+  "timestamp": 1746191927.0,
+  "versions": [
+    {
+      "timestamp": 1746191927.0,
+      "version": "4.1 (862-cc92fbc-release)",
+      "versionCode": 862,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.1_862-cc92fbc-release.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.1_862-cc92fbc-release.md",
+      "size": 854305
+    }
+  ]
+}
