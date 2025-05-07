@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1746605907.903157
+    "timestamp": 1746611161.122636
   },
   "modules": [
     {
@@ -681,14 +681,22 @@
       "author": "Rem01Gaming",
       "description": "Special performance module for your Device.",
       "categories": [
-        "Magisk",
-        "KSU",
-        "Apatch",
-        "WebUI",
-        "Gaming"
+        "Performance",
+        "Gaming",
+        "Optimizer",
+        "WebUI"
       ],
+      "icon": "https://encore.rem01gaming.dev/logo.webp",
+      "homepage": "https://encore.rem01gaming.dev",
       "donate": "https://t.me/rem01schannel/670",
       "support": "https://t.me/rem01shideout",
+      "cover": "https://encore.rem01gaming.dev/ogp/default.webp",
+      "screenshots": [
+        "https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-113403_MMRL.png",
+        "https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-113408_MMRL.png",
+        "https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-114133_ColorfulStage.png"
+      ],
+      "license": "Apache-2.0",
       "readme": "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md",
       "verified": true,
       "added": 0,
