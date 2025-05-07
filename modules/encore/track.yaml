@@ -22,7 +22,7 @@ arch:
 - "arm64-v8a"
 - "armeabi-v7a"
 - "x86"
-- "x86-64"
+- "x86_64"
 - "riscv64"
 
 screenshots:
