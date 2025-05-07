@@ -1,16 +1,34 @@
 id: encore
 enable: true
 verified: true
-update_to: https://raw.githubusercontent.com/Rem01Gaming/encore/main/update.json
-source: https://github.com/Rem01Gaming/encore
-support: https://t.me/rem01shideout
-donate: https://t.me/rem01schannel/670
+license: "Apache-2.0"
+cover: "https://encore.rem01gaming.dev/ogp/default.webp"
+icon: "https://encore.rem01gaming.dev/logo.webp"
+update_to: "https://encore.rem01gaming.dev/api/update.json"
+
+source: "https://github.com/Rem01Gaming/encore"
+homepage: "https://encore.rem01gaming.dev"
+support: "https://t.me/rem01shideout"
+donate: "https://t.me/rem01schannel/670"
+readme: "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md"
+
 categories:
-- Magisk
-- KSU
-- Apatch
-- WebUI
+- Performance
 - Gaming
-readme: https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md
+- Optimizer
+- WebUI
+
+arch:
+- "arm64-v8a"
+- "armeabi-v7a"
+- "x86"
+- "x86_64"
+- "riscv64"
+
+screenshots:
+- "https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-113403_MMRL.png"
+- "https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-113408_MMRL.png"
+- "https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-114133_ColorfulStage.png"
+
 last_update: 1746191927.0
 versions: 1
