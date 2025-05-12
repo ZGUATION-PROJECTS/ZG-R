@@ -1,34 +1,29 @@
 id: encore
 enable: true
 verified: true
-license: "Apache-2.0"
-cover: "https://encore.rem01gaming.dev/ogp/default.webp"
-icon: "https://encore.rem01gaming.dev/logo.webp"
-update_to: "https://encore.rem01gaming.dev/api/update.json"
-
-source: "https://github.com/Rem01Gaming/encore"
-homepage: "https://encore.rem01gaming.dev"
-support: "https://t.me/rem01shideout"
-donate: "https://t.me/rem01schannel/670"
-readme: "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md"
-
+update_to: https://encore.rem01gaming.dev/api/update.json
+license: Apache-2.0
+homepage: https://encore.rem01gaming.dev
+source: https://github.com/Rem01Gaming/encore
+support: https://t.me/rem01shideout
+donate: https://t.me/rem01schannel/670
 categories:
 - Performance
 - Gaming
 - Optimizer
 - WebUI
-
-arch:
-- "arm64-v8a"
-- "armeabi-v7a"
-- "x86"
-- "x86_64"
-- "riscv64"
-
+icon: https://encore.rem01gaming.dev/logo.webp
+cover: https://encore.rem01gaming.dev/ogp/default.webp
 screenshots:
-- "https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-113403_MMRL.png"
-- "https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-113408_MMRL.png"
-- "https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-114133_ColorfulStage.png"
-
-last_update: 1746191927.0
-versions: 1
+- https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-113403_MMRL.png
+- https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-113408_MMRL.png
+- https://zguation-projects.github.io/ZG-R/assets/modules/encore/Screenshot_20250507-114133_ColorfulStage.png
+readme: https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md
+arch:
+- arm64-v8a
+- armeabi-v7a
+- x86
+- x86_64
+- riscv64
+last_update: 1747038441.0
+versions: 2

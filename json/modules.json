@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1747037916.873716
+    "timestamp": 1747052749.57228
   },
   "modules": [
     {
@@ -676,8 +676,8 @@
     {
       "id": "encore",
       "name": "Encore Tweaks",
-      "version": "4.1 (862-cc92fbc-release)",
-      "versionCode": 862,
+      "version": "4.2 (899-84bbcb5-release)",
+      "versionCode": 899,
       "author": "Rem01Gaming",
       "description": "Special performance module for your Device.",
       "categories": [
@@ -700,8 +700,8 @@
       "readme": "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1746191927.0,
-      "size": 854305,
+      "timestamp": 1747038441.0,
+      "size": 855270,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -729,6 +729,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.1_862-cc92fbc-release.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.1_862-cc92fbc-release.md",
           "size": 854305
+        },
+        {
+          "timestamp": 1747038441.0,
+          "version": "4.2 (899-84bbcb5-release)",
+          "versionCode": 899,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.2_899-84bbcb5-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.2_899-84bbcb5-release.md",
+          "size": 855270
         }
       ]
     },
