@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1747109807.947331
+    "timestamp": 1747124290.536511
   },
   "modules": [
     {
@@ -56,16 +56,16 @@
     {
       "id": "COPG",
       "name": "\u2728 COPG spoof \u2728",
-      "version": "4.0.2",
-      "versionCode": 402,
+      "version": "4.3.1",
+      "versionCode": 431,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games to unlock max fps.",
       "support": "https://github.com/AlirezaParsi/COPG/issues",
       "readme": "https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1745871940.0,
-      "size": 2591930,
+      "timestamp": 1747121683.0,
+      "size": 2587638,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.RESETPROP",
@@ -89,20 +89,20 @@
       },
       "versions": [
         {
-          "timestamp": 1744322299.0,
-          "version": "3.3.4",
-          "versionCode": 334,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/3.3.4_334.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/3.3.4_334.md",
-          "size": 2380617
-        },
-        {
           "timestamp": 1745871940.0,
           "version": "4.0.2",
           "versionCode": 402,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.0.2_402.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.0.2_402.md",
           "size": 2591930
+        },
+        {
+          "timestamp": 1747121683.0,
+          "version": "4.3.1",
+          "versionCode": 431,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.1_431.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.1_431.md",
+          "size": 2587638
         }
       ]
     },
