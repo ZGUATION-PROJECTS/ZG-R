@@ -1,6 +1,6 @@
 id: tricky_store
 enable: true
-verified: false
+verified: true
 update_to: https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/update.json
 source: https://github.com/5ec1cff/TrickyStore
 categories:
