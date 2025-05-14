@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
   "metadata": {
     "version": 1,
-    "timestamp": 1747184510.583073
+    "timestamp": 1747196211.082664
   },
   "modules": [
     {
@@ -1013,7 +1013,7 @@
         "System"
       ],
       "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
-      "verified": false,
+      "verified": true,
       "timestamp": 1738906998.0,
       "size": 2350601,
       "permissions": [
