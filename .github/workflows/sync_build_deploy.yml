@@ -174,7 +174,8 @@ jobs:
           
           - Sync repository data
           - Update module index
-          - Generate static pages"
+          - Generate static pages
+          Co-Authored-By: ZG089 <159061718+ZG089@users.noreply.github.com>"
           git push
 
 
