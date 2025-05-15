@@ -1,6 +1,6 @@
 id: TA_utl
 enable: true
-update_to: https://github.com/KOWX712/Tricky-Addon-Update-Target-List/blob/main/update.json
+update_to: https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/update.json
 source: https://github.com/KOWX712/Tricky-Addon-Update-Target-List
 support: https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues
 categories:
