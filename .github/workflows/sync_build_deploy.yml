@@ -139,7 +139,8 @@ jobs:
             
             - Remove old module versions
             - Keep latest two versions for each module
-            - Update update.json files"
+            - Update update.json files
+            Co-Authored-By: ZG089 <159061718+ZG089@users.noreply.github.com>"
             
             # 推送更改
             git push
