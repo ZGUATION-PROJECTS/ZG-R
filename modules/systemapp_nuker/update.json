@@ -1,0 +1,14 @@
+{
+  "id": "systemapp_nuker",
+  "timestamp": 1746679502.0,
+  "versions": [
+    {
+      "timestamp": 1746679502.0,
+      "version": "v1.1.5",
+      "versionCode": 115,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.5_115.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.5_115.md",
+      "size": 1242775
+    }
+  ]
+}

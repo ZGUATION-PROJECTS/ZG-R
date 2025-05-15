@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1747325335.753176
+    "timestamp": 1747349900.072593
   },
   "modules": [
     {
@@ -211,8 +211,8 @@
       "author": "Psk.It",
       "description": "MiXplorer + all addons    ",
       "added": 1719068053.727193,
-      "support": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer/issues",
-      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/MiXplorer/main/README.md",
+      "support": "https://github.com/Psk-Ita/MiXplorer/issues",
+      "readme": "https://raw.githubusercontent.com/Psk-Ita/MiXplorer/main/README.md",
       "verified": false,
       "timestamp": 1711189357.0,
       "size": 45326744,
@@ -225,7 +225,7 @@
       "track": {
         "type": "GIT",
         "added": 1719068053.727193,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/MiXplorer.git",
+        "source": "https://github.com/Psk-Ita/MiXplorer",
         "antifeatures": null,
         "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/MiXplorer/track.yaml"
       },
@@ -961,6 +961,51 @@
       ]
     },
     {
+      "id": "mountify",
+      "name": "mountify",
+      "version": "v1.4.0",
+      "versionCode": 140,
+      "author": "xx",
+      "description": "Globally mounted modules and whiteouts via OverlayFS.",
+      "categories": [
+        "System",
+        "Mounts"
+      ],
+      "support": "https://github.com/backslashxx/mountify/issues",
+      "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1741872659.0,
+      "size": 12257,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/backslashxx/mountify",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/mountify/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1741872659.0,
+          "version": "v1.4.0",
+          "versionCode": 140,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.0_140.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.0_140.md",
+          "size": 12257
+        }
+      ]
+    },
+    {
       "id": "net-switch",
       "name": "Net Switch",
       "version": "1.2 (54-64b5764-release)",
@@ -1046,6 +1091,49 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/sensitive_props/1.4.0_15.zip",
           "changelog": "",
           "size": 16172
+        }
+      ]
+    },
+    {
+      "id": "systemapp_nuker",
+      "name": "App Nuker",
+      "version": "v1.1.5",
+      "versionCode": 115,
+      "author": "ChiseWaguri & Contributors",
+      "description": "description=WebUI-based debloater and whiteout creator",
+      "support": "https://github.com/ChiseWaguri/systemapp_nuker/issues",
+      "readme": "https://raw.githubusercontent.com/ChiseWaguri/systemapp_nuker/main/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1746679502.0,
+      "size": 1242775,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/ChiseWaguri/systemapp_nuker.git",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1746679502.0,
+          "version": "v1.1.5",
+          "versionCode": 115,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.5_115.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.5_115.md",
+          "size": 1242775
         }
       ]
     },
