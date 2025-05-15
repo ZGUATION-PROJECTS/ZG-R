@@ -1,0 +1,14 @@
+{
+  "id": "TA_utl",
+  "timestamp": 1746893051.0,
+  "versions": [
+    {
+      "timestamp": 1746893051.0,
+      "version": "v3.9",
+      "versionCode": 390,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v3.9_390.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v3.9_390.md",
+      "size": 1283556
+    }
+  ]
+}

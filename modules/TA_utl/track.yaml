@@ -4,5 +4,7 @@ update_to: https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-
 source: https://github.com/KOWX712/Tricky-Addon-Update-Target-List
 support: https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues
 categories:
-  - System
+- System
 readme: https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/main/README.md
+last_update: 1746893051.0
+versions: 1
