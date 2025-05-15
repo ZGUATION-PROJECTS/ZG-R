@@ -1,12 +1,13 @@
 {
   "id": "ZGR",
-  "name": "ZG089's Modules Repository",
+  "name": "ＺＧ－Ｒ | ZG089's Modules Repo",
   "website": "https://zguation-projects.github.io/ZG-R",
   "support": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
   "donate": "https://www.buymeacoffee.com/ZG089",
   "submission": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
   "base_url": "https://zguation-projects.github.io/ZG-R/",
-  "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!",
+  "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo!
+  NOTE: This repo also contains ZG089's projects (modules) as well.",
   "max_num": 2,
   "enable_log": true,
   "log_dir": "log"
