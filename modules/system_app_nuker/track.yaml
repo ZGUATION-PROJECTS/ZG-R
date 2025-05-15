@@ -1,7 +1,7 @@
 id: systemapp_nuker
 enable: true
 verified: false
-update_to: https://raw.githubusercontent.com/ChiseWaguri/systemapp_nuker/main/update.json
+update_to: https://raw.githubusercontent.com/chisewaguri/systemapp_nuker/refs/heads/master/update.json
 source: https://github.com/ChiseWaguri/systemapp_nuker
 support: https://github.com/ChiseWaguri/systemapp_nuker/issues
 readme: https://raw.githubusercontent.com/ChiseWaguri/systemapp_nuker/main/README.md
