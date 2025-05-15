@@ -2,7 +2,7 @@ id: MiXplorer
 enable: true
 verified: false
 update_to: https://github.com/Psk-Ita/MiXplorer.git
-source: https://github.com/Psk-Ita/MiXplorer.git
+source: https://github.com/Psk-Ita/MiXplorer
 support: https://github.com/Psk-Ita/MiXplorer/issues
 readme: https://raw.githubusercontent.com/Psk-Ita/MiXplorer/main/README.md
 added: 1719068053.727193
