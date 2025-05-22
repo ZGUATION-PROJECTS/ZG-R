@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1747877992.346533
+    "timestamp": 1747887939.737354
   },
   "modules": [
     {
@@ -724,8 +724,8 @@
     {
       "id": "encore",
       "name": "Encore Tweaks",
-      "version": "4.2 (899-84bbcb5-release)",
-      "versionCode": 899,
+      "version": "4.3 (933-36f8bbc-release)",
+      "versionCode": 933,
       "author": "Rem01Gaming",
       "description": "Special performance module for your Device.",
       "categories": [
@@ -748,8 +748,8 @@
       "readme": "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1747038441.0,
-      "size": 855270,
+      "timestamp": 1747734914.0,
+      "size": 856289,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -771,20 +771,20 @@
       },
       "versions": [
         {
-          "timestamp": 1746191927.0,
-          "version": "4.1 (862-cc92fbc-release)",
-          "versionCode": 862,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.1_862-cc92fbc-release.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.1_862-cc92fbc-release.md",
-          "size": 854305
-        },
-        {
           "timestamp": 1747038441.0,
           "version": "4.2 (899-84bbcb5-release)",
           "versionCode": 899,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.2_899-84bbcb5-release.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.2_899-84bbcb5-release.md",
           "size": 855270
+        },
+        {
+          "timestamp": 1747734914.0,
+          "version": "4.3 (933-36f8bbc-release)",
+          "versionCode": 933,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.3_933-36f8bbc-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.3_933-36f8bbc-release.md",
+          "size": 856289
         }
       ]
     },
