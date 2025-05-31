@@ -3,20 +3,20 @@
   "timestamp": 1735904596.0,
   "versions": [
     {
-      "timestamp": 1745837964.0,
-      "version": "v2.0.2",
-      "versionCode": 202,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.2_202.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.2_202.md",
-      "size": 101192
-    },
-    {
       "timestamp": 1748664943.0,
       "version": "v2.0.3",
       "versionCode": 203,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.3_203.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.3_203.md",
       "size": 116668
+    },
+    {
+      "timestamp": 1748680302.0,
+      "version": "v2.0.4",
+      "versionCode": 204,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.4_204.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.4_204.md",
+      "size": 116655
     }
   ]
 }
