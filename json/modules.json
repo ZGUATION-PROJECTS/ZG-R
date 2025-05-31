@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1748655484.248151
+    "timestamp": 1748665406.57295
   },
   "modules": [
     {
@@ -622,8 +622,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v2.0.2",
-      "versionCode": 202,
+      "version": "v2.0.3",
+      "versionCode": 203,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "added": 1733301165,
@@ -642,8 +642,8 @@
       ],
       "license": "WTFPL",
       "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
-      "timestamp": 1745837964.0,
-      "size": 101192,
+      "timestamp": 1748664943.0,
+      "size": 116668,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -665,20 +665,20 @@
       },
       "versions": [
         {
-          "timestamp": 1744208140.0,
-          "version": "v2.0.1",
-          "versionCode": 201,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.1_201.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.1_201.md",
-          "size": 88217
-        },
-        {
           "timestamp": 1745837964.0,
           "version": "v2.0.2",
           "versionCode": 202,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.2_202.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.2_202.md",
           "size": 101192
+        },
+        {
+          "timestamp": 1748664943.0,
+          "version": "v2.0.3",
+          "versionCode": 203,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.3_203.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.3_203.md",
+          "size": 116668
         }
       ]
     },
