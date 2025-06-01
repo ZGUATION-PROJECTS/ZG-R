@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1748743022.76449
+    "timestamp": 1748752536.907716
   },
   "modules": [
     {
@@ -724,8 +724,8 @@
     {
       "id": "encore",
       "name": "Encore Tweaks",
-      "version": "4.3 (933-36f8bbc-release)",
-      "versionCode": 933,
+      "version": "4.4 (972-620057d-release)",
+      "versionCode": 972,
       "author": "Rem01Gaming",
       "description": "Special performance module for your Device.",
       "categories": [
@@ -748,17 +748,15 @@
       "readme": "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1747734914.0,
-      "size": 856289,
+      "timestamp": 1748751263.0,
+      "size": 197828,
       "permissions": [
         "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
       ],
       "features": {
         "service": true,
-        "post_fs_data": true,
         "action": true,
         "webroot": true
       },
@@ -771,20 +769,20 @@
       },
       "versions": [
         {
-          "timestamp": 1747038441.0,
-          "version": "4.2 (899-84bbcb5-release)",
-          "versionCode": 899,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.2_899-84bbcb5-release.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.2_899-84bbcb5-release.md",
-          "size": 855270
-        },
-        {
           "timestamp": 1747734914.0,
           "version": "4.3 (933-36f8bbc-release)",
           "versionCode": 933,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.3_933-36f8bbc-release.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.3_933-36f8bbc-release.md",
           "size": 856289
+        },
+        {
+          "timestamp": 1748751263.0,
+          "version": "4.4 (972-620057d-release)",
+          "versionCode": 972,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.4_972-620057d-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.4_972-620057d-release.md",
+          "size": 197828
         }
       ]
     },
