@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1749313362.663097
+    "timestamp": 1749324145.583881
   },
   "modules": [
     {
@@ -62,7 +62,7 @@
       "description": "Spoof your device for games to unlock max fps.",
       "support": "https://github.com/AlirezaParsi/COPG/issues",
       "readme": "https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/README.md",
-      "verified": false,
+      "verified": true,
       "added": 0,
       "timestamp": 1747121683.0,
       "size": 2587638,
