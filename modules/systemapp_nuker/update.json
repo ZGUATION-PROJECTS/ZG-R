@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.5_115.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.5_115.md",
       "size": 1242775
+    },
+    {
+      "timestamp": 1749311876.0,
+      "version": "v1.1.6",
+      "versionCode": 116,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.6_116.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.6_116.md",
+      "size": 1241724
     }
   ]
 }
