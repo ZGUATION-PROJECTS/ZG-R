@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750077758.438743
+    "timestamp": 1750085010.222053
   },
   "modules": [
     {
@@ -1140,6 +1140,49 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.6_116.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.6_116.md",
           "size": 1241724
+        }
+      ]
+    },
+    {
+      "id": "tcp_optimiser",
+      "name": "TCP Optimiser ",
+      "version": "2.1",
+      "versionCode": 13,
+      "author": "fatalcoder524",
+      "description": "TCP Optimisations & update tcp_cong_algo based on interface",
+      "support": "https://github.com/fatalcoder524/TCP_Optimiser_Module/issues",
+      "readme": "https://raw.githubusercontent.com/fatalcoder524/TCP_Optimiser_Module/main/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1749037449.0,
+      "size": 71673,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/fatalcoder524/TCP_Optimiser_Module",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1749037449.0,
+          "version": "2.1",
+          "versionCode": 13,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.1_13.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.1_13.md",
+          "size": 71673
         }
       ]
     },
