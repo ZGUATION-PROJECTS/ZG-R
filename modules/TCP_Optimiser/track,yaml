@@ -1,0 +1,8 @@
+id: tcp_optimiser
+enable: true
+verified: false
+update_to: https://raw.githubusercontent.com/fatalcoder524/TCP_Optimiser_Module/main/update.json
+source: https://github.com/fatalcoder524/TCP_Optimiser_Module
+support: https://github.com/fatalcoder524/TCP_Optimiser_Module/issues
+readme: https://raw.githubusercontent.com/fatalcoder524/TCP_Optimiser_Module/main/README.md
+versions: 2
