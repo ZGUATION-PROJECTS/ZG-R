@@ -1,0 +1,8 @@
+id: playintegrityfork
+enable: true
+verified: true
+update_to: https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/update.json
+source: https://github.com/osm0sis/PlayIntegrityFork
+support: https://github.com/osm0sis/PlayIntegrityFork/issues
+readme: https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/README.md
+versions: 2
