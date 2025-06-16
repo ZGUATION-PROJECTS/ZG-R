@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750085010.222053
+    "timestamp": 1750087392.013634
   },
   "modules": [
     {
@@ -278,7 +278,9 @@
         "type": "ONLINE_JSON",
         "added": null,
         "source": "https://github.com/chiteroman/PlayIntegrityFix",
-        "antifeatures": null,
+        "antifeatures": [
+          "Discontinued (EOL)"
+        ],
         "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/track.yaml"
       },
       "versions": [
@@ -297,6 +299,47 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v19.1_19100.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v19.1_19100.md",
           "size": 127130
+        }
+      ]
+    },
+    {
+      "id": "PlayIntegrityFork",
+      "name": "Play Integrity Fork",
+      "version": "v13",
+      "versionCode": 130000,
+      "author": "osm0sis & chiteroman @ xda-developers",
+      "description": "Fix <A13 DEVICE (Play Integrity) verdict",
+      "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
+      "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/README.md",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1747424290.0,
+      "size": 268323,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/osm0sis/PlayIntegrityFork",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1747424290.0,
+          "version": "v13",
+          "versionCode": 130000,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v13_130000.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v13_130000.md",
+          "size": 268323
         }
       ]
     },

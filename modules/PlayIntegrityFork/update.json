@@ -1,0 +1,14 @@
+{
+  "id": "PlayIntegrityFork",
+  "timestamp": 1747424290.0,
+  "versions": [
+    {
+      "timestamp": 1747424290.0,
+      "version": "v13",
+      "versionCode": 130000,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v13_130000.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v13_130000.md",
+      "size": 268323
+    }
+  ]
+}
