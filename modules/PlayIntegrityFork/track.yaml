@@ -1,4 +1,4 @@
-id: playintegrityfork
+id: PlayIntegrityFork
 enable: true
 verified: true
 update_to: https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/update.json
