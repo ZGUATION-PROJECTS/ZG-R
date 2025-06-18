@@ -1,0 +1,14 @@
+{
+  "id": "PIF-Next",
+  "timestamp": 1749953396.0,
+  "versions": [
+    {
+      "timestamp": 1749953396.0,
+      "version": "v1.7",
+      "versionCode": 1,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v1.7_1.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v1.7_1.md",
+      "size": 149611
+    }
+  ]
+}

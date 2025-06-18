@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750263994.447688
+    "timestamp": 1750271940.6318
   },
   "modules": [
     {
@@ -237,6 +237,49 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/MiXplorer/v6.64.3_at20240323_29.zip",
           "changelog": "",
           "size": 45326744
+        }
+      ]
+    },
+    {
+      "id": "PIF-Next",
+      "name": "PlayIntegrityFix-NEXT ",
+      "version": "v1.7",
+      "versionCode": 1,
+      "author": "@ericinacio",
+      "description": "This fork aims to achieve valid attestation on devices that have the new PlayIntegrity API rules.",
+      "support": "https://github.com/EricInacio01/PlayIntegrityFix-NEXT/issues",
+      "readme": "https://raw.githubusercontent.com/EricInacio01/PlayIntegrityFix-NEXT/main/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1749953396.0,
+      "size": 149611,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/EricInacio01/PlayIntegrityFix-NEXT",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1749953396.0,
+          "version": "v1.7",
+          "versionCode": 1,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v1.7_1.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v1.7_1.md",
+          "size": 149611
         }
       ]
     },
@@ -1179,16 +1222,16 @@
     {
       "id": "systemapp_nuker",
       "name": "App Nuker",
-      "version": "v1.1.6",
-      "versionCode": 116,
+      "version": "v1.1.7",
+      "versionCode": 117,
       "author": "ChiseWaguri & Contributors",
       "description": "description=WebUI-based debloater and whiteout creator",
       "support": "https://github.com/ChiseWaguri/systemapp_nuker/issues",
       "readme": "https://raw.githubusercontent.com/ChiseWaguri/systemapp_nuker/main/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1749311876.0,
-      "size": 1241724,
+      "timestamp": 1750270921.0,
+      "size": 1242016,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1210,20 +1253,20 @@
       },
       "versions": [
         {
-          "timestamp": 1746679502.0,
-          "version": "v1.1.5",
-          "versionCode": 115,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.5_115.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.5_115.md",
-          "size": 1242775
-        },
-        {
           "timestamp": 1749311876.0,
           "version": "v1.1.6",
           "versionCode": 116,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.6_116.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.6_116.md",
           "size": 1241724
+        },
+        {
+          "timestamp": 1750270921.0,
+          "version": "v1.1.7",
+          "versionCode": 117,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.7_117.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v1.1.7_117.md",
+          "size": 1242016
         }
       ]
     },
