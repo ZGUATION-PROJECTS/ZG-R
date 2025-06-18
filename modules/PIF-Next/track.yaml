@@ -1,0 +1,7 @@
+id: PIF-Next
+enable: true
+verified: false
+update_to: https://raw.githubusercontent.com/EricInacio01/PlayIntegrityFix-NEXT/main/update.json
+source: https://github.com/EricInacio01/PlayIntegrityFix-NEXT
+support: https://github.com/EricInacio01/PlayIntegrityFix-NEXT/issues
+readme: https://raw.githubusercontent.com/EricInacio01/PlayIntegrityFix-NEXT/main/README.md
