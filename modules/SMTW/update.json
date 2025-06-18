@@ -1,0 +1,14 @@
+{
+  "id": "SMTW",
+  "timestamp": 1750206949.0,
+  "versions": [
+    {
+      "timestamp": 1750206949.0,
+      "version": "v2.3.0",
+      "versionCode": 230,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v2.3.0_230.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v2.3.0_230.md",
+      "size": 3982389
+    }
+  ]
+}

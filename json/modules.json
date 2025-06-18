@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750261405.620065
+    "timestamp": 1750261533.069069
   },
   "modules": [
     {
@@ -402,6 +402,47 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v6.0_600.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v6.0_600.md",
           "size": 1759912
+        }
+      ]
+    },
+    {
+      "id": "SMTW",
+      "name": "SuperMario Tweaker",
+      "version": "v2.3.0",
+      "versionCode": 230,
+      "author": "MRX7014",
+      "description": "A tweaker module that can improve any device performance and stability (Gaming, Daily Useage, etc...)",
+      "support": "https://github.com/mrx7014/SuperMario-Tweaker/issues",
+      "readme": "https://raw.githubusercontent.com/mrx7014/SuperMario-Tweaker/main/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1750206949.0,
+      "size": 3982389,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.ACTION"
+      ],
+      "features": {
+        "service": true,
+        "resetprop": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/mrx7014/SuperMario-Tweaker",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/SMTW/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1750206949.0,
+          "version": "v2.3.0",
+          "versionCode": 230,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v2.3.0_230.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v2.3.0_230.md",
+          "size": 3982389
         }
       ]
     },
