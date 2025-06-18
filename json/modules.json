@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750235274.960235
+    "timestamp": 1750250527.02573
   },
   "modules": [
     {
@@ -1232,8 +1232,8 @@
     {
       "id": "tricky_store",
       "name": "Tricky Store",
-      "version": "v1.2.1 (158-51390a7-release)",
-      "versionCode": 158,
+      "version": "v1.3.0 (180-8acfa57-release)",
+      "versionCode": 180,
       "author": "5ec1cff",
       "description": "A trick of keystore",
       "added": 1723905223.0,
@@ -1242,8 +1242,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
       "verified": true,
-      "timestamp": 1738906998.0,
-      "size": 2350601,
+      "timestamp": 1750249151.0,
+      "size": 2694118,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1273,6 +1273,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.md",
           "size": 2350601
+        },
+        {
+          "timestamp": 1750249151.0,
+          "version": "v1.3.0 (180-8acfa57-release)",
+          "versionCode": 180,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.3.0_180-8acfa57-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.3.0_180-8acfa57-release.md",
+          "size": 2694118
         }
       ]
     },
