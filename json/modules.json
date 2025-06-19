@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750321666.617947
+    "timestamp": 1750336892.303471
   },
   "modules": [
     {
@@ -531,8 +531,8 @@
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v3.9",
-      "versionCode": 390,
+      "version": "v4.0",
+      "versionCode": 538,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "categories": [
@@ -546,8 +546,8 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1746893051.0,
-      "size": 1283556,
+      "timestamp": 1750335605.0,
+      "size": 4286527,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -573,6 +573,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v3.9_390.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v3.9_390.md",
           "size": 1283556
+        },
+        {
+          "timestamp": 1750335605.0,
+          "version": "v4.0",
+          "versionCode": 538,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.0_538.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.0_538.md",
+          "size": 4286527
         }
       ]
     },
