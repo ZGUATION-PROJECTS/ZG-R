@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750423283.320577
+    "timestamp": 1750436738.568467
   },
   "modules": [
     {
@@ -450,17 +450,17 @@
     },
     {
       "id": "SMTW",
-      "name": "SuperMario Tweaker",
-      "version": "v2.3.0",
-      "versionCode": 230,
+      "name": "SuperMario Tweaker - Snap",
+      "version": "v3.0.0",
+      "versionCode": 300,
       "author": "MRX7014",
       "description": "A tweaker module that can improve any device performance and stability (Gaming, Daily Useage, etc...)",
       "support": "https://github.com/mrx7014/SuperMario-Tweaker/issues",
       "readme": "https://raw.githubusercontent.com/mrx7014/SuperMario-Tweaker/main/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1750206949.0,
-      "size": 3982389,
+      "timestamp": 1750425714.0,
+      "size": 3286102,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.RESETPROP",
@@ -486,6 +486,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v2.3.0_230.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v2.3.0_230.md",
           "size": 3982389
+        },
+        {
+          "timestamp": 1750425714.0,
+          "version": "v3.0.0",
+          "versionCode": 300,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v3.0.0_300.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v3.0.0_300.md",
+          "size": 3286102
         }
       ]
     },
