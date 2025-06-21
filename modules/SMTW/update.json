@@ -3,20 +3,20 @@
   "timestamp": 1750206949.0,
   "versions": [
     {
-      "timestamp": 1750206949.0,
-      "version": "v2.3.0",
-      "versionCode": 230,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v2.3.0_230.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v2.3.0_230.md",
-      "size": 3982389
-    },
-    {
       "timestamp": 1750425714.0,
       "version": "v3.0.0",
       "versionCode": 300,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v3.0.0_300.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v3.0.0_300.md",
       "size": 3286102
+    },
+    {
+      "timestamp": 1750455154.0,
+      "version": "v3.0.1",
+      "versionCode": 301,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v3.0.1_301.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v3.0.1_301.md",
+      "size": 3283646
     }
   ]
 }
