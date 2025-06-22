@@ -4,6 +4,6 @@ verified: false
 update_to: https://raw.githubusercontent.com/mrx7014/SuperMario-Tweaker/refs/heads/master/update.json
 source: https://github.com/mrx7014/SuperMario-Tweaker
 support: https://github.com/mrx7014/SuperMario-Tweaker/issues
-readme: https://raw.githubusercontent.com/mrx7014/SuperMario-Tweaker/main/README.md
+readme: https://github.com/mrx7014/SuperMario-Tweaker#readme
 last_update: 1750455154.0
 versions: 2
