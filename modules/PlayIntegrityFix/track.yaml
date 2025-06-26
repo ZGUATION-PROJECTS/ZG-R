@@ -12,6 +12,7 @@ categories:
 - Theme
 antifeatures:
   - Discontinued (EOL)
+  - NoSourceSince
 readme: https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md
 last_update: 1747493975.0
 versions: 2
