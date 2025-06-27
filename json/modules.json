@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1751041370.36171
+    "timestamp": 1751048735.022998
   },
   "modules": [
     {
@@ -243,25 +243,27 @@
     {
       "id": "PIF-Next",
       "name": "PlayIntegrityFix-NEXT ",
-      "version": "v1.7",
-      "versionCode": 1,
+      "version": "v2.0",
+      "versionCode": 2,
       "author": "@ericinacio",
       "description": "This fork aims to achieve valid attestation on devices that have the new PlayIntegrity API rules.",
       "support": "https://github.com/EricInacio01/PlayIntegrityFix-NEXT/issues",
       "readme": "https://raw.githubusercontent.com/EricInacio01/PlayIntegrityFix-NEXT/main/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1749953396.0,
-      "size": 149611,
+      "timestamp": 1751047725.0,
+      "size": 151963,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ZYGISK",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
       ],
       "features": {
         "service": true,
         "post_fs_data": true,
+        "zygisk": true,
         "action": true,
         "webroot": true
       },
@@ -280,6 +282,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v1.7_1.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v1.7_1.md",
           "size": 149611
+        },
+        {
+          "timestamp": 1751047725.0,
+          "version": "v2.0",
+          "versionCode": 2,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v2.0_2.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v2.0_2.md",
+          "size": 151963
         }
       ]
     },

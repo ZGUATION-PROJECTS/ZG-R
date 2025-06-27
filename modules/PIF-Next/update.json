@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v1.7_1.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v1.7_1.md",
       "size": 149611
+    },
+    {
+      "timestamp": 1751047725.0,
+      "version": "v2.0",
+      "versionCode": 2,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v2.0_2.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v2.0_2.md",
+      "size": 151963
     }
   ]
 }
