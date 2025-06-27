@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1750976229.683321
+    "timestamp": 1750987593.676784
   },
   "modules": [
     {
@@ -1105,10 +1105,10 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.4.0",
-      "versionCode": 140,
+      "version": "v1.4.2",
+      "versionCode": 142,
       "author": "xx",
-      "description": "Globally mounted modules and whiteouts via OverlayFS.",
+      "description": "Globally mounted modules via OverlayFS.",
       "categories": [
         "System",
         "Mounts"
@@ -1117,8 +1117,8 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1741872659.0,
-      "size": 12257,
+      "timestamp": 1750986901.0,
+      "size": 12234,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1144,6 +1144,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.0_140.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.0_140.md",
           "size": 12257
+        },
+        {
+          "timestamp": 1750986901.0,
+          "version": "v1.4.2",
+          "versionCode": 142,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.2_142.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.2_142.md",
+          "size": 12234
         }
       ]
     },

@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.0_140.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.0_140.md",
       "size": 12257
+    },
+    {
+      "timestamp": 1750986901.0,
+      "version": "v1.4.2",
+      "versionCode": 142,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.2_142.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.2_142.md",
+      "size": 12234
     }
   ]
 }
