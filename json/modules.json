@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1751257929.99392
+    "timestamp": 1751261890.368028
   },
   "modules": [
     {
@@ -290,69 +290,6 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v2.0_2.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Next/v2.0_2.md",
           "size": 151963
-        }
-      ]
-    },
-    {
-      "id": "PlayIntegrityFix",
-      "name": "Play Integrity Fix",
-      "version": "v19.1",
-      "versionCode": 19100,
-      "author": "chiteroman",
-      "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
-      "categories": [
-        "Font",
-        "Network",
-        "Script",
-        "Theme"
-      ],
-      "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
-      "license": "GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
-      "verified": false,
-      "added": 0,
-      "timestamp": 1747493975.0,
-      "size": 127130,
-      "permissions": [
-        "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
-        "magisk.permission.ZYGISK",
-        "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
-      ],
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "zygisk": true,
-        "action": true,
-        "webroot": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": null,
-        "source": "https://github.com/chiteroman/PlayIntegrityFix",
-        "antifeatures": [
-          "Discontinued (EOL)",
-          "NoSourceSince"
-        ],
-        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/track.yaml"
-      },
-      "versions": [
-        {
-          "timestamp": 1744131518.0,
-          "version": "v19.0",
-          "versionCode": 19000,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v19.0_19000.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v19.0_19000.md",
-          "size": 177686
-        },
-        {
-          "timestamp": 1747493975.0,
-          "version": "v19.1",
-          "versionCode": 19100,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v19.1_19100.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v19.1_19100.md",
-          "size": 127130
         }
       ]
     },
