@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1751264916.692737
+    "timestamp": 1751265254.17276
   },
   "modules": [
     {
@@ -237,6 +237,47 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/MiXplorer/v6.64.3_at20240323_29.zip",
           "changelog": "",
           "size": 45326744
+        }
+      ]
+    },
+    {
+      "id": "NoHello",
+      "name": "Nohello",
+      "version": "v0.0.7 (53-4d53ecf-release)",
+      "versionCode": 53,
+      "author": "mhmrdd",
+      "description": "A Zygisk module to hide root.",
+      "support": "https://github.com/MhmRdd/NoHello/issues",
+      "readme": "https://github.com/MhmRdd/NoHello#readme",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1748661036.0,
+      "size": 568365,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/MhmRdd/NoHello",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/NoHello/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1748661036.0,
+          "version": "v0.0.7 (53-4d53ecf-release)",
+          "versionCode": 53,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/NoHello/v0.0.7_53-4d53ecf-release.zip",
+          "changelog": "",
+          "size": 568365
         }
       ]
     },

@@ -1,0 +1,14 @@
+{
+  "id": "NoHello",
+  "timestamp": 1748661036.0,
+  "versions": [
+    {
+      "timestamp": 1748661036.0,
+      "version": "v0.0.7 (53-4d53ecf-release)",
+      "versionCode": 53,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/NoHello/v0.0.7_53-4d53ecf-release.zip",
+      "changelog": "",
+      "size": 568365
+    }
+  ]
+}
