@@ -1,7 +1,7 @@
 id: NoHello
 enable: true
 verified: false
-update_to: https://github.com/MhmRdd/NoHello/releases
+update_to: https://github.com/MhmRdd/NoHello/releases/download/0.0.7/Nohello-v0.0.7-53-4d53ecf-release.zip
 source: https://github.com/MhmRdd/NoHello
 support: https://github.com/MhmRdd/NoHello/issues
 readme: https://github.com/MhmRdd/NoHello#readme
