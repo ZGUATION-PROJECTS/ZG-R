@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1751724995.624612
+    "timestamp": 1751732439.903037
   },
   "modules": [
     {
@@ -396,8 +396,8 @@
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/README.md",
       "verified": true,
-      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/logo.png",
       "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/banner.png",
+      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/logo.png",
       "added": 0,
       "timestamp": 1743478933.0,
       "size": 1759912,
@@ -537,10 +537,10 @@
       ],
       "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
       "readme": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/README.md",
-      "license": " GPL-3.0",
       "note": {
         "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
       },
+      "license": " GPL-3.0",
       "verified": false,
       "added": 0,
       "timestamp": 1750335605.0,
@@ -766,14 +766,14 @@
         "Magisk"
       ],
       "verified": true,
-      "support": "https://github.com/bindhosts/bindhosts/issues",
+      "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
       "screenshots": [
         "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_manager.png",
         "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/mmrl_webui.png",
         "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
       ],
+      "support": "https://github.com/bindhosts/bindhosts/issues",
       "license": "WTFPL",
-      "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
       "timestamp": 1750727025.0,
       "size": 116707,
       "permissions": [
@@ -968,14 +968,13 @@
       "versionCode": 102,
       "author": "Der_Googler",
       "description": "GCC Toolchain is usable to build many things, such as native modules for Node.js",
+      "license": "GPL-3.0",
+      "support": "https://github.com/Googlers-Repo/gcc/issues",
+      "icon": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/assets/icon.png",
       "categories": [
         "System",
         "Coding"
       ],
-      "icon": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/assets/icon.png",
-      "support": "https://github.com/Googlers-Repo/gcc/issues",
-      "license": "GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/README.md",
       "require": [
         "mkshrc"
       ],
@@ -984,6 +983,7 @@
         "title": "Beta",
         "message": "This module is sill in it's beta, so please don't complain about bugs etc. Please be aware that this module depends on Systemless Mkshrc."
       },
+      "readme": "https://raw.githubusercontent.com/Googlers-Repo/gcc/master/README.md",
       "verified": false,
       "added": 0,
       "timestamp": 1726310851.0,
