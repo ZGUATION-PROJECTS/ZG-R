@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1753431596.456694
+    "timestamp": 1753446555.038889
   },
   "modules": [
     {
@@ -528,8 +528,8 @@
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v4.0",
-      "versionCode": 538,
+      "version": "v4.1",
+      "versionCode": 572,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "categories": [
@@ -543,8 +543,8 @@
       "license": " GPL-3.0",
       "verified": false,
       "added": 0,
-      "timestamp": 1750335605.0,
-      "size": 4286527,
+      "timestamp": 1753440707.0,
+      "size": 4300641,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -564,20 +564,20 @@
       },
       "versions": [
         {
-          "timestamp": 1746893051.0,
-          "version": "v3.9",
-          "versionCode": 390,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v3.9_390.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v3.9_390.md",
-          "size": 1283556
-        },
-        {
           "timestamp": 1750335605.0,
           "version": "v4.0",
           "versionCode": 538,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.0_538.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.0_538.md",
           "size": 4286527
+        },
+        {
+          "timestamp": 1753440707.0,
+          "version": "v4.1",
+          "versionCode": 572,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.1_572.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.1_572.md",
+          "size": 4300641
         }
       ]
     },
