@@ -1,9 +1,9 @@
-id: COPG
 enable: true
-verified: true
-update_to: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/update.json
+id: COPG
+last_update: 1753469846.0
+readme: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/README.md
 source: https://github.com/AlirezaParsi/COPG
 support: https://github.com/AlirezaParsi/COPG/issues
-readme: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/README.md
-last_update: 1751712073.0
+update_to: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/update.json
+verified: true
 versions: 2
