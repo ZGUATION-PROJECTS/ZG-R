@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1753460316.578651
+    "timestamp": 1753474555.413482
   },
   "modules": [
     {
@@ -56,16 +56,16 @@
     {
       "id": "COPG",
       "name": "\u2728 COPG spoof \u2728",
-      "version": "4.3.4",
-      "versionCode": 434,
+      "version": "4.3.5",
+      "versionCode": 435,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features.",
       "support": "https://github.com/AlirezaParsi/COPG/issues",
       "readme": "https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1751712073.0,
-      "size": 2610122,
+      "timestamp": 1753469846.0,
+      "size": 2611220,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.RESETPROP",
@@ -89,20 +89,20 @@
       },
       "versions": [
         {
-          "timestamp": 1750477396.0,
-          "version": "4.3.3",
-          "versionCode": 433,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.3_433.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.3_433.md",
-          "size": 2611552
-        },
-        {
           "timestamp": 1751712073.0,
           "version": "4.3.4",
           "versionCode": 434,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.4_434.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.4_434.md",
           "size": 2610122
+        },
+        {
+          "timestamp": 1753469846.0,
+          "version": "4.3.5",
+          "versionCode": 435,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.5_435.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.5_435.md",
+          "size": 2611220
         }
       ]
     },
