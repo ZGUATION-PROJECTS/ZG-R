@@ -1,11 +1,11 @@
-id: Xtreme-Battery-Saver
+added: 1729804427.076371
 enable: true
-verified: false
-update_to: https://raw.githubusercontent.com/DethByte64/Xtreme-Battery-Saver/main/update.json
+id: Xtreme-Battery-Saver
+last_update: 1755116120.529581
 license: GPL-3.0
+readme: https://raw.githubusercontent.com/DethByte64/Xtreme-Battery-Saver/main/README.md
 source: https://github.com/DethByte64/Xtreme-Battery-Saver.git
 support: https://github.com/DethByte64/Xtreme-Battery-Saver/issues
-readme: https://raw.githubusercontent.com/DethByte64/Xtreme-Battery-Saver/main/README.md
-added: 1729804427.076371
-last_update: 1746061597.442976
+update_to: https://raw.githubusercontent.com/DethByte64/Xtreme-Battery-Saver/main/update.json
+verified: false
 versions: 2

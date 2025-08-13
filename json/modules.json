@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1755101688.161324
+    "timestamp": 1755116128.914694
   },
   "modules": [
     {
@@ -629,8 +629,8 @@
     {
       "id": "Xtreme-Battery-Saver",
       "name": "Xtreme Battery Saver",
-      "version": "v2.1.3",
-      "versionCode": 213,
+      "version": "v2.1.4",
+      "versionCode": 214,
       "author": "DethByte64",
       "description": "An extreme battery saver for Magisk users who really want to stretch their battery life",
       "added": 1729804427.076371,
@@ -638,8 +638,8 @@
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/DethByte64/Xtreme-Battery-Saver/main/README.md",
       "verified": false,
-      "timestamp": 1746061597.442976,
-      "size": 1053205,
+      "timestamp": 1755116120.529581,
+      "size": 1052594,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION"
@@ -657,20 +657,20 @@
       },
       "versions": [
         {
-          "timestamp": 1743192831.855086,
-          "version": "v2.1.2",
-          "versionCode": 212,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.2_212.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.2_212.md",
-          "size": 1053145
-        },
-        {
           "timestamp": 1746061597.442976,
           "version": "v2.1.3",
           "versionCode": 213,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.3_213.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.3_213.md",
           "size": 1053205
+        },
+        {
+          "timestamp": 1755116120.529581,
+          "version": "v2.1.4",
+          "versionCode": 214,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.4_214.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Xtreme-Battery-Saver/v2.1.4_214.md",
+          "size": 1052594
         }
       ]
     },
