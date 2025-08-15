@@ -1,0 +1,8 @@
+enable: true
+verified: true
+license: GPL-3.0
+id: RE-LSP
+readme: https://raw.githubusercontent.com/ThePedroo/ReLSPosed/refs/heads/master/README.md
+source: https://github.com/ThePedroo/ReLSPosed
+update_to: https://github.com/ThePedroo/ReLSPosed/releases/download/v1.0.1/LSPosed-v1.0.1-7190-zygisk-release.zip
+versions: 1
