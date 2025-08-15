@@ -1,8 +1,9 @@
 enable: true
-verified: true
 id: susfs
+last_update: 1752162010.0
 license: AGPL-3.0
 readme: https://github.com/sidex15/susfs4ksu-module/raw/refs/heads/v1.5.2+/README.md
 source: https://github.com/sidex15/susfs4ksu-module
 update_to: https://github.com/sidex15/susfs4ksu-module/raw/refs/heads/v1.5.2+/update.json
+verified: true
 versions: 1
