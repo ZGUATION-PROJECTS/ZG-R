@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1755275444.021427
+    "timestamp": 1755288947.755038
   },
   "modules": [
     {
@@ -56,16 +56,16 @@
     {
       "id": "COPG",
       "name": "\u2728 COPG spoof \u2728",
-      "version": "4.3.5",
-      "versionCode": 435,
+      "version": "4.3.6",
+      "versionCode": 436,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features.",
       "support": "https://github.com/AlirezaParsi/COPG/issues",
       "readme": "https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1753469846.0,
-      "size": 2611220,
+      "timestamp": 1755282360.0,
+      "size": 2609632,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.RESETPROP",
@@ -89,20 +89,20 @@
       },
       "versions": [
         {
-          "timestamp": 1751712073.0,
-          "version": "4.3.4",
-          "versionCode": 434,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.4_434.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.4_434.md",
-          "size": 2610122
-        },
-        {
           "timestamp": 1753469846.0,
           "version": "4.3.5",
           "versionCode": 435,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.5_435.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.5_435.md",
           "size": 2611220
+        },
+        {
+          "timestamp": 1755282360.0,
+          "version": "4.3.6",
+          "versionCode": 436,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.6_436.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.3.6_436.md",
+          "size": 2609632
         }
       ]
     },
@@ -248,6 +248,7 @@
       "author": "mhmrdd",
       "description": "A Zygisk module to hide root.",
       "support": "https://github.com/MhmRdd/NoHello/issues",
+      "license": "MIT",
       "readme": "https://github.com/MhmRdd/NoHello#readme",
       "verified": false,
       "added": 0,
@@ -332,6 +333,7 @@
       "author": "chiteroman, forked by @ericinacio",
       "description": "This fork aims to achieve valid attestation on devices that have the new PlayIntegrity API rules.",
       "support": "https://github.com/EricInacio01/PlayIntegrityFix-NEXT/issues",
+      "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/EricInacio01/PlayIntegrityFix-NEXT/main/README.md",
       "verified": false,
       "added": 0,
@@ -385,6 +387,7 @@
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
+      "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/README.md",
       "verified": true,
       "added": 0,
@@ -854,13 +857,13 @@
       "versionCode": 206,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
-      "added": 1733301165,
       "categories": [
         "Adblocking and Hosts Files",
         "APatch",
         "KernelSU",
         "Magisk"
       ],
+      "license": "WTFPL",
       "verified": true,
       "readme": "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/README.md",
       "screenshots": [
@@ -869,7 +872,7 @@
         "https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/Documentation/screenshots/manager_action.png"
       ],
       "support": "https://github.com/bindhosts/bindhosts/issues",
-      "license": "WTFPL",
+      "added": 0,
       "timestamp": 1752752498.0,
       "size": 117756,
       "permissions": [
@@ -886,7 +889,7 @@
       },
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1733301165,
+        "added": null,
         "source": "https://github.com/bindhosts/bindhosts",
         "antifeatures": null,
         "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/track.yaml"
@@ -1367,6 +1370,53 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/sensitive_props/1.4.0_15.zip",
           "changelog": "",
           "size": 16172
+        }
+      ]
+    },
+    {
+      "id": "susfs",
+      "name": "SUSFS-FOR-KERNELSU",
+      "version": "v1.5.2-R20",
+      "versionCode": 105002020,
+      "author": "sidex15 & simonpunk",
+      "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
+      "license": "AGPL-3.0",
+      "readme": "https://github.com/sidex15/susfs4ksu-module/raw/refs/heads/v1.5.2+/README.md",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1752162010.0,
+      "size": 1354763,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "kernelsu.permission.POST_MOUNT",
+        "kernelsu.permission.BOOT_COMPLETED"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true,
+        "webroot": true,
+        "post_mount": true,
+        "boot_completed": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/sidex15/susfs4ksu-module",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/susfs/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1752162010.0,
+          "version": "v1.5.2-R20",
+          "versionCode": 105002020,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R20_105002020.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R20_105002020.md",
+          "size": 1354763
         }
       ]
     },
