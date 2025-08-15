@@ -7,3 +7,4 @@ support: https://github.com/osm0sis/PlayIntegrityFork/issues
 update_to: https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/update.json
 verified: true
 versions: 2
+license: GPL-3.0
