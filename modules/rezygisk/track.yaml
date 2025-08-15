@@ -1,0 +1,7 @@
+enable: true
+verified: true
+id: rezygisk
+readme: https://raw.githubusercontent.com/PerformanC/ReZygisk/refs/heads/main/README.md
+source: https://github.com/PerformanC/ReZygisk
+update_to: https://github.com/PerformanC/ReZygisk/releases/download/v1.0.0-rc.3/ReZygisk-v1.0.0-rc.3-release.zip
+versions: 1
