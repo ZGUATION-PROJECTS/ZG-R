@@ -1,0 +1,14 @@
+{
+  "id": "trickystore_OSS",
+  "timestamp": 1754929127.0,
+  "versions": [
+    {
+      "timestamp": 1754929127.0,
+      "version": "v2.1.0 (41-b8b03e4-release)",
+      "versionCode": 41,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/trickystore_OSS/v2.1.0_41-b8b03e4-release.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/trickystore_OSS/v2.1.0_41-b8b03e4-release.md",
+      "size": 1208592
+    }
+  ]
+}

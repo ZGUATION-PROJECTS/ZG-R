@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1755274646.729152
+    "timestamp": 1755275444.021427
   },
   "modules": [
     {
@@ -282,6 +282,49 @@
       ]
     },
     {
+      "id": "PIF-Inject",
+      "name": "Play Integrity Fix [INJECT]",
+      "version": "v4.2-inject-s",
+      "versionCode": 42,
+      "author": "chiteroman, KOWX712",
+      "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/KOWX712/PlayIntegrityFix/refs/heads/master/README.md",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1752336725.0,
+      "size": 510952,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/KOWX712/PlayIntegrityFix",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1752336725.0,
+          "version": "v4.2-inject-s",
+          "versionCode": 42,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.2-inject-s_42.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.2-inject-s_42.md",
+          "size": 510952
+        }
+      ]
+    },
+    {
       "id": "PIF-Next",
       "name": "PlayIntegrityFix-NEXT ",
       "version": "v3.0",
@@ -380,6 +423,51 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v14_140000.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v14_140000.md",
           "size": 258159
+        }
+      ]
+    },
+    {
+      "id": "RE-LSP",
+      "name": "ReLSPosed",
+      "version": "v1.0.1 (7190)",
+      "versionCode": 7190,
+      "author": "ThePedroo, JingMatrix and LSPosed Developers",
+      "description": "Another, but detection enhanced, implementation of Xposed Framework. Supports Android 8.1 ~ 16.",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/ThePedroo/ReLSPosed/refs/heads/master/README.md",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1754670642.0,
+      "size": 6437684,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "magisk.permission.ACTION",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "action": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/ThePedroo/ReLSPosed",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/RE-LSP/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1754670642.0,
+          "version": "v1.0.1 (7190)",
+          "versionCode": 7190,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/RE-LSP/v1.0.1_7190.zip",
+          "changelog": "",
+          "size": 6437684
         }
       ]
     },
@@ -1191,6 +1279,48 @@
       ]
     },
     {
+      "id": "rezygisk",
+      "name": "ReZygisk",
+      "version": "v1.0.0-rc.3",
+      "versionCode": 390,
+      "author": "The PerformanC Organization",
+      "description": "Standalone implementation of Zygisk.",
+      "readme": "https://raw.githubusercontent.com/PerformanC/ReZygisk/refs/heads/main/README.md",
+      "verified": true,
+      "added": 0,
+      "timestamp": 1752459593.0,
+      "size": 436048,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_ZIP",
+        "added": null,
+        "source": "https://github.com/PerformanC/ReZygisk",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/rezygisk/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1752459593.0,
+          "version": "v1.0.0-rc.3",
+          "versionCode": 390,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/rezygisk/v1.0.0-rc.3_390.zip",
+          "changelog": "",
+          "size": 436048
+        }
+      ]
+    },
+    {
       "id": "sensitive_props",
       "name": "SafetyNet sensitive props",
       "version": "v3",
@@ -1386,6 +1516,47 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.3.0_180-8acfa57-release.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.3.0_180-8acfa57-release.md",
           "size": 2694118
+        }
+      ]
+    },
+    {
+      "id": "trickystore_OSS",
+      "name": "Tricky Store OSS",
+      "version": "v2.1.0 (41-b8b03e4-release)",
+      "versionCode": 41,
+      "author": "beakthoven",
+      "description": "A trick of keystore but open source.",
+      "minApi": 29,
+      "readme": "https://raw.githubusercontent.com/beakthoven/TrickyStoreOSS/refs/heads/master/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1754929127.0,
+      "size": 1208592,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/beakthoven/TrickyStoreOSS",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/trickystore_OSS/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1754929127.0,
+          "version": "v2.1.0 (41-b8b03e4-release)",
+          "versionCode": 41,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/trickystore_OSS/v2.1.0_41-b8b03e4-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/trickystore_OSS/v2.1.0_41-b8b03e4-release.md",
+          "size": 1208592
         }
       ]
     },

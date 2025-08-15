@@ -1,0 +1,14 @@
+{
+  "id": "PIF-Inject",
+  "timestamp": 1752336725.0,
+  "versions": [
+    {
+      "timestamp": 1752336725.0,
+      "version": "v4.2-inject-s",
+      "versionCode": 42,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.2-inject-s_42.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.2-inject-s_42.md",
+      "size": 510952
+    }
+  ]
+}
