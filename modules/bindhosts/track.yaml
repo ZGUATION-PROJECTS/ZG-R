@@ -1,4 +1,3 @@
-added: 1733301165
 categories:
 - System
 - Magisk
@@ -9,6 +8,7 @@ categories:
 - Ad-Block
 enable: true
 id: bindhosts
+license: WTFPL
 last_update: 1752752498.0
 source: https://github.com/bindhosts/bindhosts
 update_to: https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/update.json
