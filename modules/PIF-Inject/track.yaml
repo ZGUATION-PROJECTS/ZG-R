@@ -1,0 +1,8 @@
+verified: true
+enable: true
+id: PIF-Inject
+license: GPL-3.0
+readme: https://raw.githubusercontent.com/KOWX712/PlayIntegrityFix/refs/heads/master/README.md
+source: https://github.com/KOWX712/PlayIntegrityFix
+update_to: https://raw.githubusercontent.com/KOWX712/PlayIntegrityFix/refs/heads/inject_s/update.json
+versions: 2
