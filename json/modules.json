@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1755317961.763621
+    "timestamp": 1755332252.409015
   },
   "modules": [
     {
@@ -1025,6 +1025,7 @@
       "author": "j-hc",
       "description": "Prevent apps from blocking and listening to your screenshots",
       "added": 1723905223.0,
+      "minApi": 34,
       "verified": false,
       "timestamp": 1743681710.0,
       "size": 4535597,
@@ -1522,6 +1523,7 @@
       "author": "5ec1cff",
       "description": "A trick of keystore",
       "added": 1723905223.0,
+      "minApi": 29,
       "categories": [
         "System"
       ],
