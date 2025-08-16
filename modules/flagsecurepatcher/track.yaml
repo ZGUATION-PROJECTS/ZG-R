@@ -6,3 +6,4 @@ source: https://github.com/j-hc/FlagSecurePatcher
 added: 1723905223.0
 last_update: 1743681710.0
 versions: 2
+minApi: 34
