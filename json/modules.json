@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1755850727.98589
+    "timestamp": 1755865609.673876
   },
   "modules": [
     {
@@ -48,6 +48,14 @@
           "version": "v1.3.3",
           "versionCode": 1337,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/v1.3.3_1337.zip",
+          "changelog": "",
+          "size": 1793757
+        },
+        {
+          "timestamp": 1738867123.0,
+          "version": "v1.0.1 (7190)",
+          "versionCode": 7190,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/v1.0.1_7190.zip",
           "changelog": "",
           "size": 1793757
         }
