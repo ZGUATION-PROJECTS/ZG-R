@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1756023363.474968
+    "timestamp": 1756038273.900206
   },
   "modules": [
     {
@@ -861,8 +861,8 @@
     {
       "id": "bindhosts",
       "name": "bindhosts",
-      "version": "v2.0.6",
-      "versionCode": 206,
+      "version": "v2.0.7",
+      "versionCode": 207,
       "author": "xx, KOWX712",
       "description": "Systemless hosts for APatch, KernelSU and Magisk ",
       "categories": [
@@ -881,8 +881,8 @@
       ],
       "support": "https://github.com/bindhosts/bindhosts/issues",
       "added": 0,
-      "timestamp": 1752752498.0,
-      "size": 117756,
+      "timestamp": 1756032424.0,
+      "size": 123025,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -904,20 +904,20 @@
       },
       "versions": [
         {
-          "timestamp": 1750727025.0,
-          "version": "v2.0.5",
-          "versionCode": 205,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.5_205.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.5_205.md",
-          "size": 116707
-        },
-        {
           "timestamp": 1752752498.0,
           "version": "v2.0.6",
           "versionCode": 206,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.6_206.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.6_206.md",
           "size": 117756
+        },
+        {
+          "timestamp": 1756032424.0,
+          "version": "v2.0.7",
+          "versionCode": 207,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.7_207.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/bindhosts/v2.0.7_207.md",
+          "size": 123025
         }
       ]
     },
