@@ -1,9 +1,9 @@
-id: Unlimited-GooglePhotosBackupMod
 enable: true
-verified: false
-update_to: https://github.com/Kolass2004/Unlimited-GooglePhotosBackupMod.git
+id: Unlimited-GooglePhotosBackupMod
+last_update: 1746886236.0
+readme: https://raw.githubusercontent.com/Kolass2004/Unlimited-GooglePhotosBackupMod/main/README.md
 source: https://github.com/Kolass2004/Unlimited-GooglePhotosBackupMod
 support: https://github.com/Kolass2004/Unlimited-GooglePhotosBackupMod/issues
-readme: https://raw.githubusercontent.com/Kolass2004/Unlimited-GooglePhotosBackupMod/main/README.md
-last_update: 1740073671.0
-versions: 1
+update_to: https://github.com/Kolass2004/Unlimited-GooglePhotosBackupMod.git
+verified: false
+versions: 2
