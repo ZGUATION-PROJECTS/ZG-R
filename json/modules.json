@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1756656880.900806
+    "timestamp": 1756671236.237241
   },
   "modules": [
     {
@@ -1374,17 +1374,17 @@
       "versions": [
         {
           "timestamp": 1707749983.0,
-          "version": "v3",
-          "versionCode": 3,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/sensitive_props/v3_3.zip",
+          "version": "1.4.0",
+          "versionCode": 15,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/sensitive_props/1.4.0_15.zip",
           "changelog": "",
           "size": 16172
         },
         {
           "timestamp": 1707749983.0,
-          "version": "1.4.0",
-          "versionCode": 15,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/sensitive_props/1.4.0_15.zip",
+          "version": "v1.0.0-rc.3",
+          "versionCode": 390,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/sensitive_props/v1.0.0-rc.3_390.zip",
           "changelog": "",
           "size": 16172
         }
