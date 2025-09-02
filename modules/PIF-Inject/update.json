@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.2-inject-s_42.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.2-inject-s_42.md",
       "size": 510952
+    },
+    {
+      "timestamp": 1756811549.0,
+      "version": "v4.3-inject-s",
+      "versionCode": 43,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.3-inject-s_43.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.3-inject-s_43.md",
+      "size": 512908
     }
   ]
 }
