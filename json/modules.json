@@ -1,6 +1,6 @@
 {
   "id": "zguectZGR",
-  "name": "\uff3a\uff27\uff0d\uff32 | ZG089's Modules Repo",
+  "name": "\u30e4 \ud835\udded\ud835\uddda\ud835\uddeb - \ud835\udc11 | ZG089's Modules Repo",
   "website": "https://zguation-projects.github.io/ZG-R",
   "support": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
   "donate": "https://www.buymeacoffee.com/ZG089",
@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1756916188.828486
+    "timestamp": 1756930453.623477
   },
   "modules": [
     {
