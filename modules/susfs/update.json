@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R20_105002020.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R20_105002020.md",
       "size": 1354763
+    },
+    {
+      "timestamp": 1757250766.0,
+      "version": "v1.5.2-R21",
+      "versionCode": 105002021,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R21_105002021.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R21_105002021.md",
+      "size": 1358238
     }
   ]
 }
