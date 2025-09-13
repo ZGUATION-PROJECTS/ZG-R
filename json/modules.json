@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1757736871.736275
+    "timestamp": 1757751352.949262
   },
   "modules": [
     {
@@ -724,18 +724,18 @@
       },
       "versions": [
         {
-          "timestamp": 1740073671.0,
-          "version": "1.2-stable",
-          "versionCode": 1,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Unlimited-GooglePhotosBackupMod/1.2-stable_1.zip",
-          "changelog": "",
-          "size": 114307
-        },
-        {
           "timestamp": 1746886236.0,
           "version": "v1.3.3",
           "versionCode": 1337,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Unlimited-GooglePhotosBackupMod/v1.3.3_1337.zip",
+          "changelog": "",
+          "size": 114355
+        },
+        {
+          "timestamp": 1746886236.0,
+          "version": "v1.4.0",
+          "versionCode": 1400,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Unlimited-GooglePhotosBackupMod/v1.4.0_1400.zip",
           "changelog": "",
           "size": 114355
         }
