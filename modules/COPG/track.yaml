@@ -7,3 +7,5 @@ support: https://github.com/AlirezaParsi/COPG/issues
 update_to: https://raw.githubusercontent.com/AlirezaParsi/COPG/JSON/update.json
 verified: true
 versions: 2
+cover: https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/banner.png
+icon: https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/icon.png
