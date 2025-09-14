@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1757852541.817202
+    "timestamp": 1757866425.24129
   },
   "modules": [
     {
@@ -64,8 +64,8 @@
     {
       "id": "COPG",
       "name": "\u2728 COPG spoof \u2728",
-      "version": "4.5.2",
-      "versionCode": 452,
+      "version": "4.5.3",
+      "versionCode": 453,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features.",
       "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/icon.png",
@@ -99,8 +99,8 @@
         "message": "Spoof your device for games/apps to unlock new features."
       },
       "added": 0,
-      "timestamp": 1757846965.0,
-      "size": 2860633,
+      "timestamp": 1757865067.0,
+      "size": 2860593,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.RESETPROP",
@@ -124,20 +124,20 @@
       },
       "versions": [
         {
-          "timestamp": 1757787451.0,
-          "version": "4.5.1",
-          "versionCode": 451,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.5.1_451.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.5.1_451.md",
-          "size": 2860241
-        },
-        {
           "timestamp": 1757846965.0,
           "version": "4.5.2",
           "versionCode": 452,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.5.2_452.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.5.2_452.md",
           "size": 2860633
+        },
+        {
+          "timestamp": 1757865067.0,
+          "version": "4.5.3",
+          "versionCode": 453,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.5.3_453.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.5.3_453.md",
+          "size": 2860593
         }
       ]
     },
