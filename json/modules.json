@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1758255360.87908
+    "timestamp": 1758269884.480751
   },
   "modules": [
     {
@@ -1244,8 +1244,8 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.4.9",
-      "versionCode": 149,
+      "version": "v1.5.0",
+      "versionCode": 150,
       "author": "xx",
       "description": "Globally mounted modules via OverlayFS.",
       "categories": [
@@ -1256,18 +1256,20 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1757922917.0,
-      "size": 14019,
+      "timestamp": 1758256458.0,
+      "size": 21081,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
         "kernelsu.permission.BOOT_COMPLETED"
       ],
       "features": {
         "service": true,
         "post_fs_data": true,
         "action": true,
+        "webroot": true,
         "boot_completed": true
       },
       "track": {
@@ -1279,20 +1281,20 @@
       },
       "versions": [
         {
-          "timestamp": 1757907627.0,
-          "version": "v1.4.8",
-          "versionCode": 148,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.8_148.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.8_148.md",
-          "size": 13960
-        },
-        {
           "timestamp": 1757922917.0,
           "version": "v1.4.9",
           "versionCode": 149,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.9_149.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.4.9_149.md",
           "size": 14019
+        },
+        {
+          "timestamp": 1758256458.0,
+          "version": "v1.5.0",
+          "versionCode": 150,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.0_150.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.0_150.md",
+          "size": 21081
         }
       ]
     },
