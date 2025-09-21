@@ -1,10 +1,10 @@
 enable: true
 id: PlayIntegrityFork
-last_update: 1753754975.0
+last_update: 1758474574.0
+license: GPL-3.0
 readme: https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/README.md
 source: https://github.com/osm0sis/PlayIntegrityFork
 support: https://github.com/osm0sis/PlayIntegrityFork/issues
 update_to: https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/update.json
 verified: true
 versions: 2
-license: GPL-3.0

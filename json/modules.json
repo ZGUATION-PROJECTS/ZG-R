@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1758471261.714081
+    "timestamp": 1758485622.727984
   },
   "modules": [
     {
@@ -426,7 +426,7 @@
       "id": "PlayIntegrityFork",
       "name": "Play Integrity Fork",
       "version": "v14",
-      "versionCode": 140000,
+      "versionCode": 141000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -434,16 +434,18 @@
       "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1753754975.0,
-      "size": 258159,
+      "timestamp": 1758474574.0,
+      "size": 250684,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ZYGISK",
         "magisk.permission.ACTION"
       ],
       "features": {
         "service": true,
         "post_fs_data": true,
+        "zygisk": true,
         "action": true
       },
       "track": {
@@ -455,20 +457,20 @@
       },
       "versions": [
         {
-          "timestamp": 1747424290.0,
-          "version": "v13",
-          "versionCode": 130000,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v13_130000.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v13_130000.md",
-          "size": 268323
-        },
-        {
           "timestamp": 1753754975.0,
           "version": "v14",
           "versionCode": 140000,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v14_140000.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v14_140000.md",
           "size": 258159
+        },
+        {
+          "timestamp": 1758474574.0,
+          "version": "v14",
+          "versionCode": 141000,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v14_141000.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v14_141000.md",
+          "size": 250684
         }
       ]
     },
