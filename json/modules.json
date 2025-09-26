@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1758860164.013666
+    "timestamp": 1758874747.718493
   },
   "modules": [
     {
@@ -1434,16 +1434,16 @@
     {
       "id": "susfs",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.5.2-R21",
-      "versionCode": 105002021,
+      "version": "v1.5.2-R22",
+      "versionCode": 105002022,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "license": "AGPL-3.0",
       "readme": "https://github.com/sidex15/susfs4ksu-module/raw/refs/heads/v1.5.2+/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1757250766.0,
-      "size": 1358238,
+      "timestamp": 1758867240.0,
+      "size": 1161002,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1471,20 +1471,20 @@
       },
       "versions": [
         {
-          "timestamp": 1752162010.0,
-          "version": "v1.5.2-R20",
-          "versionCode": 105002020,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R20_105002020.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R20_105002020.md",
-          "size": 1354763
-        },
-        {
           "timestamp": 1757250766.0,
           "version": "v1.5.2-R21",
           "versionCode": 105002021,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R21_105002021.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R21_105002021.md",
           "size": 1358238
+        },
+        {
+          "timestamp": 1758867240.0,
+          "version": "v1.5.2-R22",
+          "versionCode": 105002022,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R22_105002022.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R22_105002022.md",
+          "size": 1161002
         }
       ]
     },
