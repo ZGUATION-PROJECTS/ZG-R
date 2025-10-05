@@ -1,9 +1,9 @@
-id: flagsecurepatcher
-enable: true
-verified: false
-update_to: https://raw.githubusercontent.com/j-hc/FlagSecurePatcher/refs/heads/master/update.json
-source: https://github.com/j-hc/FlagSecurePatcher
 added: 1723905223.0
-last_update: 1743681710.0
-versions: 2
+enable: true
+id: flagsecurepatcher
+last_update: 1759670022.0
 minApi: 34
+source: https://github.com/j-hc/FlagSecurePatcher
+update_to: https://raw.githubusercontent.com/j-hc/FlagSecurePatcher/refs/heads/master/update.json
+verified: false
+versions: 2
