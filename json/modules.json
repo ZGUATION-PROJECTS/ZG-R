@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1760271837.416475
+    "timestamp": 1760285659.325852
   },
   "modules": [
     {
@@ -1246,8 +1246,8 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.5.4",
-      "versionCode": 154,
+      "version": "v1.5.5",
+      "versionCode": 155,
       "author": "xx",
       "description": "Globally mounted modules via OverlayFS.",
       "categories": [
@@ -1258,8 +1258,8 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1760061819.0,
-      "size": 23190,
+      "timestamp": 1760280760.0,
+      "size": 267419,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1283,20 +1283,20 @@
       },
       "versions": [
         {
-          "timestamp": 1759670555.0,
-          "version": "v1.5.3",
-          "versionCode": 153,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.3_153.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.3_153.md",
-          "size": 22240
-        },
-        {
           "timestamp": 1760061819.0,
           "version": "v1.5.4",
           "versionCode": 154,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.4_154.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.4_154.md",
           "size": 23190
+        },
+        {
+          "timestamp": 1760280760.0,
+          "version": "v1.5.5",
+          "versionCode": 155,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.5_155.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.5_155.md",
+          "size": 267419
         }
       ]
     },
