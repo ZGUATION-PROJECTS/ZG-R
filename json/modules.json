@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1760343629.141673
+    "timestamp": 1760358478.947573
   },
   "modules": [
     {
@@ -1246,8 +1246,8 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.5.6",
-      "versionCode": 156,
+      "version": "v1.5.7",
+      "versionCode": 157,
       "author": "xx",
       "description": "Globally mounted modules via OverlayFS.",
       "categories": [
@@ -1258,8 +1258,8 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1760289322.0,
-      "size": 267485,
+      "timestamp": 1760356241.0,
+      "size": 976307,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1283,20 +1283,20 @@
       },
       "versions": [
         {
-          "timestamp": 1760280760.0,
-          "version": "v1.5.5",
-          "versionCode": 155,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.5_155.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.5_155.md",
-          "size": 267419
-        },
-        {
           "timestamp": 1760289322.0,
           "version": "v1.5.6",
           "versionCode": 156,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.6_156.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.6_156.md",
           "size": 267485
+        },
+        {
+          "timestamp": 1760356241.0,
+          "version": "v1.5.7",
+          "versionCode": 157,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.7_157.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.5.7_157.md",
+          "size": 976307
         }
       ]
     },
