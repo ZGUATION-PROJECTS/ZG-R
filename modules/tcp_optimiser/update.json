@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.1_13.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.1_13.md",
       "size": 71673
+    },
+    {
+      "timestamp": 1760379189.0,
+      "version": "2.2",
+      "versionCode": 14,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.2_14.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.2_14.md",
+      "size": 71603
     }
   ]
 }
