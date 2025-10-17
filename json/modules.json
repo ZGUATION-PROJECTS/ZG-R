@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1760662938.356258
+    "timestamp": 1760674607.925374
   },
   "modules": [
     {
@@ -1246,9 +1246,9 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.6.2",
-      "versionCode": 162,
-      "author": "xx",
+      "version": "v1.6.3",
+      "versionCode": 163,
+      "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
       "categories": [
         "System",
@@ -1258,8 +1258,8 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1760503163.0,
-      "size": 880913,
+      "timestamp": 1760672900.0,
+      "size": 881249,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1283,20 +1283,20 @@
       },
       "versions": [
         {
-          "timestamp": 1760501405.0,
-          "version": "v1.6.1",
-          "versionCode": 161,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.6.1_161.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.6.1_161.md",
-          "size": 880908
-        },
-        {
           "timestamp": 1760503163.0,
           "version": "v1.6.2",
           "versionCode": 162,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.6.2_162.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.6.2_162.md",
           "size": 880913
+        },
+        {
+          "timestamp": 1760672900.0,
+          "version": "v1.6.3",
+          "versionCode": 163,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.6.3_163.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.6.3_163.md",
+          "size": 881249
         }
       ]
     },
