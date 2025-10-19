@@ -8,7 +8,7 @@ categories:
 - Ad-Block
 enable: true
 id: bindhosts
-last_update: 1756032424.0
+last_update: 1760831840.0
 license: WTFPL
 source: https://github.com/bindhosts/bindhosts
 update_to: https://raw.githubusercontent.com/bindhosts/bindhosts/refs/heads/master/update.json
