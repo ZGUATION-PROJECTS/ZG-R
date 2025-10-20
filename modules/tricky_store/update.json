@@ -3,20 +3,20 @@
   "timestamp": 1738906998.0,
   "versions": [
     {
-      "timestamp": 1738906998.0,
-      "version": "v1.2.1 (158-51390a7-release)",
-      "versionCode": 158,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.md",
-      "size": 2350601
-    },
-    {
       "timestamp": 1750249151.0,
       "version": "v1.3.0 (180-8acfa57-release)",
       "versionCode": 180,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.3.0_180-8acfa57-release.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.3.0_180-8acfa57-release.md",
       "size": 2694118
+    },
+    {
+      "timestamp": 1760970440.0,
+      "version": "v1.4.0 (235-e15da3d-release)",
+      "versionCode": 235,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.4.0_235-e15da3d-release.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.4.0_235-e15da3d-release.md",
+      "size": 2720036
     }
   ]
 }
