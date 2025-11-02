@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1762071353.294744
+    "timestamp": 1762086229.992439
   },
   "modules": [
     {
@@ -1593,8 +1593,8 @@
     {
       "id": "tricky_store",
       "name": "Tricky Store",
-      "version": "v1.4.0 (235-e15da3d-release)",
-      "versionCode": 235,
+      "version": "v1.4.1 (245-72b2e84-release)",
+      "versionCode": 245,
       "author": "5ec1cff, aviraxp and Cyberenchanter",
       "description": "A trick of keystore",
       "added": 1723905223.0,
@@ -1604,8 +1604,8 @@
       ],
       "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
       "verified": true,
-      "timestamp": 1760970440.0,
-      "size": 2720036,
+      "timestamp": 1762077393.0,
+      "size": 2840600,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1629,20 +1629,20 @@
       },
       "versions": [
         {
-          "timestamp": 1750249151.0,
-          "version": "v1.3.0 (180-8acfa57-release)",
-          "versionCode": 180,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.3.0_180-8acfa57-release.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.3.0_180-8acfa57-release.md",
-          "size": 2694118
-        },
-        {
           "timestamp": 1760970440.0,
           "version": "v1.4.0 (235-e15da3d-release)",
           "versionCode": 235,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.4.0_235-e15da3d-release.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.4.0_235-e15da3d-release.md",
           "size": 2720036
+        },
+        {
+          "timestamp": 1762077393.0,
+          "version": "v1.4.1 (245-72b2e84-release)",
+          "versionCode": 245,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.4.1_245-72b2e84-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.4.1_245-72b2e84-release.md",
+          "size": 2840600
         }
       ]
     },
