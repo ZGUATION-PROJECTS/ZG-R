@@ -3,20 +3,20 @@
   "timestamp": 1746893051.0,
   "versions": [
     {
-      "timestamp": 1753440707.0,
-      "version": "v4.1",
-      "versionCode": 572,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.1_572.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.1_572.md",
-      "size": 4300641
-    },
-    {
       "timestamp": 1761057007.0,
       "version": "v4.2",
       "versionCode": 618,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.2_618.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.2_618.md",
       "size": 3117854
+    },
+    {
+      "timestamp": 1762093319.0,
+      "version": "v4.3",
+      "versionCode": 635,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.3_635.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.3_635.md",
+      "size": 3120144
     }
   ]
 }
