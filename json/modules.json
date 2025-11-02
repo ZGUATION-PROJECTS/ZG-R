@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1762086229.992439
+    "timestamp": 1762100092.066929
   },
   "modules": [
     {
@@ -320,25 +320,27 @@
     {
       "id": "PIF-Inject",
       "name": "Play Integrity Fix [INJECT]",
-      "version": "v4.3-inject-s",
-      "versionCode": 43,
+      "version": "v4.4-inject-s",
+      "versionCode": 44,
       "author": "chiteroman, KOWX712",
       "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/KOWX712/PlayIntegrityFix/refs/heads/master/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1756811549.0,
-      "size": 512908,
+      "timestamp": 1762093943.0,
+      "size": 598301,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ZYGISK",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
       ],
       "features": {
         "service": true,
         "post_fs_data": true,
+        "zygisk": true,
         "action": true,
         "webroot": true
       },
@@ -351,20 +353,20 @@
       },
       "versions": [
         {
-          "timestamp": 1752336725.0,
-          "version": "v4.2-inject-s",
-          "versionCode": 42,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.2-inject-s_42.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.2-inject-s_42.md",
-          "size": 510952
-        },
-        {
           "timestamp": 1756811549.0,
           "version": "v4.3-inject-s",
           "versionCode": 43,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.3-inject-s_43.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.3-inject-s_43.md",
           "size": 512908
+        },
+        {
+          "timestamp": 1762093943.0,
+          "version": "v4.4-inject-s",
+          "versionCode": 44,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.4-inject-s_44.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.4-inject-s_44.md",
+          "size": 598301
         }
       ]
     },
@@ -672,8 +674,8 @@
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v4.2",
-      "versionCode": 618,
+      "version": "v4.3",
+      "versionCode": 635,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "categories": [
@@ -687,8 +689,8 @@
       "license": " GPL-3.0",
       "verified": false,
       "added": 0,
-      "timestamp": 1761057007.0,
-      "size": 3117854,
+      "timestamp": 1762093319.0,
+      "size": 3120144,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -708,20 +710,20 @@
       },
       "versions": [
         {
-          "timestamp": 1753440707.0,
-          "version": "v4.1",
-          "versionCode": 572,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.1_572.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.1_572.md",
-          "size": 4300641
-        },
-        {
           "timestamp": 1761057007.0,
           "version": "v4.2",
           "versionCode": 618,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.2_618.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.2_618.md",
           "size": 3117854
+        },
+        {
+          "timestamp": 1762093319.0,
+          "version": "v4.3",
+          "versionCode": 635,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.3_635.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v4.3_635.md",
+          "size": 3120144
         }
       ]
     },
