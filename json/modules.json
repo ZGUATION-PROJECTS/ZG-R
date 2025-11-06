@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1762417172.639143
+    "timestamp": 1762432144.133646
   },
   "modules": [
     {
@@ -1731,45 +1731,6 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/universal-gms-doze/1.9.2_192.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/universal-gms-doze/1.9.2_192.md",
           "size": 15178
-        }
-      ]
-    },
-    {
-      "id": "video-to-bootanimation",
-      "name": "Video To Bootanimation",
-      "version": "V4",
-      "versionCode": 4,
-      "author": "rhythmcache.t.me",
-      "description": "set Videos as Bootanimation",
-      "added": 1732300967.018943,
-      "support": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/issues",
-      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/video-to-bootanimation/main/README.md",
-      "verified": false,
-      "timestamp": 1739498293.0,
-      "size": 9538410,
-      "track": {
-        "type": "GIT",
-        "added": 1732300967.018943,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/video-to-bootanimation.git",
-        "antifeatures": null,
-        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/video-to-bootanimation/track.yaml"
-      },
-      "versions": [
-        {
-          "timestamp": 1739498293.0,
-          "version": "V4",
-          "versionCode": 4,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/video-to-bootanimation/V4_4.zip",
-          "changelog": "",
-          "size": 9538410
-        },
-        {
-          "timestamp": 1739498293.0,
-          "version": "v3.1.2",
-          "versionCode": 30102,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/video-to-bootanimation/v3.1.2_30102.zip",
-          "changelog": "",
-          "size": 9538410
         }
       ]
     },
