@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1763453997.131695
+    "timestamp": 1763468955.940484
   },
   "modules": [
     {
@@ -1248,8 +1248,8 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.7.0",
-      "versionCode": 170,
+      "version": "v1.7.1",
+      "versionCode": 171,
       "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
       "categories": [
@@ -1260,8 +1260,8 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1763439565.0,
-      "size": 539870,
+      "timestamp": 1763464987.0,
+      "size": 540044,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1285,20 +1285,20 @@
       },
       "versions": [
         {
-          "timestamp": 1763434551.0,
-          "version": "v1.6.9",
-          "versionCode": 169,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.6.9_169.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.6.9_169.md",
-          "size": 539778
-        },
-        {
           "timestamp": 1763439565.0,
           "version": "v1.7.0",
           "versionCode": 170,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.0_170.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.0_170.md",
           "size": 539870
+        },
+        {
+          "timestamp": 1763464987.0,
+          "version": "v1.7.1",
+          "versionCode": 171,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.1_171.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.1_171.md",
+          "size": 540044
         }
       ]
     },
