@@ -9,9 +9,57 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1763540405.853153
+    "timestamp": 1763548108.785477
   },
   "modules": [
+    {
+      "id": "BCR",
+      "name": "BCR",
+      "version": "v1.85",
+      "versionCode": 87296,
+      "author": "chenxiaolong",
+      "description": "Basic Call Recorder",
+      "minApi": 28,
+      "categories": [
+        "Tools",
+        "Magisk",
+        "KSU",
+        "Apatch"
+      ],
+      "license": "GPL-3.0",
+      "readme": "https://github.com/chenxiaolong/BCR#readme",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1762638324.0,
+      "size": 2310688,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/chenxiaolong/BCR",
+        "antifeatures": null,
+        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/BCR/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1762638324.0,
+          "version": "v1.85",
+          "versionCode": 87296,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.85_87296.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.85_87296.md",
+          "size": 2310688
+        }
+      ]
+    },
     {
       "id": "BetterKnownInstalled",
       "name": "BetterKnownInstalled (BKI)",
