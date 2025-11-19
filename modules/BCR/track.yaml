@@ -1,0 +1,14 @@
+id: BCR
+enable: true
+verified: false
+update_to: https://raw.githubusercontent.com/chenxiaolong/BCR/refs/heads/master/app/magisk/updates/release/info.json
+minApi: 28
+license: GPL-3.0
+source: https://github.com/chenxiaolong/BCR
+categories:
+- Tools
+- Magisk
+- KSU
+- Apatch
+readme: https://github.com/chenxiaolong/BCR#readme
+versions: 3
