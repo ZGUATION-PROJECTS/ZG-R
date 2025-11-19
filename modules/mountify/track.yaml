@@ -1,6 +1,6 @@
 categories:
 - System
-- Mounts
+- metamodule
 enable: true
 id: mountify
 last_update: 1763520604.0
