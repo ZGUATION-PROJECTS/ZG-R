@@ -1,0 +1,14 @@
+{
+  "id": "BCR",
+  "timestamp": 1762638324.0,
+  "versions": [
+    {
+      "timestamp": 1762638324.0,
+      "version": "v1.85",
+      "versionCode": 87296,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.85_87296.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.85_87296.md",
+      "size": 2310688
+    }
+  ]
+}
