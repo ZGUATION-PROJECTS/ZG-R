@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.85_87296.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.85_87296.md",
       "size": 2310688
+    },
+    {
+      "timestamp": 1763780488.0,
+      "version": "v1.86",
+      "versionCode": 87552,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.86_87552.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.86_87552.md",
+      "size": 2323560
     }
   ]
 }

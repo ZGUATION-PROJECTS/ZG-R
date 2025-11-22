@@ -9,14 +9,14 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1763773370.054441
+    "timestamp": 1763784973.414083
   },
   "modules": [
     {
       "id": "BCR",
       "name": "BCR",
-      "version": "v1.85",
-      "versionCode": 87296,
+      "version": "v1.86",
+      "versionCode": 87552,
       "author": "chenxiaolong",
       "description": "Basic Call Recorder",
       "minApi": 28,
@@ -30,8 +30,8 @@
       "readme": "https://github.com/chenxiaolong/BCR#readme",
       "verified": false,
       "added": 0,
-      "timestamp": 1762638324.0,
-      "size": 2310688,
+      "timestamp": 1763780488.0,
+      "size": 2323560,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -57,6 +57,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.85_87296.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.85_87296.md",
           "size": 2310688
+        },
+        {
+          "timestamp": 1763780488.0,
+          "version": "v1.86",
+          "versionCode": 87552,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.86_87552.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v1.86_87552.md",
+          "size": 2323560
         }
       ]
     },
@@ -427,8 +435,8 @@
     {
       "id": "PlayIntegrityFork",
       "name": "Play Integrity Fork",
-      "version": "v14",
-      "versionCode": 141000,
+      "version": "v15",
+      "versionCode": 150000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -436,18 +444,16 @@
       "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1758474574.0,
-      "size": 250684,
+      "timestamp": 1763782541.0,
+      "size": 276953,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
-        "magisk.permission.ZYGISK",
         "magisk.permission.ACTION"
       ],
       "features": {
         "service": true,
         "post_fs_data": true,
-        "zygisk": true,
         "action": true
       },
       "track": {
@@ -459,20 +465,20 @@
       },
       "versions": [
         {
-          "timestamp": 1753754975.0,
-          "version": "v14",
-          "versionCode": 140000,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v14_140000.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v14_140000.md",
-          "size": 258159
-        },
-        {
           "timestamp": 1758474574.0,
           "version": "v14",
           "versionCode": 141000,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v14_141000.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v14_141000.md",
           "size": 250684
+        },
+        {
+          "timestamp": 1763782541.0,
+          "version": "v15",
+          "versionCode": 150000,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v15_150000.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v15_150000.md",
+          "size": 276953
         }
       ]
     },
