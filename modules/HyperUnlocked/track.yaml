@@ -4,7 +4,7 @@ categories:
 - KSU
 - Apatch
 - Customizations
-cover: https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/banner/HyperUnlockedBannerDark.png
+cover: https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/banner/HyperUnlockedBanner.png
 enable: true
 id: HyperUnlocked
 last_update: 1763801319.0
@@ -13,7 +13,7 @@ note:
   color: green
   message: As of v2.0.0, ALL Xiaomi/REDMI/POCO devices running MIUI/HyperOS are supported.
   title: Currently Supported Devices
-readme: https://github.com/ukriu/HyperUnlocked#readme
+readme: https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/README.md
 source: https://github.com/ukriu/HyperUnlocked
 update_to: https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/update.json
 verified: true
