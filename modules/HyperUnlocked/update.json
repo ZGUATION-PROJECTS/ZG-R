@@ -1,0 +1,14 @@
+{
+  "id": "HyperUnlocked",
+  "timestamp": 1763801319.0,
+  "versions": [
+    {
+      "timestamp": 1763801319.0,
+      "version": "v2.1.1",
+      "versionCode": 211,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.1_211.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.1_211.md",
+      "size": 38125
+    }
+  ]
+}
