@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1763814262.67901
+    "timestamp": 1763828128.259325
   },
   "modules": [
     {
@@ -27,7 +27,7 @@
         "Apatch"
       ],
       "license": "GPL-3.0",
-      "readme": "https://github.com/chenxiaolong/BCR#readme",
+      "readme": "https://raw.githubusercontent.com/chenxiaolong/BCR/refs/heads/master/README.md",
       "verified": false,
       "added": 0,
       "timestamp": 1763780488.0,
@@ -161,11 +161,12 @@
         "Magisk",
         "KSU",
         "Apatch",
-        "Customizations"
+        "Customizations",
+        "System Tweaks"
       ],
-      "cover": "https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/banner/HyperUnlockedBannerDark.png",
+      "cover": "https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/banner/HyperUnlockedBanner.png",
       "license": "GPL-3.0",
-      "readme": "https://github.com/ukriu/HyperUnlocked#readme",
+      "readme": "https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/README.md",
       "verified": true,
       "note": {
         "color": "green",
@@ -209,6 +210,16 @@
       "author": "Person0z",
       "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
       "added": 1719068038.972528,
+      "categories": [
+        "Tools",
+        "Privacy",
+        "Magisk",
+        "KSU",
+        "Apatch",
+        "WebUI",
+        "Adblocking and Hosts Files",
+        "Ad-Block"
+      ],
       "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
       "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
       "verified": false,
@@ -255,6 +266,14 @@
       "versionCode": 2025022800,
       "author": "\u7115\u6668HChen",
       "description": "\u5185\u5b58\u53c2\u6570\u8c03\u6574\uff0c\u4ee5\u5b9e\u73b0\u66f4\u4f73\u7684\u5185\u5b58\u4f7f\u7528\u6548\u7387\u3002",
+      "categories": [
+        "Magisk",
+        "KSU",
+        "APatch",
+        "System Tweaks",
+        "Memory",
+        "Tools"
+      ],
       "support": "https://github.com/HChenX/MemoryOpt/issues",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/HChenX/MemoryOpt/main/README.md",
@@ -648,6 +667,14 @@
       "versionCode": 301,
       "author": "MRX7014",
       "description": "A tweaker module that can improve any device performance and stability (Gaming, Daily Useage, etc...)",
+      "categories": [
+        "System Tweaks",
+        "Magisk",
+        "KSU",
+        "APatch",
+        "Gaming",
+        "Performance"
+      ],
       "support": "https://github.com/mrx7014/SuperMario-Tweaker/issues",
       "readme": "https://github.com/mrx7014/SuperMario-Tweaker#readme",
       "verified": false,
@@ -838,6 +865,12 @@
       "author": "DethByte64",
       "description": "An extreme battery saver for Magisk users who really want to stretch their battery life",
       "added": 1729804427.076371,
+      "categories": [
+        "APatch",
+        "Magisk",
+        "KSU",
+        "System Tweaks"
+      ],
       "support": "https://github.com/DethByte64/Xtreme-Battery-Saver/issues",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/DethByte64/Xtreme-Battery-Saver/main/README.md",
@@ -1075,6 +1108,7 @@
       "categories": [
         "Performance",
         "Gaming",
+        "System Tweaks",
         "Optimizer",
         "WebUI"
       ],
@@ -1306,8 +1340,8 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.7.5",
-      "versionCode": 175,
+      "version": "v1.7.6",
+      "versionCode": 176,
       "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
       "categories": [
@@ -1318,8 +1352,8 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1763799828.0,
-      "size": 540495,
+      "timestamp": 1763816136.0,
+      "size": 544014,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1343,20 +1377,20 @@
       },
       "versions": [
         {
-          "timestamp": 1763701411.0,
-          "version": "v1.7.4",
-          "versionCode": 174,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.4_174.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.4_174.md",
-          "size": 540292
-        },
-        {
           "timestamp": 1763799828.0,
           "version": "v1.7.5",
           "versionCode": 175,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.5_175.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.5_175.md",
           "size": 540495
+        },
+        {
+          "timestamp": 1763816136.0,
+          "version": "v1.7.6",
+          "versionCode": 176,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.6_176.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.6_176.md",
+          "size": 544014
         }
       ]
     },
