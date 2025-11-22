@@ -9,3 +9,8 @@ support: https://github.com/DethByte64/Xtreme-Battery-Saver/issues
 update_to: https://raw.githubusercontent.com/DethByte64/Xtreme-Battery-Saver/main/update.json
 verified: false
 versions: 2
+categories:
+- APatch
+- Magisk
+- KSU
+- System Tweaks
