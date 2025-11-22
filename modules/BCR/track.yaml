@@ -8,7 +8,7 @@ id: BCR
 last_update: 1763780488.0
 license: GPL-3.0
 minApi: 28
-readme: https://github.com/chenxiaolong/BCR#readme
+readme: https://raw.githubusercontent.com/chenxiaolong/BCR/refs/heads/master/README.md
 source: https://github.com/chenxiaolong/BCR
 update_to: https://raw.githubusercontent.com/chenxiaolong/BCR/refs/heads/master/app/magisk/updates/release/info.json
 verified: false
