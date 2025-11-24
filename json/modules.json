@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1763972469.118514
+    "timestamp": 1763987379.099494
   },
   "modules": [
     {
@@ -1340,8 +1340,8 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.7.7",
-      "versionCode": 177,
+      "version": "v1.7.8",
+      "versionCode": 178,
       "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
       "categories": [
@@ -1352,8 +1352,8 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1763881838.0,
-      "size": 544246,
+      "timestamp": 1763987317.0,
+      "size": 544241,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1377,20 +1377,20 @@
       },
       "versions": [
         {
-          "timestamp": 1763816136.0,
-          "version": "v1.7.6",
-          "versionCode": 176,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.6_176.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.6_176.md",
-          "size": 544014
-        },
-        {
           "timestamp": 1763881838.0,
           "version": "v1.7.7",
           "versionCode": 177,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.7_177.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.7_177.md",
           "size": 544246
+        },
+        {
+          "timestamp": 1763987317.0,
+          "version": "v1.7.8",
+          "versionCode": 178,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.8_178.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.7.8_178.md",
+          "size": 544241
         }
       ]
     },
