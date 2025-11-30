@@ -8,7 +8,7 @@ categories:
 cover: https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/banner/HyperUnlockedBanner.png
 enable: true
 id: HyperUnlocked
-last_update: 1763801319.0
+last_update: 1764496027.0
 license: GPL-3.0
 note:
   color: green
@@ -18,4 +18,4 @@ readme: https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/RE
 source: https://github.com/ukriu/HyperUnlocked
 update_to: https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/update.json
 verified: true
-versions: 1
+versions: 2

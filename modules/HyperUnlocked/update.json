@@ -9,6 +9,14 @@
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.1_211.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.1_211.md",
       "size": 38125
+    },
+    {
+      "timestamp": 1764496027.0,
+      "version": "v2.1.2",
+      "versionCode": 212,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.2_212.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.2_212.md",
+      "size": 42700
     }
   ]
 }
