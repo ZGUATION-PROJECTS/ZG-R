@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1764490647.225103
+    "timestamp": 1764505573.293345
   },
   "modules": [
     {
@@ -152,10 +152,10 @@
     {
       "id": "HyperUnlocked",
       "name": "HyperUnlocked",
-      "version": "v2.1.1",
-      "versionCode": 211,
+      "version": "v2.1.2",
+      "versionCode": 212,
       "author": "ukriu",
-      "description": "Unlock high-end xiaomi features on all of your xiaomi devices!",
+      "description": "Unlock high-end Xiaomi features on all of your Xiaomi devices!",
       "categories": [
         "Tools",
         "Magisk",
@@ -174,8 +174,8 @@
         "title": "Currently Supported Devices"
       },
       "added": 0,
-      "timestamp": 1763801319.0,
-      "size": 38125,
+      "timestamp": 1764496027.0,
+      "size": 42700,
       "permissions": [
         "magisk.permission.ACTION",
         "mmrl.permission.APKS"
@@ -199,6 +199,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.1_211.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.1_211.md",
           "size": 38125
+        },
+        {
+          "timestamp": 1764496027.0,
+          "version": "v2.1.2",
+          "versionCode": 212,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.2_212.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.2_212.md",
+          "size": 42700
         }
       ]
     },
