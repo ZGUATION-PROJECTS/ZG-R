@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1765110353.925416
+    "timestamp": 1765124143.362981
   },
   "modules": [
     {
@@ -114,7 +114,8 @@
         "magisk.permission.RESETPROP",
         "magisk.permission.ZYGISK",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
       ],
       "features": {
         "service": true,
@@ -422,7 +423,9 @@
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ZYGISK",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
@@ -476,7 +479,8 @@
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ZYGISK",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
@@ -528,7 +532,8 @@
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
-        "magisk.permission.ACTION"
+        "magisk.permission.ACTION",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
@@ -579,7 +584,8 @@
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
-        "mmrl.permission.APKS"
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
@@ -1033,7 +1039,8 @@
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
       ],
       "features": {
         "service": true,
@@ -1139,7 +1146,8 @@
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
       ],
       "features": {
         "service": true,
@@ -1352,6 +1360,7 @@
       "versionCode": 186,
       "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
+      "metamodule": "true",
       "categories": [
         "System",
         "metamodule"
@@ -1367,7 +1376,9 @@
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
-        "kernelsu.permission.BOOT_COMPLETED"
+        "mmrl.permission.WEBUI_CONFIG",
+        "kernelsu.permission.BOOT_COMPLETED",
+        "kernelsu.permission.METAMODULE"
       ],
       "features": {
         "service": true,
@@ -1552,6 +1563,7 @@
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG",
         "kernelsu.permission.POST_MOUNT",
         "kernelsu.permission.BOOT_COMPLETED"
       ],
@@ -1764,7 +1776,8 @@
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
-        "magisk.permission.SEPOLICY"
+        "magisk.permission.SEPOLICY",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
