@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1765441323.770986
+    "timestamp": 1765456321.110656
   },
   "modules": [
     {
@@ -71,8 +71,8 @@
     {
       "id": "COPG",
       "name": "\u2728 COPG spoof \u2728",
-      "version": "4.6.0",
-      "versionCode": 460,
+      "version": "4.7.0",
+      "versionCode": 470,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features.",
       "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/icon.png",
@@ -87,7 +87,7 @@
         "Miscellaneous",
         "Zygisk"
       ],
-      "license": "AGPL-3.0",
+      "license": "Apache-2.0 license",
       "screenshots": [
         "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/screenshots/Screenshot_20250913-210930_WebUI%20X.png",
         "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/screenshots/Screenshot_20250913-211418_WebUI%20X.png",
@@ -107,8 +107,8 @@
         "message": "Spoof your device for games/apps to unlock new features."
       },
       "added": 0,
-      "timestamp": 1763206590.0,
-      "size": 1517690,
+      "timestamp": 1765448650.0,
+      "size": 1553606,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.RESETPROP",
@@ -133,20 +133,20 @@
       },
       "versions": [
         {
-          "timestamp": 1758388376.0,
-          "version": "4.5.5",
-          "versionCode": 455,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.5.5_455.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.5.5_455.md",
-          "size": 1537893
-        },
-        {
           "timestamp": 1763206590.0,
           "version": "4.6.0",
           "versionCode": 460,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.6.0_460.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.6.0_460.md",
           "size": 1517690
+        },
+        {
+          "timestamp": 1765448650.0,
+          "version": "4.7.0",
+          "versionCode": 470,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.7.0_470.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/4.7.0_470.md",
+          "size": 1553606
         }
       ]
     },
