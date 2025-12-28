@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1766938656.953447
+    "timestamp": 1766950874.99909
   },
   "modules": [
     {
@@ -519,7 +519,7 @@
       "id": "PlayIntegrityFork",
       "name": "Play Integrity Fork",
       "version": "v16",
-      "versionCode": 160000,
+      "versionCode": 161000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -527,8 +527,8 @@
       "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1766802333.0,
-      "size": 282993,
+      "timestamp": 1766942967.0,
+      "size": 283080,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -549,20 +549,20 @@
       },
       "versions": [
         {
-          "timestamp": 1763782541.0,
-          "version": "v15",
-          "versionCode": 150000,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v15_150000.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v15_150000.md",
-          "size": 276953
-        },
-        {
           "timestamp": 1766802333.0,
           "version": "v16",
           "versionCode": 160000,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v16_160000.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v16_160000.md",
           "size": 282993
+        },
+        {
+          "timestamp": 1766942967.0,
+          "version": "v16",
+          "versionCode": 161000,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v16_161000.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v16_161000.md",
+          "size": 283080
         }
       ]
     },
@@ -638,8 +638,8 @@
       "readme": "https://github.com/ZG089/Re-Malwack#readme",
       "verified": true,
       "added": 0,
-      "timestamp": 1766897046.0,
-      "size": 2446697,
+      "timestamp": 1766950723.0,
+      "size": 2360463,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -670,12 +670,12 @@
           "size": 1759912
         },
         {
-          "timestamp": 1766897046.0,
+          "timestamp": 1766950723.0,
           "version": "v7.0",
           "versionCode": 700,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v7.0_700.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v7.0_700.md",
-          "size": 2446697
+          "size": 2360463
         }
       ]
     },
