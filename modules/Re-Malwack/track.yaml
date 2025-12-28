@@ -1,11 +1,3 @@
-id: Re-Malwack
-enable: true
-verified: true
-update_to: https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/update.json
-license: GPL-3.0
-source: https://github.com/ZG089/Re-Malwack
-support: https://t.me/Re_Malwack
-donate: https://buymeacoffee.com/zg089
 categories:
 - Tools
 - Privacy
@@ -16,6 +8,14 @@ categories:
 - Adblocking and Hosts Files
 - Ad-Block
 - Built Different
+donate: https://buymeacoffee.com/zg089
+enable: true
+id: Re-Malwack
+last_update: 1766897046.0
+license: GPL-3.0
 readme: https://github.com/ZG089/Re-Malwack#readme
-last_update: 1743478933.0
-versions: 3
+source: https://github.com/ZG089/Re-Malwack
+support: https://t.me/Re_Malwack
+update_to: https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/update.json
+verified: true
+versions: 2
