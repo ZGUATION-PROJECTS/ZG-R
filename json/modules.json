@@ -1,6 +1,6 @@
 {
   "id": "zguectZGR",
-  "name": "\u30e4 \ud835\udded\ud835\uddda\ud835\uddeb - \ud835\udc11 | ZG089's Modules Repo",
+  "name": "\ud80c\udda9\u263e\u2727\ud80c\uddaa \u2124\ud835\udd3e\ud835\udd4f - \u211d | ZG089's Modules Repo",
   "website": "https://zguation-projects.github.io/ZG-R",
   "support": "https://github.com/ZGUATION-PROJECTS/ZG-R/issues",
   "donate": "https://www.buymeacoffee.com/ZG089",
@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1766909952.159547
+    "timestamp": 1766924900.256594
   },
   "modules": [
     {
@@ -630,8 +630,10 @@
         "Ad-Block",
         "Built Different"
       ],
+      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/logo.png",
       "donate": "https://buymeacoffee.com/zg089",
       "support": "https://t.me/Re_Malwack",
+      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/module/banner.png",
       "license": "GPL-3.0",
       "readme": "https://github.com/ZG089/Re-Malwack#readme",
       "verified": true,
