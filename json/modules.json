@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1766896773.315788
+    "timestamp": 1766909952.159547
   },
   "modules": [
     {
@@ -615,36 +615,39 @@
     {
       "id": "Re-Malwack",
       "name": "Re-Malwack | Not just a normal ad-blocker module \u2728",
-      "version": "v6.0",
-      "versionCode": 600,
+      "version": "v7.0",
+      "versionCode": 700,
       "author": "ZG089",
       "description": "A fully-fledged ad-block module. Contains all your needs \u2728",
       "categories": [
-        "Adblocking and Hosts Files",
-        "APatch",
-        "KernelSU",
+        "Tools",
+        "Privacy",
         "Magisk",
-        "Built Different",
-        "Protection",
-        "WebUI"
+        "KSU",
+        "Apatch",
+        "WebUI",
+        "Adblocking and Hosts Files",
+        "Ad-Block",
+        "Built Different"
       ],
-      "donate": "http://buymeacoffee.com/ZG089",
+      "donate": "https://buymeacoffee.com/zg089",
       "support": "https://t.me/Re_Malwack",
       "license": "GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/README.md",
+      "readme": "https://github.com/ZG089/Re-Malwack#readme",
       "verified": true,
-      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/banner.png",
-      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/logo.png",
       "added": 0,
-      "timestamp": 1743478933.0,
-      "size": 1759912,
+      "timestamp": 1766897046.0,
+      "size": 2446697,
       "permissions": [
         "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
       ],
       "features": {
         "service": true,
+        "post_fs_data": true,
         "action": true,
         "webroot": true
       },
@@ -657,20 +660,20 @@
       },
       "versions": [
         {
-          "timestamp": 1734878287.0,
-          "version": "v5.3.0",
-          "versionCode": 530,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v5.3.0_530.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v5.3.0_530.md",
-          "size": 47546
-        },
-        {
           "timestamp": 1743478933.0,
           "version": "v6.0",
           "versionCode": 600,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v6.0_600.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v6.0_600.md",
           "size": 1759912
+        },
+        {
+          "timestamp": 1766897046.0,
+          "version": "v7.0",
+          "versionCode": 700,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v7.0_700.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v7.0_700.md",
+          "size": 2446697
         }
       ]
     },
