@@ -10,6 +10,8 @@ categories:
 - Built Different
 donate: https://buymeacoffee.com/zg089
 enable: true
+cover: https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/module/banner.png
+icon: https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/logo.png
 id: Re-Malwack
 last_update: 1766897046.0
 license: GPL-3.0
