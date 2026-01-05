@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1767557792.015573
+    "timestamp": 1767575876.972924
   },
   "modules": [
     {
@@ -519,7 +519,7 @@
       "id": "PlayIntegrityFork",
       "name": "Play Integrity Fork",
       "version": "v16",
-      "versionCode": 162000,
+      "versionCode": 163000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -527,8 +527,8 @@
       "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1767026700.0,
-      "size": 283241,
+      "timestamp": 1767575406.0,
+      "size": 283248,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -549,20 +549,20 @@
       },
       "versions": [
         {
-          "timestamp": 1766942967.0,
-          "version": "v16",
-          "versionCode": 161000,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v16_161000.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v16_161000.md",
-          "size": 283080
-        },
-        {
           "timestamp": 1767026700.0,
           "version": "v16",
           "versionCode": 162000,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v16_162000.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v16_162000.md",
           "size": 283241
+        },
+        {
+          "timestamp": 1767575406.0,
+          "version": "v16",
+          "versionCode": 163000,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v16_163000.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v16_163000.md",
+          "size": 283248
         }
       ]
     },
