@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1768134517.67417
+    "timestamp": 1768148226.43158
   },
   "modules": [
     {
@@ -1361,8 +1361,8 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.8.8",
-      "versionCode": 188,
+      "version": "v1.8.9",
+      "versionCode": 189,
       "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
       "metamodule": "true",
@@ -1374,8 +1374,8 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1768130604.0,
-      "size": 549112,
+      "timestamp": 1768147805.0,
+      "size": 548946,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1401,20 +1401,20 @@
       },
       "versions": [
         {
-          "timestamp": 1766637985.0,
-          "version": "v1.8.7",
-          "versionCode": 187,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.8.7_187.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.8.7_187.md",
-          "size": 547019
-        },
-        {
           "timestamp": 1768130604.0,
           "version": "v1.8.8",
           "versionCode": 188,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.8.8_188.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.8.8_188.md",
           "size": 549112
+        },
+        {
+          "timestamp": 1768147805.0,
+          "version": "v1.8.9",
+          "versionCode": 189,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.8.9_189.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.8.9_189.md",
+          "size": 548946
         }
       ]
     },
