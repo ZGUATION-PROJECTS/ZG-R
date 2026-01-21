@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1768970334.54799
+    "timestamp": 1768983822.937038
   },
   "modules": [
     {
@@ -1361,8 +1361,8 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v1.9.0",
-      "versionCode": 190,
+      "version": "v1.9.1",
+      "versionCode": 191,
       "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
       "metamodule": "true",
@@ -1374,8 +1374,8 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1768366121.0,
-      "size": 548953,
+      "timestamp": 1768972720.0,
+      "size": 548962,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1401,20 +1401,20 @@
       },
       "versions": [
         {
-          "timestamp": 1768147805.0,
-          "version": "v1.8.9",
-          "versionCode": 189,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.8.9_189.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.8.9_189.md",
-          "size": 548946
-        },
-        {
           "timestamp": 1768366121.0,
           "version": "v1.9.0",
           "versionCode": 190,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.9.0_190.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.9.0_190.md",
           "size": 548953
+        },
+        {
+          "timestamp": 1768972720.0,
+          "version": "v1.9.1",
+          "versionCode": 191,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.9.1_191.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.9.1_191.md",
+          "size": 548962
         }
       ]
     },
