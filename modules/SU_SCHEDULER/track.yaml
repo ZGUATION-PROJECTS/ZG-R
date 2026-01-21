@@ -1,0 +1,7 @@
+id: SU_SCHEDULER
+enable: true
+verified: false
+update_to: https://raw.githubusercontent.com/rexackermann/su-scheduler/main/update.json
+source: https://github.com/rexackermann/su-scheduler
+support: https://github.com/rexackermann/su-scheduler/issues
+readme: https://github.com/rexackermann/su-scheduler#readme
