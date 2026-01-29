@@ -3,20 +3,20 @@
   "timestamp": 1752162010.0,
   "versions": [
     {
-      "timestamp": 1760862849.0,
-      "version": "v1.5.2-R23",
-      "versionCode": 105002023,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R23_105002023.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R23_105002023.md",
-      "size": 1156068
-    },
-    {
       "timestamp": 1767436835.0,
       "version": "v1.5.2-R24",
       "versionCode": 105002024,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R24_105002024.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R24_105002024.md",
       "size": 1187127
+    },
+    {
+      "timestamp": 1769682558.0,
+      "version": "v1.5.2-R25",
+      "versionCode": 105002025,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R25_105002025.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/susfs/v1.5.2-R25_105002025.md",
+      "size": 983240
     }
   ]
 }
