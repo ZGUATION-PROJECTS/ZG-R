@@ -5,7 +5,7 @@ categories:
 - Apatch
 enable: true
 id: BCR
-last_update: 1769049725.0
+last_update: 1769993365.0
 license: GPL-3.0
 minApi: 28
 readme: https://raw.githubusercontent.com/chenxiaolong/BCR/refs/heads/master/README.md
