@@ -3,20 +3,20 @@
   "timestamp": 1746191927.0,
   "versions": [
     {
-      "timestamp": 1749637021.0,
-      "version": "4.5 (1004-f8bf8f8-release)",
-      "versionCode": 1004,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.5_1004-f8bf8f8-release.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.5_1004-f8bf8f8-release.md",
-      "size": 175853
-    },
-    {
       "timestamp": 1752404014.0,
       "version": "4.6 (1080-2fa4940-release)",
       "versionCode": 1080,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.6_1080-2fa4940-release.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.6_1080-2fa4940-release.md",
       "size": 142900
+    },
+    {
+      "timestamp": 1771227998.0,
+      "version": "5.0 (1294-667f35e-release)",
+      "versionCode": 1294,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/5.0_1294-667f35e-release.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/5.0_1294-667f35e-release.md",
+      "size": 3668051
     }
   ]
 }
