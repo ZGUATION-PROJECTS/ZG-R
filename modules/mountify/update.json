@@ -3,20 +3,20 @@
   "timestamp": 1741872659.0,
   "versions": [
     {
-      "timestamp": 1768366121.0,
-      "version": "v1.9.0",
-      "versionCode": 190,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.9.0_190.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.9.0_190.md",
-      "size": 548953
-    },
-    {
       "timestamp": 1768972720.0,
       "version": "v1.9.1",
       "versionCode": 191,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.9.1_191.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.9.1_191.md",
       "size": 548962
+    },
+    {
+      "timestamp": 1771498550.0,
+      "version": "v1.9.2",
+      "versionCode": 192,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.9.2_192.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v1.9.2_192.md",
+      "size": 548982
     }
   ]
 }
