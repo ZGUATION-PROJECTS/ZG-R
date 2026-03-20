@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1773995600.940802
+    "timestamp": 1774010540.559879
   },
   "modules": [
     {
@@ -153,8 +153,8 @@
     {
       "id": "HyperUnlocked",
       "name": "HyperUnlocked",
-      "version": "v2.1.4",
-      "versionCode": 214,
+      "version": "v2.1.5",
+      "versionCode": 215,
       "author": "ukriu",
       "description": "Unlock high-end Xiaomi features on all of your Xiaomi devices!",
       "categories": [
@@ -175,8 +175,8 @@
         "title": "Currently Supported Devices"
       },
       "added": 0,
-      "timestamp": 1773862662.0,
-      "size": 47570,
+      "timestamp": 1774001196.0,
+      "size": 47577,
       "permissions": [
         "magisk.permission.ACTION",
         "mmrl.permission.APKS"
@@ -194,20 +194,20 @@
       },
       "versions": [
         {
-          "timestamp": 1770404110.0,
-          "version": "v2.1.3",
-          "versionCode": 213,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.3_213.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.3_213.md",
-          "size": 42737
-        },
-        {
           "timestamp": 1773862662.0,
           "version": "v2.1.4",
           "versionCode": 214,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.4_214.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.4_214.md",
           "size": 47570
+        },
+        {
+          "timestamp": 1774001196.0,
+          "version": "v2.1.5",
+          "versionCode": 215,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.5_215.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.5_215.md",
+          "size": 47577
         }
       ]
     },
