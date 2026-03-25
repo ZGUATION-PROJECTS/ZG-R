@@ -1,8 +1,8 @@
-id: iOS_Emoji
-enable: true
-verified: false
-update_to: https://raw.githubusercontent.com/Keinta15/Magisk-iOS-Emoji/refs/heads/main/updater.json
-source: https://github.com/Keinta15/Magisk-iOS-Emoji
 added: 1723905223.0
-last_update: 1745678577.0
+enable: true
+id: iOS_Emoji
+last_update: 1774459589.0
+source: https://github.com/Keinta15/Magisk-iOS-Emoji
+update_to: https://raw.githubusercontent.com/Keinta15/Magisk-iOS-Emoji/refs/heads/main/updater.json
+verified: false
 versions: 2

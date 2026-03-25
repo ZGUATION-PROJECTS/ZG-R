@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1774457787.195254
+    "timestamp": 1774470709.22843
   },
   "modules": [
     {
@@ -1277,14 +1277,14 @@
     {
       "id": "iOS_Emoji",
       "name": "iOS 18.4 Emoji font",
-      "version": "v18.4",
-      "versionCode": 18400,
+      "version": "v18.4.1",
+      "versionCode": 18401,
       "author": "Keinta15",
       "description": "Systemlessly replaces emoji font with iOS 18.4 Emoji",
       "added": 1723905223.0,
       "verified": false,
-      "timestamp": 1745678577.0,
-      "size": 42415955,
+      "timestamp": 1774459589.0,
+      "size": 42416591,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION"
@@ -1302,20 +1302,20 @@
       },
       "versions": [
         {
-          "timestamp": 1737858481.0,
-          "version": "v17.4.7",
-          "versionCode": 17407,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/v17.4.7_17407.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/v17.4.7_17407.md",
-          "size": 46426652
-        },
-        {
           "timestamp": 1745678577.0,
           "version": "v18.4",
           "versionCode": 18400,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/v18.4_18400.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/v18.4_18400.md",
           "size": 42415955
+        },
+        {
+          "timestamp": 1774459589.0,
+          "version": "v18.4.1",
+          "versionCode": 18401,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/v18.4.1_18401.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/iOS_Emoji/v18.4.1_18401.md",
+          "size": 42416591
         }
       ]
     },
