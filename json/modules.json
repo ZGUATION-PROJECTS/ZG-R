@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1774715164.882554
+    "timestamp": 1774729340.199878
   },
   "modules": [
     {
@@ -615,8 +615,8 @@
     {
       "id": "Re-Malwack",
       "name": "Re-Malwack | Not just a normal ad-blocker module \u2728",
-      "version": "v7.0",
-      "versionCode": 700,
+      "version": "v8",
+      "versionCode": 800,
       "author": "ZG089",
       "description": "A fully-fledged ad-block module. Contains all your needs \u2728",
       "categories": [
@@ -638,8 +638,8 @@
       "readme": "https://github.com/ZG089/Re-Malwack#readme",
       "verified": true,
       "added": 0,
-      "timestamp": 1766950723.0,
-      "size": 2360463,
+      "timestamp": 1774716116.0,
+      "size": 2843008,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -662,20 +662,20 @@
       },
       "versions": [
         {
-          "timestamp": 1743478933.0,
-          "version": "v6.0",
-          "versionCode": 600,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v6.0_600.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v6.0_600.md",
-          "size": 1759912
-        },
-        {
           "timestamp": 1766950723.0,
           "version": "v7.0",
           "versionCode": 700,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v7.0_700.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v7.0_700.md",
           "size": 2360463
+        },
+        {
+          "timestamp": 1774716116.0,
+          "version": "v8",
+          "versionCode": 800,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v8_800.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v8_800.md",
+          "size": 2843008
         }
       ]
     },
