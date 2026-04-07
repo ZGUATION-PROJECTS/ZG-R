@@ -5,7 +5,7 @@ categories:
 - Tools
 enable: true
 id: zygisk-detach
-last_update: 1775245184.0
+last_update: 1775565126.0
 license: Apache-2.0
 readme: https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md
 require:
