@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1775997874.033179
+    "timestamp": 1776011415.965584
   },
   "modules": [
     {
@@ -1121,8 +1121,8 @@
     {
       "id": "encore",
       "name": "Encore Tweaks",
-      "version": "5.0 (1294-667f35e-release)",
-      "versionCode": 1294,
+      "version": "5.1.1 (1444-9ef7449-release)",
+      "versionCode": 1444,
       "author": "Rem01Gaming",
       "description": "Special performance module for your Device.",
       "categories": [
@@ -1146,18 +1146,20 @@
       "readme": "https://raw.githubusercontent.com/Rem01Gaming/encore/main/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1771227998.0,
-      "size": 3668051,
+      "timestamp": 1775817019.0,
+      "size": 2359424,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
-        "mmrl.permission.WEBUI_CONFIG"
+        "mmrl.permission.WEBUI_CONFIG",
+        "mmrl.permission.APKS"
       ],
       "features": {
         "service": true,
         "action": true,
-        "webroot": true
+        "webroot": true,
+        "apks": true
       },
       "track": {
         "type": "ONLINE_JSON",
@@ -1168,20 +1170,20 @@
       },
       "versions": [
         {
-          "timestamp": 1752404014.0,
-          "version": "4.6 (1080-2fa4940-release)",
-          "versionCode": 1080,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/4.6_1080-2fa4940-release.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/4.6_1080-2fa4940-release.md",
-          "size": 142900
-        },
-        {
           "timestamp": 1771227998.0,
           "version": "5.0 (1294-667f35e-release)",
           "versionCode": 1294,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/5.0_1294-667f35e-release.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/5.0_1294-667f35e-release.md",
           "size": 3668051
+        },
+        {
+          "timestamp": 1775817019.0,
+          "version": "5.1.1 (1444-9ef7449-release)",
+          "versionCode": 1444,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/encore/5.1.1_1444-9ef7449-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/encore/5.1.1_1444-9ef7449-release.md",
+          "size": 2359424
         }
       ]
     },
