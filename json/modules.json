@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1778001427.8879
+    "timestamp": 1778014597.678904
   },
   "modules": [
     {
@@ -153,8 +153,8 @@
     {
       "id": "HyperUnlocked",
       "name": "HyperUnlocked",
-      "version": "v2.1.5",
-      "versionCode": 215,
+      "version": "v2.2.0",
+      "versionCode": 220,
       "author": "ukriu",
       "description": "Unlock high-end Xiaomi features on all of your Xiaomi devices!",
       "categories": [
@@ -175,14 +175,17 @@
         "title": "Currently Supported Devices"
       },
       "added": 0,
-      "timestamp": 1774001196.0,
-      "size": 47577,
+      "timestamp": 1778003644.0,
+      "size": 78647,
       "permissions": [
         "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG",
         "mmrl.permission.APKS"
       ],
       "features": {
         "action": true,
+        "webroot": true,
         "apks": true
       },
       "track": {
@@ -194,20 +197,20 @@
       },
       "versions": [
         {
-          "timestamp": 1773862662.0,
-          "version": "v2.1.4",
-          "versionCode": 214,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.4_214.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.4_214.md",
-          "size": 47570
-        },
-        {
           "timestamp": 1774001196.0,
           "version": "v2.1.5",
           "versionCode": 215,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.5_215.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.1.5_215.md",
           "size": 47577
+        },
+        {
+          "timestamp": 1778003644.0,
+          "version": "v2.2.0",
+          "versionCode": 220,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.2.0_220.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.2.0_220.md",
+          "size": 78647
         }
       ]
     },
