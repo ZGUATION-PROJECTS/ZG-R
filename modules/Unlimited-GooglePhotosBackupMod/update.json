@@ -4,19 +4,19 @@
   "versions": [
     {
       "timestamp": 1746886236.0,
-      "version": "v1.3.3",
-      "versionCode": 1337,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Unlimited-GooglePhotosBackupMod/v1.3.3_1337.zip",
-      "changelog": "",
-      "size": 114355
-    },
-    {
-      "timestamp": 1746886236.0,
       "version": "v1.4.0",
       "versionCode": 1400,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Unlimited-GooglePhotosBackupMod/v1.4.0_1400.zip",
       "changelog": "",
       "size": 114355
+    },
+    {
+      "timestamp": 1764158266.0,
+      "version": "v1.0.1 (7190)",
+      "versionCode": 7190,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Unlimited-GooglePhotosBackupMod/v1.0.1_7190.zip",
+      "changelog": "",
+      "size": 114366
     }
   ]
 }
