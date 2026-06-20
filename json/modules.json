@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1781963159.539754
+    "timestamp": 1781975907.444721
   },
   "modules": [
     {
@@ -71,13 +71,13 @@
     {
       "id": "COPG",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "5.1.1",
-      "versionCode": 511,
+      "version": "5.3.1",
+      "versionCode": 531,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features.",
-      "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/icon.png",
+      "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/webroot/icon.png",
       "support": "https://t.me/TheAOSP",
-      "cover": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/banner.png",
+      "cover": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/module/banner.png",
       "readme": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/README.md",
       "verified": true,
       "categories": [
@@ -89,16 +89,10 @@
       ],
       "license": "Apache-2.0 license",
       "screenshots": [
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/screenshots/Screenshot_20250913-210930_WebUI%20X.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/screenshots/Screenshot_20250913-211418_WebUI%20X.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/screenshots/Screenshot_20250913-211454_WebUI%20X.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/screenshots/Screenshot_20250913-211502_WebUI%20X.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/screenshots/Screenshot_20250913-213048_WebUI%20X.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/screenshots/Screenshot_20250913-211818_WebUI%20X.png",
-        "https://github.com/user-attachments/assets/d9d3398f-5944-44e6-8df6-312e099c9738",
-        "https://github.com/user-attachments/assets/9a9fd8b2-7449-404f-888a-dedeefbe670d",
-        "https://github.com/user-attachments/assets/735aa872-fbf0-4cd1-8299-1989c08b9b80",
-        "https://github.com/AlirezaParsi/COPG/raw/JSON/screenshots/Screenshot_20250914-131838_Free%20Fire%20MAX.png?raw=true"
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121040_KsuWebUI.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121848_WebUI%20X.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121127_KsuWebUI.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121204_KsuWebUI.png"
       ],
       "donate": "https://t.me/COPG_module/72",
       "note": {
@@ -106,8 +100,8 @@
         "message": "Spoof your device for games/apps to unlock new features."
       },
       "added": 0,
-      "timestamp": 1781592118.0,
-      "size": 1910759,
+      "timestamp": 1781966835.0,
+      "size": 1892265,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ZYGISK",
@@ -128,20 +122,20 @@
       },
       "versions": [
         {
-          "timestamp": 1781470118.0,
-          "version": "5.1.0",
-          "versionCode": 510,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.1.0_510.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.1.0_510.md",
-          "size": 1918854
-        },
-        {
           "timestamp": 1781592118.0,
           "version": "5.1.1",
           "versionCode": 511,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.1.1_511.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.1.1_511.md",
           "size": 1910759
+        },
+        {
+          "timestamp": 1781966835.0,
+          "version": "5.3.1",
+          "versionCode": 531,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.3.1_531.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.3.1_531.md",
+          "size": 1892265
         }
       ]
     },
