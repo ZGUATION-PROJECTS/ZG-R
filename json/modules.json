@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1782030154.137925
+    "timestamp": 1782050005.974364
   },
   "modules": [
     {
@@ -400,20 +400,19 @@
     {
       "id": "PIF-Inject",
       "name": "Play Integrity Fix [INJECT]",
-      "version": "v4.5-inject-s",
-      "versionCode": 45,
+      "version": "v4.6-inject-s",
+      "versionCode": 46,
       "author": "chiteroman, KOWX712",
-      "description": "Universal modular fix for Play Integrity on devices running Android 8-16",
+      "description": "Universal modular fix for Play Integrity on devices running Android 8-17",
       "license": "GPL-3.0",
       "readme": "https://raw.githubusercontent.com/KOWX712/PlayIntegrityFix/refs/heads/master/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1774675917.0,
-      "size": 592915,
+      "timestamp": 1782033373.0,
+      "size": 596223,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
-        "magisk.permission.ZYGISK",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
         "mmrl.permission.WEBUI_CONFIG",
@@ -422,7 +421,6 @@
       "features": {
         "service": true,
         "post_fs_data": true,
-        "zygisk": true,
         "action": true,
         "webroot": true
       },
@@ -435,20 +433,20 @@
       },
       "versions": [
         {
-          "timestamp": 1762093943.0,
-          "version": "v4.4-inject-s",
-          "versionCode": 44,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.4-inject-s_44.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.4-inject-s_44.md",
-          "size": 598301
-        },
-        {
           "timestamp": 1774675917.0,
           "version": "v4.5-inject-s",
           "versionCode": 45,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.5-inject-s_45.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.5-inject-s_45.md",
           "size": 592915
+        },
+        {
+          "timestamp": 1782033373.0,
+          "version": "v4.6-inject-s",
+          "versionCode": 46,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.6-inject-s_46.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.6-inject-s_46.md",
+          "size": 596223
         }
       ]
     },
