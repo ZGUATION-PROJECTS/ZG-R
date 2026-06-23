@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1782182242.995428
+    "timestamp": 1782200513.544606
   },
   "modules": [
     {
@@ -1355,8 +1355,8 @@
     {
       "id": "mountify",
       "name": "mountify",
-      "version": "v2.0.1",
-      "versionCode": 201,
+      "version": "v2.0.2",
+      "versionCode": 202,
       "author": "xx, KOWX712",
       "description": "Globally mounted modules via OverlayFS.",
       "metamodule": "true",
@@ -1368,8 +1368,8 @@
       "readme": "https://raw.githubusercontent.com/backslashxx/mountify/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1777944282.0,
-      "size": 553153,
+      "timestamp": 1782186324.0,
+      "size": 555109,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1395,20 +1395,20 @@
       },
       "versions": [
         {
-          "timestamp": 1777863750.0,
-          "version": "v2.0.0",
-          "versionCode": 200,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v2.0.0_200.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v2.0.0_200.md",
-          "size": 553255
-        },
-        {
           "timestamp": 1777944282.0,
           "version": "v2.0.1",
           "versionCode": 201,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v2.0.1_201.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v2.0.1_201.md",
           "size": 553153
+        },
+        {
+          "timestamp": 1782186324.0,
+          "version": "v2.0.2",
+          "versionCode": 202,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/mountify/v2.0.2_202.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/mountify/v2.0.2_202.md",
+          "size": 555109
         }
       ]
     },
