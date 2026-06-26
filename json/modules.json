@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1782482974.292528
+    "timestamp": 1782495712.772906
   },
   "modules": [
     {
@@ -71,8 +71,8 @@
     {
       "id": "COPG",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "5.3.1",
-      "versionCode": 531,
+      "version": "5.4.0",
+      "versionCode": 540,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features.",
       "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/webroot/icon.png",
@@ -100,8 +100,8 @@
         "message": "Spoof your device for games/apps to unlock new features."
       },
       "added": 0,
-      "timestamp": 1781966835.0,
-      "size": 1892265,
+      "timestamp": 1782495307.0,
+      "size": 1915947,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ZYGISK",
@@ -122,20 +122,20 @@
       },
       "versions": [
         {
-          "timestamp": 1781592118.0,
-          "version": "5.1.1",
-          "versionCode": 511,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.1.1_511.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.1.1_511.md",
-          "size": 1910759
-        },
-        {
           "timestamp": 1781966835.0,
           "version": "5.3.1",
           "versionCode": 531,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.3.1_531.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.3.1_531.md",
           "size": 1892265
+        },
+        {
+          "timestamp": 1782495307.0,
+          "version": "5.4.0",
+          "versionCode": 540,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.4.0_540.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.4.0_540.md",
+          "size": 1915947
         }
       ]
     },
