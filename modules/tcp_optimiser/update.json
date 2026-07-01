@@ -3,20 +3,20 @@
   "timestamp": 1749037449.0,
   "versions": [
     {
-      "timestamp": 1760711791.0,
-      "version": "2.3",
-      "versionCode": 15,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.3_15.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.3_15.md",
-      "size": 23114
-    },
-    {
       "timestamp": 1781348527.0,
       "version": "2.4",
       "versionCode": 16,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.4_16.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.4_16.md",
       "size": 25446
+    },
+    {
+      "timestamp": 1782883536.0,
+      "version": "2.5",
+      "versionCode": 17,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.5_17.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/tcp_optimiser/2.5_17.md",
+      "size": 396040
     }
   ]
 }
