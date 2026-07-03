@@ -9,14 +9,14 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1783086512.884718
+    "timestamp": 1783099025.567976
   },
   "modules": [
     {
       "id": "BCR",
       "name": "BCR",
-      "version": "v3.3",
-      "versionCode": 197376,
+      "version": "v3.4",
+      "versionCode": 197632,
       "author": "chenxiaolong",
       "description": "Basic Call Recorder",
       "minApi": 28,
@@ -30,8 +30,8 @@
       "readme": "https://raw.githubusercontent.com/chenxiaolong/BCR/refs/heads/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1782515944.0,
-      "size": 2822406,
+      "timestamp": 1783096881.0,
+      "size": 2822844,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -51,28 +51,28 @@
       },
       "versions": [
         {
-          "timestamp": 1781457542.0,
-          "version": "v3.2",
-          "versionCode": 197120,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.2_197120.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.2_197120.md",
-          "size": 2803531
-        },
-        {
           "timestamp": 1782515944.0,
           "version": "v3.3",
           "versionCode": 197376,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.3_197376.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.3_197376.md",
           "size": 2822406
+        },
+        {
+          "timestamp": 1783096881.0,
+          "version": "v3.4",
+          "versionCode": 197632,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.4_197632.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.4_197632.md",
+          "size": 2822844
         }
       ]
     },
     {
       "id": "COPG",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "5.4.0",
-      "versionCode": 540,
+      "version": "5.5.1",
+      "versionCode": 551,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features.",
       "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/webroot/icon.png",
@@ -100,13 +100,14 @@
         "message": "Spoof your device for games/apps to unlock new features."
       },
       "added": 0,
-      "timestamp": 1782495307.0,
-      "size": 1915947,
+      "timestamp": 1783087125.0,
+      "size": 1787902,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ZYGISK",
         "kernelsu.permission.WEBUI",
-        "mmrl.permission.WEBUI_CONFIG"
+        "mmrl.permission.WEBUI_CONFIG",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
@@ -122,20 +123,20 @@
       },
       "versions": [
         {
-          "timestamp": 1781966835.0,
-          "version": "5.3.1",
-          "versionCode": 531,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.3.1_531.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.3.1_531.md",
-          "size": 1892265
-        },
-        {
           "timestamp": 1782495307.0,
           "version": "5.4.0",
           "versionCode": 540,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.4.0_540.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.4.0_540.md",
           "size": 1915947
+        },
+        {
+          "timestamp": 1783087125.0,
+          "version": "5.5.1",
+          "versionCode": 551,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.5.1_551.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/5.5.1_551.md",
+          "size": 1787902
         }
       ]
     },
