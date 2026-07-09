@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1783582292.596027
+    "timestamp": 1783594386.115005
   },
   "modules": [
     {
@@ -1851,8 +1851,8 @@
     {
       "id": "zygisk-detach",
       "name": "zygisk-detach",
-      "version": "v1.23.1",
-      "versionCode": 33,
+      "version": "v1.23.2",
+      "versionCode": 34,
       "author": "j-hc",
       "description": "Detaches installed apps from Play Store",
       "added": 1716564516.209616,
@@ -1868,8 +1868,8 @@
         "zygisk-assistant"
       ],
       "verified": false,
-      "timestamp": 1775565126.0,
-      "size": 370346,
+      "timestamp": 1783594311.0,
+      "size": 370347,
       "permissions": [
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ZYGISK",
@@ -1889,20 +1889,20 @@
       },
       "versions": [
         {
-          "timestamp": 1775245184.0,
-          "version": "v1.23.0",
-          "versionCode": 32,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.23.0_32.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.23.0_32.md",
-          "size": 370326
-        },
-        {
           "timestamp": 1775565126.0,
           "version": "v1.23.1",
           "versionCode": 33,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.23.1_33.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.23.1_33.md",
           "size": 370346
+        },
+        {
+          "timestamp": 1783594311.0,
+          "version": "v1.23.2",
+          "versionCode": 34,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.23.2_34.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.23.2_34.md",
+          "size": 370347
         }
       ]
     }
