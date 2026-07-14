@@ -4,6 +4,44 @@
 #### **Telegram Channel**:
 - https://t.me/COPG_module
 ---
+## v5.8.0
+### Hide VPN — reworked (fixes crashes with LSPosed)
+*   **Fixes the crash some phones saw after v5.7.9.** The previous "system-service" VPN hide installed a hook inside Android's system_server, which clashed with LSPosed (both hook the same core runtime) and could crash LSPosed on some devices while working on others. That path is **removed**. VPN hide now runs **per-app only** — no system_server hook, so LSPosed is left alone.
+*   **VPN hide is now an in-app hook.** Turning on **Hide VPN** hooks the app's own network APIs (ConnectivityManager / NetworkCapabilities / NetworkInfo / LinkProperties / NetworkInterface) and strips the VPN out. Because it runs inside the app, it is **resident and detectable**: a strict anti-cheat can spot it and may **ban you**, and hardened anti-tamper apps (banking / Play-Integrity / pairip) can **crash** with it on. So the toggle now sits behind a red *"use at your own risk"* confirmation — use it only for normal device-info / network apps, **never** for competitive games or banking. (The old "safe for banking" system-service mode no longer exists.)
+*   **Simpler VPN control.** The separate **Deep hide** sub-toggle was removed — the base Hide VPN is already resident, so the extra layer was the same risk class. One toggle now. Runs on **arm64 and arm32**.
+
+### Hide Developer Options — now also hides USB debugging from bank apps
+*   **Covers the properties, not just the settings.** Hardened apps (e.g. some banks) don't read Developer Options through the normal Android Settings — their native protection reads the **USB-debugging system properties** (`sys.usb.config`, `adbd`, …) directly, so **Hide Developer Options** used to be bypassed even with it on. It now also spoofs those properties to a non-debug state, per app, still fully stealth (nothing of COPG stays in memory). So a bank app that refused to run with USB debugging on should now start normally. Still **free**.
+
+---
+## v5.7.9
+### Hide Developer Options & USB Debugging — new, free
+*   **Make an app think Developer Options are off.** A new **Hide Developer Options** toggle in the package editor makes the app read Developer Options *and* USB Debugging as **OFF** even while they're on — handy for apps that refuse to run or nag when they detect a developer phone.
+*   **Fully stealth, safe for anti-cheat.** The value is forged in the app's own settings cache and the module unloads before the app runs, so **nothing of COPG stays in memory** — anti-cheat scans see a clean process. It covers the standard settings check apps use; a hardened app that reads the settings provider directly can still see the real state. **Free** — no PRO license needed.
+
+### Hide VPN — new, free
+*   **Hide that you're on a VPN.** A new **Hide VPN** toggle stops an app from seeing an active VPN — the system reports no VPN connection, so apps that block or limit VPN users behave normally.
+*   **Safe for banking & anti-tamper apps.** Hide VPN runs entirely inside Android's system service, stripping the VPN out of the network info *before* it reaches the app — nothing of COPG runs inside the app itself. Banking / Play-Integrity / pairip-protected apps won't crash and can't detect it by scanning their own memory. Covers the standard connectivity checks. **Free**, off by default.
+*   **Deep hide (optional, risky).** A sub-switch adds a full in-app hook that also covers apps which read the raw network-interface list (e.g. device-info tools that see "tun0"). This layer stays mapped in the app, so a strict anti-cheat CAN detect it and may **ban you** — the bigger risk — and hardened anti-tamper apps will crash with it on. It sits behind a red *"use at your own risk"* confirmation and should **never** be used on anti-cheat games. Runs on **arm64 and arm32**.
+
+### Share a device setup as a code — new, free
+*   **Send a whole device to anyone with one code.** Every device now has a **Share** button that turns its full identity — brand, model, fingerprint, build fields, serial, Android ID seed and the rest — into a short code you can copy and send. The other person taps **Import**, pastes it, and the device appears instantly: no more typing every field by hand. Free, and works even in browser preview.
+*   **Share the games too, if you want.** When you share a device that has packages, an **"Include packages"** switch also sends its app list — with each app's spoof settings (CPU / GPU / COW / Android ID / tweaks) — so the other person gets your exact per-app setup, not just the bare device.
+*   **No accidental duplicates.** If a shared package already belongs to another device on the importer's phone, COPG asks whether to **move it to the new device** or **keep it on the existing one**. A package can only live on one device, so your spoofs stay correct instead of clashing.
+
+### Set an exact Android ID per app
+*   **Pin a specific Android ID.** Besides the automatic per-app Android ID, you can now type or generate an **exact 16-character Android ID** for a single app — no device seed needed — for example to make a second phone read the same ID as your first.
+
+### New device profile
+*   **Galaxy Tab S9 Ultra — unlock 120 FPS in BGMI / PUBG Mobile.** Added the Samsung Galaxy Tab S9 Ultra (Snapdragon 8 Gen 2) profile with **BGMI pre-assigned to it**. Spoofing your device as the Tab S9 Ultra makes BGMI / PUBG Mobile offer the **120 FPS** graphics option that is normally locked to a short list of flagship devices. The CPU stays real (ban-safe) — only the device identity is faked, and you can send this whole setup to a friend with the new device-share code.
+
+### Fixes
+*   **No more boot loops.** A build change in a recent version could leave some setups (certain Magisk / Kitsune configurations) stuck in a boot loop. That change has been reverted — the module boots cleanly again.
+*   **CPU spoof stays applied when you switch apps.** The spoofed `/proc/cpuinfo` could fall back to the real CPU after you left a game and returned to it. COPG now re-applies the fake CPU while the game is in the foreground, so it sticks across app switches.
+
+### Other
+*   **Clearer Android ID help, fully translated.** The Android ID descriptions now explain that the device field is a *seed* and that a per-app exact ID needs no seed. All new text — hide developer options, VPN hide, device sharing — is translated across every supported language.
+
 ## v5.7.1
 ### Hide mock location — new PRO feature, per app
 *   **Make an app accept your mock GPS as real.** A new **Hide Mock Location** toggle in the package editor stops an app from seeing that your location comes from a GPS-spoofer / joystick app — `Location.isMock()` and the mock-provider flag read false, so location apps and games treat the coordinates as genuine.
