@@ -9,14 +9,14 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1787243240.207818
+    "timestamp": 1787257188.266175
   },
   "modules": [
     {
       "id": "BCR",
       "name": "BCR",
-      "version": "v3.6",
-      "versionCode": 198144,
+      "version": "v3.7",
+      "versionCode": 198400,
       "author": "chenxiaolong",
       "description": "Basic Call Recorder",
       "minApi": 28,
@@ -30,8 +30,8 @@
       "readme": "https://raw.githubusercontent.com/chenxiaolong/BCR/refs/heads/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1786136954.0,
-      "size": 2822930,
+      "timestamp": 1787248391.0,
+      "size": 2795751,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -51,20 +51,20 @@
       },
       "versions": [
         {
-          "timestamp": 1784337578.0,
-          "version": "v3.5",
-          "versionCode": 197888,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.5_197888.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.5_197888.md",
-          "size": 2823094
-        },
-        {
           "timestamp": 1786136954.0,
           "version": "v3.6",
           "versionCode": 198144,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.6_198144.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.6_198144.md",
           "size": 2822930
+        },
+        {
+          "timestamp": 1787248391.0,
+          "version": "v3.7",
+          "versionCode": 198400,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.7_198400.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/BCR/v3.7_198400.md",
+          "size": 2795751
         }
       ]
     },
