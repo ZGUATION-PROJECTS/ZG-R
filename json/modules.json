@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1787689191.87311
+    "timestamp": 1787705577.317797
   },
   "modules": [
     {
@@ -1764,16 +1764,16 @@
     {
       "id": "trickystore_OSS",
       "name": "Tricky Store OSS",
-      "version": "v2.1.0 (41-b8b03e4-release)",
-      "versionCode": 41,
+      "version": "v3.1.0 (172-41383f5-release)",
+      "versionCode": 172,
       "author": "beakthoven",
       "description": "A trick of keystore but open source.",
       "minApi": 29,
       "readme": "https://raw.githubusercontent.com/beakthoven/TrickyStoreOSS/refs/heads/master/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1754929127.0,
-      "size": 1208592,
+      "timestamp": 1787691398.0,
+      "size": 1289252,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1800,6 +1800,14 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/trickystore_OSS/v2.1.0_41-b8b03e4-release.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/trickystore_OSS/v2.1.0_41-b8b03e4-release.md",
           "size": 1208592
+        },
+        {
+          "timestamp": 1787691398.0,
+          "version": "v3.1.0 (172-41383f5-release)",
+          "versionCode": 172,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/trickystore_OSS/v3.1.0_172-41383f5-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/trickystore_OSS/v3.1.0_172-41383f5-release.md",
+          "size": 1289252
         }
       ]
     },
