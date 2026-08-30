@@ -3,20 +3,20 @@
   "timestamp": 1746679502.0,
   "versions": [
     {
-      "timestamp": 1786957732.0,
-      "version": "v2.1.1",
-      "versionCode": 211,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.1.1_211.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.1.1_211.md",
-      "size": 489003
-    },
-    {
       "timestamp": 1787919717.0,
       "version": "v2.2.1",
       "versionCode": 221,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.2.1_221.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.2.1_221.md",
       "size": 495879
+    },
+    {
+      "timestamp": 1788054473.0,
+      "version": "v2.2.2",
+      "versionCode": 222,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.2.2_222.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.2.2_222.md",
+      "size": 495892
     }
   ]
 }
