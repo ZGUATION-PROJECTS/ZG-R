@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1788462044.870572
+    "timestamp": 1788473176.338126
   },
   "modules": [
     {
@@ -71,8 +71,8 @@
     {
       "id": "COPG",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "6.7.0",
-      "versionCode": 670,
+      "version": "6.8.0",
+      "versionCode": 680,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features.",
       "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/webroot/icon.png",
@@ -100,8 +100,8 @@
         "message": "Spoof your device for games/apps to unlock new features."
       },
       "added": 0,
-      "timestamp": 1788173104.0,
-      "size": 11435525,
+      "timestamp": 1788471998.0,
+      "size": 11504499,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.ZYGISK",
@@ -123,20 +123,20 @@
       },
       "versions": [
         {
-          "timestamp": 1787679543.0,
-          "version": "6.6.0",
-          "versionCode": 660,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/6.6.0_660.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/6.6.0_660.md",
-          "size": 9565421
-        },
-        {
           "timestamp": 1788173104.0,
           "version": "6.7.0",
           "versionCode": 670,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/6.7.0_670.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/6.7.0_670.md",
           "size": 11435525
+        },
+        {
+          "timestamp": 1788471998.0,
+          "version": "6.8.0",
+          "versionCode": 680,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/6.8.0_680.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/6.8.0_680.md",
+          "size": 11504499
         }
       ]
     },
