@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1789635874.881884
+    "timestamp": 1789660776.332708
   },
   "modules": [
     {
@@ -673,8 +673,8 @@
     {
       "id": "SMTW",
       "name": "SuperMario Tweaker",
-      "version": "v5.1.0",
-      "versionCode": 510,
+      "version": "v5.1.1",
+      "versionCode": 511,
       "author": "MRX7014",
       "description": "A tweaker module that can improve any device performance and stability (Gaming, Daily Useage, etc...)",
       "categories": [
@@ -689,16 +689,18 @@
       "readme": "https://github.com/mrx7014/SuperMario-Tweaker#readme",
       "verified": false,
       "added": 0,
-      "timestamp": 1787917241.0,
-      "size": 422958,
+      "timestamp": 1789650791.0,
+      "size": 288089,
       "permissions": [
         "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI"
       ],
       "features": {
         "service": true,
+        "post_fs_data": true,
         "resetprop": true,
         "action": true,
         "webroot": true
@@ -712,20 +714,20 @@
       },
       "versions": [
         {
-          "timestamp": 1750455154.0,
-          "version": "v3.0.1",
-          "versionCode": 301,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v3.0.1_301.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v3.0.1_301.md",
-          "size": 3283646
-        },
-        {
           "timestamp": 1787917241.0,
           "version": "v5.1.0",
           "versionCode": 510,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v5.1.0_510.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v5.1.0_510.md",
           "size": 422958
+        },
+        {
+          "timestamp": 1789650791.0,
+          "version": "v5.1.1",
+          "versionCode": 511,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v5.1.1_511.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/SMTW/v5.1.1_511.md",
+          "size": 288089
         }
       ]
     },
