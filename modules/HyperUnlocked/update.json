@@ -3,20 +3,20 @@
   "timestamp": 1763801319.0,
   "versions": [
     {
-      "timestamp": 1778067807.0,
-      "version": "v2.2.1",
-      "versionCode": 221,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.2.1_221.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.2.1_221.md",
-      "size": 78650
-    },
-    {
       "timestamp": 1781893095.0,
       "version": "v2.2.2",
       "versionCode": 222,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.2.2_222.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.2.2_222.md",
       "size": 79778
+    },
+    {
+      "timestamp": 1789800481.0,
+      "version": "v2.3.0",
+      "versionCode": 230,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.3.0_230.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.3.0_230.md",
+      "size": 80319
     }
   ]
 }
