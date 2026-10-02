@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1790961133.627194
+    "timestamp": 1790983732.327863
   },
   "modules": [
     {
@@ -1610,16 +1610,16 @@
     {
       "id": "systemapp_nuker",
       "name": "App Nuker",
-      "version": "v2.2.4",
-      "versionCode": 224,
+      "version": "v2.2.5",
+      "versionCode": 225,
       "author": "ChiseWaguri & Contributors",
       "description": "WebUI-based debloater and whiteout creator",
       "support": "https://github.com/ChiseWaguri/systemapp_nuker/issues",
       "readme": "https://raw.githubusercontent.com/ChiseWaguri/systemapp_nuker/main/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1790847741.0,
-      "size": 500089,
+      "timestamp": 1790969582.0,
+      "size": 783295,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -1642,20 +1642,20 @@
       },
       "versions": [
         {
-          "timestamp": 1790775981.0,
-          "version": "v2.2.3",
-          "versionCode": 223,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.2.3_223.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.2.3_223.md",
-          "size": 499469
-        },
-        {
           "timestamp": 1790847741.0,
           "version": "v2.2.4",
           "versionCode": 224,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.2.4_224.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.2.4_224.md",
           "size": 500089
+        },
+        {
+          "timestamp": 1790969582.0,
+          "version": "v2.2.5",
+          "versionCode": 225,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.2.5_225.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/systemapp_nuker/v2.2.5_225.md",
+          "size": 783295
         }
       ]
     },
