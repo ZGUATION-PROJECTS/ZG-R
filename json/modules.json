@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1791518376.465031
+    "timestamp": 1791544332.331031
   },
   "modules": [
     {
@@ -71,8 +71,8 @@
     {
       "id": "COPG",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "7.5.0",
-      "versionCode": 750,
+      "version": "7.5.1",
+      "versionCode": 751,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features. Website: https://vendors.copg.my",
       "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/webroot/icon.png",
@@ -101,8 +101,8 @@
         "message": "Advanced Android customization & spoofing \u2014 device, app, and system-level control with ROM-level capabilities."
       },
       "added": 0,
-      "timestamp": 1791482916.0,
-      "size": 9082458,
+      "timestamp": 1791525480.0,
+      "size": 9083199,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.SEPOLICY",
@@ -126,20 +126,20 @@
       },
       "versions": [
         {
-          "timestamp": 1790691384.0,
-          "version": "7.3.0",
-          "versionCode": 730,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.3.0_730.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.3.0_730.md",
-          "size": 8234942
-        },
-        {
           "timestamp": 1791482916.0,
           "version": "7.5.0",
           "versionCode": 750,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.5.0_750.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.5.0_750.md",
           "size": 9082458
+        },
+        {
+          "timestamp": 1791525480.0,
+          "version": "7.5.1",
+          "versionCode": 751,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.5.1_751.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.5.1_751.md",
+          "size": 9083199
         }
       ]
     },
