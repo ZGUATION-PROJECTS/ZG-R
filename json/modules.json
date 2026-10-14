@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1791994650.980188
+    "timestamp": 1792018488.980345
   },
   "modules": [
     {
@@ -146,8 +146,8 @@
     {
       "id": "HyperUnlocked",
       "name": "HyperUnlocked",
-      "version": "v2.3.1",
-      "versionCode": 231,
+      "version": "v2.3.2",
+      "versionCode": 232,
       "author": "ukriu",
       "description": "Unlock high-end Xiaomi features on all of your Xiaomi devices!",
       "categories": [
@@ -168,8 +168,8 @@
         "title": "Currently Supported Devices"
       },
       "added": 0,
-      "timestamp": 1790178640.0,
-      "size": 80320,
+      "timestamp": 1792004361.0,
+      "size": 80321,
       "permissions": [
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
@@ -190,20 +190,20 @@
       },
       "versions": [
         {
-          "timestamp": 1789800481.0,
-          "version": "v2.3.0",
-          "versionCode": 230,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.3.0_230.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.3.0_230.md",
-          "size": 80319
-        },
-        {
           "timestamp": 1790178640.0,
           "version": "v2.3.1",
           "versionCode": 231,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.3.1_231.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.3.1_231.md",
           "size": 80320
+        },
+        {
+          "timestamp": 1792004361.0,
+          "version": "v2.3.2",
+          "versionCode": 232,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.3.2_232.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/HyperUnlocked/v2.3.2_232.md",
+          "size": 80321
         }
       ]
     },
