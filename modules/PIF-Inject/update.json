@@ -3,20 +3,20 @@
   "timestamp": 1752336725.0,
   "versions": [
     {
-      "timestamp": 1783849380.0,
-      "version": "v4.7-1-inject-s",
-      "versionCode": 471,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.7-1-inject-s_471.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.7-1-inject-s_471.md",
-      "size": 660329
-    },
-    {
       "timestamp": 1791812983.0,
       "version": "v4.8-inject-s",
       "versionCode": 480,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.8-inject-s_480.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.8-inject-s_480.md",
       "size": 691564
+    },
+    {
+      "timestamp": 1792073460.0,
+      "version": "v4.9-inject-s",
+      "versionCode": 490,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.9-inject-s_490.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/PIF-Inject/v4.9-inject-s_490.md",
+      "size": 692511
     }
   ]
 }
