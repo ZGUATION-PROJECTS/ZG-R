@@ -3,20 +3,20 @@
   "timestamp": 1744322299.0,
   "versions": [
     {
-      "timestamp": 1791525480.0,
-      "version": "7.5.1",
-      "versionCode": 751,
-      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.5.1_751.zip",
-      "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.5.1_751.md",
-      "size": 9083199
-    },
-    {
       "timestamp": 1792730233.0,
       "version": "7.6.0",
       "versionCode": 760,
       "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.6.0_760.zip",
       "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.6.0_760.md",
       "size": 9004431
+    },
+    {
+      "timestamp": 1792905111.0,
+      "version": "7.6.1",
+      "versionCode": 761,
+      "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.6.1_761.zip",
+      "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.6.1_761.md",
+      "size": 10511947
     }
   ]
 }
