@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1793654045.041285
+    "timestamp": 1793681485.808358
   },
   "modules": [
     {
@@ -512,8 +512,8 @@
     {
       "id": "PlayIntegrityFork",
       "name": "Play Integrity Fork",
-      "version": "v18",
-      "versionCode": 180000,
+      "version": "v19",
+      "versionCode": 190000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix Play Integrity <A13 verdicts and Google Wallet/RCS on Android 7+",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -521,8 +521,8 @@
       "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/master/README.md",
       "verified": true,
       "added": 0,
-      "timestamp": 1788024801.0,
-      "size": 227895,
+      "timestamp": 1793670968.0,
+      "size": 341951,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -543,20 +543,20 @@
       },
       "versions": [
         {
-          "timestamp": 1781984199.0,
-          "version": "v17",
-          "versionCode": 170000,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v17_170000.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v17_170000.md",
-          "size": 285020
-        },
-        {
           "timestamp": 1788024801.0,
           "version": "v18",
           "versionCode": 180000,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v18_180000.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v18_180000.md",
           "size": 227895
+        },
+        {
+          "timestamp": 1793670968.0,
+          "version": "v19",
+          "versionCode": 190000,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v19_190000.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFork/v19_190000.md",
+          "size": 341951
         }
       ]
     },
