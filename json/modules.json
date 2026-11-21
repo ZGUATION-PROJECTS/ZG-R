@@ -9,7 +9,7 @@
   "description": "A wonderful collection of useful modules that are known or considered as hidden gems, all in one repo, It also contains ZG089's projects (modules) as well.",
   "metadata": {
     "version": 1,
-    "timestamp": 1795262232.239087
+    "timestamp": 1795286521.674207
   },
   "modules": [
     {
@@ -71,8 +71,8 @@
     {
       "id": "COPG",
       "name": "\u2728 COPG SPOOF \u2728",
-      "version": "7.7.2",
-      "versionCode": 772,
+      "version": "7.8.2",
+      "versionCode": 782,
       "author": "AlirezaParsi",
       "description": "Spoof your device for games/apps to unlock new features. Website: https://vendors.copg.my",
       "icon": "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/JSON/webroot/icon.png",
@@ -90,10 +90,10 @@
       ],
       "license": "Apache-2.0 license",
       "screenshots": [
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121040_KsuWebUI.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121848_WebUI%20X.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121127_KsuWebUI.png",
-        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260614-121204_KsuWebUI.png"
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260702-162602_WebUI%20X.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260703-114658_WebUI%20X.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260711-113747_WebUI%20X.png",
+        "https://raw.githubusercontent.com/AlirezaParsi/COPG/refs/heads/screenshots/Screenshot_20260712-032329_WebUI%20X.png"
       ],
       "donate": "https://t.me/COPG_module/72",
       "note": {
@@ -101,8 +101,8 @@
         "message": "Advanced Android customization & spoofing \u2014 device, app, and system-level control with ROM-level capabilities."
       },
       "added": 0,
-      "timestamp": 1794235264.0,
-      "size": 10634913,
+      "timestamp": 1795269770.0,
+      "size": 11548251,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.SEPOLICY",
@@ -126,20 +126,20 @@
       },
       "versions": [
         {
-          "timestamp": 1794125926.0,
-          "version": "7.7.1",
-          "versionCode": 771,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.7.1_771.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.7.1_771.md",
-          "size": 10550305
-        },
-        {
           "timestamp": 1794235264.0,
           "version": "7.7.2",
           "versionCode": 772,
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.7.2_772.zip",
           "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.7.2_772.md",
           "size": 10634913
+        },
+        {
+          "timestamp": 1795269770.0,
+          "version": "7.8.2",
+          "versionCode": 782,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.8.2_782.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/COPG/7.8.2_782.md",
+          "size": 11548251
         }
       ]
     },
